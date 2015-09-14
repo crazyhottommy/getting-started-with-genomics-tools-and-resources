@@ -8,5 +8,13 @@ There are many online web based tools for visualization of (cancer) genomic data
 * 
 
 ### Tutorials
+
 * [Survival analysis of TCGA patients integrating gene expression (RNASeq) data](https://www.biostars.org/p/153013/)
+* [Bedtools tutorial](http://quinlanlab.org/tutorials/cshl2013/bedtools.html)  
+* [Gemini](http://gemini.readthedocs.org/en/latest/#tutorials) explores your vcf, and [slides](https://speakerdeck.com/arq5x).
+* [GNU parallel](https://www.biostars.org/p/63816/)  
+* [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/). Learn R and bioconductor.
+* [PCA, MDS, k-means, Hierarchical clustering and heatmap](https://rpubs.com/crazyhottommy/PCA_MDS). I wrote it.
+* [Learning bash scripting for beginners](http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)  
+* [Tutorial: Machine Learning For Cancer Classification](https://www.biostars.org/p/85124/). It has four parts. 
 * 
