@@ -22,7 +22,8 @@ There are many online web based tools for visualization of (cancer) genomic data
 * [Gemini](http://gemini.readthedocs.org/en/latest/#tutorials) explores your vcf, and [slides](https://speakerdeck.com/arq5x).
 * [GNU parallel](https://www.biostars.org/p/63816/)  
 * 
-#### automate your workflow
+
+### Automate your workflow
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
 * [STAT545 Automating data analysis pipelines](https://stat545-ubc.github.io/automation00_index.html)
 
