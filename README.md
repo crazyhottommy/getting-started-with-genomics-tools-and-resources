@@ -9,7 +9,9 @@ There are many online web based tools for visualization of (cancer) genomic data
 
 ### Databases
 * [DisGeNET](http://www.disgenet.org/web/DisGeNET/menu/home?utm_source=twitterfeed&utm_medium=twitter) is a discovery platform integrating information on gene-disease associations (GDAs) from several public data sources and the literature
-* 
+* [Cancer3D](http://cancer3d.org/) is a database that unites information on somatic missense mutations from TCGA and CCLE, allowing users to explore two different cancer-related problems at the same time: drug sensitivity/biomarker identification and prediction of cancer drivers
+* [clinical intepretations of variants in cancer](https://civic.genome.wustl.edu/#/home)
+* [BioGrid](http://thebiogrid.org/) Welcome to the Biological General Repository for Interaction Datasets
 
 ### Large data consortium data mining
 
