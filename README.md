@@ -1,3 +1,9 @@
+### Linux commands
+*[A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs) from Heng Li  
+*[Linux command line exercises for NGS data processing](http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/linux.html)  
+*[bash one-liners for bioinformatics](https://github.com/crazyhottommy/oneliners)  
+*[some of my bash one-liner collections](https://github.com/crazyhottommy/scripts-general-use/blob/master/Shell/bioinformatics_one_liner.md)
+
 ### Genomics-visualization-tools
 
 There are many online web based tools for visualization of (cancer) genomic data. I put my collections here.
