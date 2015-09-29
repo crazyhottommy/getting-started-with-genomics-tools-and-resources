@@ -3,6 +3,7 @@
 * [Linux command line exercises for NGS data processing](http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/linux.html)  
 * [bash one-liners for bioinformatics](https://github.com/crazyhottommy/oneliners)  
 * [some of my bash one-liner collections](https://github.com/crazyhottommy/scripts-general-use/blob/master/Shell/bioinformatics_one_liner.md)
+* [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
 ### Genomics-visualization-tools
 
