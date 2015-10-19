@@ -20,6 +20,8 @@ There are many online web based tools for visualization of (cancer) genomic data
 * [Cancer3D](http://cancer3d.org/) is a database that unites information on somatic missense mutations from TCGA and CCLE, allowing users to explore two different cancer-related problems at the same time: drug sensitivity/biomarker identification and prediction of cancer drivers
 * [clinical intepretations of variants in cancer](https://civic.genome.wustl.edu/#/home)
 * [BioGrid](http://thebiogrid.org/) Welcome to the Biological General Repository for Interaction Datasets
+* [The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands](http://nar.oxfordjournals.org/content/early/2015/10/11/nar.gkv1037.short?rss=1)
+* [Public data and open source tools for multi-assay genomic investigation of disease](http://bib.oxfordjournals.org/content/early/2015/10/10/bib.bbv080.long)
 
 ### Large data consortium data mining
 
