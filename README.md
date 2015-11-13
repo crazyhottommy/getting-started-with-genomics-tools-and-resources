@@ -41,7 +41,7 @@ There are many online web based tools for visualization of (cancer) genomic data
 * [Bedtools tutorial](http://quinlanlab.org/tutorials/cshl2013/bedtools.html)  
 * [Gemini](http://gemini.readthedocs.org/en/latest/#tutorials) explores your vcf, and [slides](https://speakerdeck.com/arq5x).
 * [GNU parallel](https://www.biostars.org/p/63816/)  
-* 
+* [A Tutorial on Principal Component Analysis](http://arxiv.org/abs/1404.1100)  
 
 ### Automate your workflow
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
