@@ -42,6 +42,16 @@ There are many online web based tools for visualization of (cancer) genomic data
 * [Gemini](http://gemini.readthedocs.org/en/latest/#tutorials) explores your vcf, and [slides](https://speakerdeck.com/arq5x).
 * [GNU parallel](https://www.biostars.org/p/63816/)  
 * [A Tutorial on Principal Component Analysis](http://arxiv.org/abs/1404.1100)  
+* 
+
+#### R packages for data wrangling, tidying and visualizing.  
+
+* [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
+* [readr](https://github.com/hadley/readr)  
+* [tidyr](https://github.com/hadley/tidyr)  
+* [dplry](https://github.com/hadley/dplyr)  
+* [ggplot2](https://github.com/hadley/ggplot2)
+* [complexHeatmaps](https://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html)  
 
 ### Automate your workflow
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
