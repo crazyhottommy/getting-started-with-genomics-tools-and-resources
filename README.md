@@ -24,6 +24,7 @@ There are many online web based tools for visualization of (cancer) genomic data
 * [The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands](http://nar.oxfordjournals.org/content/early/2015/10/11/nar.gkv1037.short?rss=1)
 * [Public data and open source tools for multi-assay genomic investigation of disease](http://bib.oxfordjournals.org/content/early/2015/10/10/bib.bbv080.long)
 * [cancer cell metabolism genes](http://bioinfo.mc.vanderbilt.edu/ccmGDB/index.html)
+* [oncogenes and tumor suppressors](https://www.biostars.org/p/15890/) biostar post and [TSgene](http://bioinfo.mc.vanderbilt.edu/TSGene/index.html)  
 
 ### Large data consortium data mining
 
