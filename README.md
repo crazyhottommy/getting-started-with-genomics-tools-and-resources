@@ -44,6 +44,7 @@ There are many online web based tools for visualization of (cancer) genomic data
 * [Gemini](http://gemini.readthedocs.org/en/latest/#tutorials) explores your vcf, and [slides](https://speakerdeck.com/arq5x).
 * [GNU parallel](https://www.biostars.org/p/63816/)  
 * [A Tutorial on Principal Component Analysis](http://arxiv.org/abs/1404.1100)  
+* [StatQuest: PCA clearly explained](https://www.youtube.com/watch?v=fRiEZWQ-WT8)
 * [Computing Workflows for Biologists: A Roadmap](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303)  
 * [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 
