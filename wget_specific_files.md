@@ -12,9 +12,9 @@ Use `wget` !  It is a very versatile command and I just got to know several tric
            Specify recursion maximum depth level depth.  The default maximum depth is 5.
 
 **You can specify what files you want to download or reject using wild cards:**   
- > Recursive Accept/Reject Options
-       -A acclist --accept acclist  
-       -R rejlist --reject rejlist  
+ > Recursive Accept/Reject Options  
+       -A acclist --accept acclist    
+       -R rejlist --reject rejlist    
            Specify comma-separated lists of file name suffixes or patterns to accept or
            reject. Note that if any of the wildcard characters, *, ?, [ or ], appear in
            an element of acclist or rejlist, it will be treated as a pattern, rather
@@ -22,7 +22,7 @@ Use `wget` !  It is a very versatile command and I just got to know several tric
            
 **If you want to save the file to a different name:**  
 > -O file
-       --output-document=file
+       --output-document=file  
            The documents will not be written to the appropriate files, but all will be
            concatenated together and written to file.  If - is used as file, documents
            will be printed to standard output, disabling link conversion.  (Use ./- to
