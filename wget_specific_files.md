@@ -13,8 +13,8 @@ Use `wget` !  It is a very versatile command and I just got to know several tric
 
 **You can specify what files you want to download or reject using wild cards:**   
  > Recursive Accept/Reject Options
-       -A acclist --accept acclist
-       -R rejlist --reject rejlist
+       -A acclist --accept acclist  
+       -R rejlist --reject rejlist  
            Specify comma-separated lists of file name suffixes or patterns to accept or
            reject. Note that if any of the wildcard characters, *, ?, [ or ], appear in
            an element of acclist or rejlist, it will be treated as a pattern, rather
@@ -51,7 +51,7 @@ Use `wget` !  It is a very versatile command and I just got to know several tric
 **If you do not need the folder structure:**
 
 > -nd
-       --no-directories
+       --no-directories  
            Do not create a hierarchy of directories when retrieving
            recursively.  With this option turned on, all files will get saved
            to the current directory, without clobbering (if a name shows up
@@ -61,17 +61,17 @@ Use `wget` !  It is a very versatile command and I just got to know several tric
 
 **one alternative way is to specify `-nH` and `--cut-dirs=10` together**   
 >-nH
-       --no-host-directories
+       --no-host-directories  
            Disable generation of host-prefixed directories.  By default,
            invoking Wget with -r http://fly.srk.fer.hr/ will create a
            structure of directories beginning with fly.srk.fer.hr/.  This
            option disables such behavior.
            
            
->--cut-dirs=number
+>--cut-dirs=number  
            Ignore number directory components.  This is useful for getting a
            fine-grained control over the directory where recursive retrieval
-           will be saved.
+           will be saved.  
 
            Take, for example, the directory at
            ftp://ftp.xemacs.org/pub/xemacs/.  If you retrieve it with -r, it
@@ -97,7 +97,7 @@ Use `wget` !  It is a very versatile command and I just got to know several tric
 
 **If you want to save files to a different folder name:**            
 > -P prefix
-       --directory-prefix=prefix
+       --directory-prefix=prefix  
            Set directory prefix to prefix.  The directory prefix is the
            directory where all other files and subdirectories will be saved
            to, i.e. the top of the retrieval tree.  The default is . (the
@@ -105,7 +105,7 @@ Use `wget` !  It is a very versatile command and I just got to know several tric
 
 **Continue to download a file**:           
 > -c
-       --continue
+       --continue  
            Continue getting a partially-downloaded file.  This is useful when
            you want to finish up a download started by a previous instance of
            Wget, or by another program
