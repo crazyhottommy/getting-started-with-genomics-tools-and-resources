@@ -48,6 +48,7 @@ There are many online web based tools for visualization of (cancer) genomic data
 * [StatQuest: PCA clearly explained](https://www.youtube.com/watch?v=fRiEZWQ-WT8)
 * [Computing Workflows for Biologists: A Roadmap](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303)  
 * [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+* [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 
 #### R packages for data wrangling, tidying and visualizing.  
 
