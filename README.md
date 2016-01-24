@@ -15,6 +15,8 @@ There are many online web based tools for visualization of (cancer) genomic data
 * [UCSC genome browser](http://genome.ucsc.edu/). One of the most famous genome browser and my favoriate. **Every person** studying genetics, genomics and molecular biology needs to know how to use it. [Tutorials from OpenHelix](http://blog.openhelix.eu/?p=22649).  
 * [Epiviz 3](http://epiviz.github.io/index.html) is an interactive visualization tool for functional genomics data. It supports genome navigation like other genome browsers, but allows multiple visualizations of data within genomic regions using scatterplots, heatmaps and other user-supplied visualizations. 
 * Mutation Annotation & Genome Interpretation TCGA: [MAGA](http://magi.brown.edu/)
+* [GeneProteinViz (GPViz)](http://icbi.at/software/gpviz/gpviz.shtml) is a versatile Java-based software for dynamic gene-centered visualization of genomic regions and/or variants.
+* [ProteinPaint: Web Application for Visualizing Genomic Data](https://pecan.stjude.org/proteinpaint/TP53/) The software developed for this project highlights critical attributes about the mutations, including the form of protein variant (e.g. the new amino acid as a result of missense mutation), the name of sample from which the mutation was identified, whether the mutation is somatic or germline,
 
 ### Databases
 * [DisGeNET](http://www.disgenet.org/web/DisGeNET/menu/home?utm_source=twitterfeed&utm_medium=twitter) is a discovery platform integrating information on gene-disease associations (GDAs) from several public data sources and the literature
