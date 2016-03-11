@@ -62,6 +62,7 @@ There are many online web based tools for visualization of (cancer) genomic data
 * [dplry](https://github.com/hadley/dplyr)  
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [complexHeatmaps](https://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html)  
+* [Multiple plots on a page](https://stat545-ubc.github.io/block020_multiple-plots-on-a-page.html)
 
 ### Automate your workflow
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
