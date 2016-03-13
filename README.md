@@ -68,3 +68,5 @@ There are many online web based tools for visualization of (cancer) genomic data
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
 * [STAT545 Automating data analysis pipelines](https://stat545-ubc.github.io/automation00_index.html)
 * [Existing Workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
+* [Workflow management software for pipeline development in NGS](https://www.biostars.org/p/115745/)
+* [pipelines](https://github.com/pditommaso/awesome-pipeline)
