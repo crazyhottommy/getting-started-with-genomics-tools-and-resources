@@ -70,7 +70,9 @@ There are many online web based tools for visualization of (cancer) genomic data
 * [Existing Workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
 * [Workflow management software for pipeline development in NGS](https://www.biostars.org/p/115745/)
 * [pipelines](https://github.com/pditommaso/awesome-pipeline)
-* 
+* [biostar post:Job Manager to parallelize otherwise consecutive bash scripts](https://www.biostars.org/p/174468/)
+
+I will try snakemake...
 
 ### CRISPR design 
 * [CRISPR GENOME EDITING MADE EASY](https://www.deskgen.com/landing/)
