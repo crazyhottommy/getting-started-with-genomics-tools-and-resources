@@ -6,6 +6,7 @@
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [Bash by example](https://www.ibm.com/developerworks/library/l-bash/)
 * [NGS Advanced Beginner/Intermediate Shell](https://github.com/ngs-docs/2016-adv-begin-shell-genomics)
+* Commonly used commands for PBS scheduler:[Monitoring and Managing Your Job](https://www.osc.edu/supercomputing/batch-processing-at-osc/monitoring-and-managing-your-job)
 
 ### Genomics-visualization-tools
 
