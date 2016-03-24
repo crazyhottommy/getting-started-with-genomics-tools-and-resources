@@ -33,6 +33,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [DriverDB: A database for cancer driver gene/mutation](http://ngs.ym.edu.tw/driverdb)
 * Interaction of genes: [GENEMANIA](http://genemania.org/)
 * [DATA DISCOVERY PLATFORM:Designed for researchers who use, share and collaborate on human genomic data](http://discover.repositive.io/)
+* [zenodo: research shared](https://zenodo.org/collection/datasets)
 
 ### Large data consortium data mining
 
