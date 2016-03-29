@@ -76,6 +76,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [Workflow management software for pipeline development in NGS](https://www.biostars.org/p/115745/)
 * [pipelines](https://github.com/pditommaso/awesome-pipeline)
 * [biostar post:Job Manager to parallelize otherwise consecutive bash scripts](https://www.biostars.org/p/174468/)
+* [paper:A review of bioinformatic pipeline frameworks](http://bib.oxfordjournals.org/content/early/2016/03/23/bib.bbw020.long)
 
 I will try snakemake...
 
