@@ -43,6 +43,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * paper [Data mining The Cancer Genome Atlas in the era of precision cancer medicine](http://www.smw.ch/content/smw-2015-14183/)
 * [CrossHub](http://sourceforge.net/p/crosshub/): a tool for multi-way analysis of The Cancer Genome Atlas (TCGA) in the context of gene expression regulation mechanisms.
 * [Ferret, a User-Friendly Java Tool to Extract Data from the 1000 Genomes Project](http://limousophie35.github.io/Ferret/)
+* [EGA:European Genome-phenome Archive](https://www.ebi.ac.uk/ega/datasets)
 
 ### Tutorials
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/). Learn R and bioconductor.
