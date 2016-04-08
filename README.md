@@ -81,7 +81,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 
 I will try snakemake...
 
-### CRISPR design 
+### CRISPR related 
 * [CRISPR GENOME EDITING MADE EASY](https://www.deskgen.com/landing/)
 * [CRISPR design from Japan](http://crispr.dbcls.jp/)
 * [CRISPResso](http://crispresso.rocks/):Analysis of CRISPR-Cas9 genome editing outcomes from deep sequencing data
