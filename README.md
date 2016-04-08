@@ -83,3 +83,10 @@ I will try snakemake...
 
 ### CRISPR design 
 * [CRISPR GENOME EDITING MADE EASY](https://www.deskgen.com/landing/)
+* [CRISPR design from Japan](http://crispr.dbcls.jp/)
+* [CRISPResso](http://crispresso.rocks/):Analysis of CRISPR-Cas9 genome editing outcomes from deep sequencing data
+* [CRISPR-DO](http://cistrome.org/crispr/): A whole genome CRISPR designer and optimizer in human and mouse
+* [CCTop](http://crispr.cos.uni-heidelberg.de/) - CRISPR/Cas9 target online predictor
+* [DESKGEN](https://horizon.deskgen.com/landing/#/)
+* [Genome-wide Unbiased Identifications of DSBs Evaluated by Sequencing (GUIDE-seq) is a novel method the Joung lab has developed to identify the off-target sites of CRISPR-Cas RNA-guided Nucleases](http://www.jounglab.org/guideseq)
+* [WTSI Genome Editing (WGE) is a website that provides tools to aid with genome editing of human and mouse genomes](http://www.sanger.ac.uk/htgt/wge/)
