@@ -68,6 +68,9 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [dplry](https://github.com/hadley/dplyr)  
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [complexHeatmaps](https://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html)  
+* [heatmap:gapmap](https://cran.rstudio.com/web/packages/gapmap/vignettes/simple_example.html)
+* [dendsort](https://cran.r-project.org/web/packages/dendsort/index.html):Modular Leaf Ordering Methods for Dendrogram Nodes
+* [dendextend](https://cran.r-project.org/web/packages/dendextend/vignettes/introduction.html#changing-a-dendrograms-structure)
 * [Multiple plots on a page](https://stat545-ubc.github.io/block020_multiple-plots-on-a-page.html)
 
 ### Automate your workflow
