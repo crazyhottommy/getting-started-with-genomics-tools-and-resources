@@ -91,6 +91,9 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 
 I will try snakemake...
 
+### Clustering
+* [densityCut](http://m.bioinformatics.oxfordjournals.org/content/early/2016/04/23/bioinformatics.btw227.short?rss=1): an efficient and versatile topological approach for automatic clustering of biological data
+
 ### CRISPR related 
 * [CRISPR GENOME EDITING MADE EASY](https://www.deskgen.com/landing/)
 * [CRISPR design from Japan](http://crispr.dbcls.jp/)
