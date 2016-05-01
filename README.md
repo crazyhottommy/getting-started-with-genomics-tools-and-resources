@@ -79,6 +79,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [dendsort](https://cran.r-project.org/web/packages/dendsort/index.html):Modular Leaf Ordering Methods for Dendrogram Nodes
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/vignettes/introduction.html#changing-a-dendrograms-structure)
 * [Multiple plots on a page](https://stat545-ubc.github.io/block020_multiple-plots-on-a-page.html)
+* [Extract Tables from PDFs](https://github.com/leeper/tabulizer)
 
 ### Automate your workflow
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
