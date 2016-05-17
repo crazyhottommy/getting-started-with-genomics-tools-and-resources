@@ -8,6 +8,59 @@
 * [NGS Advanced Beginner/Intermediate Shell](https://github.com/ngs-docs/2016-adv-begin-shell-genomics)
 * Commonly used commands for PBS scheduler:[Monitoring and Managing Your Job](https://www.osc.edu/supercomputing/batch-processing-at-osc/monitoring-and-managing-your-job)
 
+3. [All about redirection](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-3.html)
+
+3.1 Theory and quick reference
+
+There are 3 file descriptors, stdin, stdout and stderr (std=standard).
+
+Basically you can:
+
+redirect stdout to a file
+redirect stderr to a file
+redirect stdout to a stderr
+redirect stderr to a stdout
+redirect stderr and stdout to a file
+redirect stderr and stdout to stdout
+redirect stderr and stdout to stderr
+1 'represents' stdout and 2 stderr.
+A little note for seeing this things: with the less command you can view both stdout (which will remain on the buffer) and the stderr that will be printed on the screen, but erased as you try to 'browse' the buffer.
+
+3.2 Sample: stdout 2 file
+
+This will cause the ouput of a program to be written to a file.
+
+         ls -l > ls-l.txt
+        
+Here, a file called 'ls-l.txt' will be created and it will contain what you would see on the screen if you type the command 'ls -l' and execute it.
+3.3 Sample: stderr 2 file
+
+This will cause the stderr ouput of a program to be written to a file.
+
+         grep da * 2> grep-errors.txt
+        
+Here, a file called 'grep-errors.txt' will be created and it will contain what you would see the stderr portion of the output of the 'grep da *' command.
+3.4 Sample: stdout 2 stderr
+
+This will cause the stderr ouput of a program to be written to the same filedescriptor than stdout.
+
+         grep da * 1>&2 
+        
+Here, the stdout portion of the command is sent to stderr, you may notice that in differen ways.
+3.5 Sample: stderr 2 stdout
+
+This will cause the stderr ouput of a program to be written to the same filedescriptor than stdout.
+
+         grep * 2>&1
+        
+Here, the stderr portion of the command is sent to stdout, if you pipe to less, you'll see that lines that normally 'dissapear' (as they are written to stderr) are being kept now (because they're on stdout).
+3.6 Sample: stderr and stdout 2 file
+
+This will place every output of a program to a file. This is suitable sometimes for cron entries, if you want a command to pass in absolute silence.
+
+         rm -f $(find / -name core) &> /dev/null 
+        
+This (thinking on the cron entry) will delete every file called 'core' in any directory. Notice that you should be pretty sure of what a command is doing if you are going to wipe it's output.
 ### Genomics-visualization-tools
 
 There are many online web based tools for visualization of (cancer) genomic data. I put my collections here. I use R for visulization.
