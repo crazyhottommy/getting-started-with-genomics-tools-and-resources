@@ -81,7 +81,7 @@ This (thinking on the cron entry) will delete every file called 'core' in any di
 
 ### python tips and tools
 
-*[30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html#id1)
+* [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html#id1)
 * [intermediatePython](https://github.com/crazyhottommy/intermediatePython)
 
 
