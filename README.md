@@ -61,6 +61,30 @@ This will place every output of a program to a file. This is suitable sometimes 
          rm -f $(find / -name core) &> /dev/null 
         
 This (thinking on the cron entry) will delete every file called 'core' in any directory. Notice that you should be pretty sure of what a command is doing if you are going to wipe it's output.
+
+
+#### R packages for data wrangling, tidying and visualizing.  
+
+* [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
+* [readr](https://github.com/hadley/readr)  
+* [tidyr](https://github.com/hadley/tidyr)  
+* [dplry](https://github.com/hadley/dplyr)  
+* [ggplot2](https://github.com/hadley/ggplot2)
+* [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
+* [complexHeatmaps](https://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html)  
+* [heatmap:gapmap](https://cran.rstudio.com/web/packages/gapmap/vignettes/simple_example.html)
+* [dendsort](https://cran.r-project.org/web/packages/dendsort/index.html):Modular Leaf Ordering Methods for Dendrogram Nodes
+* [dendextend](https://cran.r-project.org/web/packages/dendextend/vignettes/introduction.html#changing-a-dendrograms-structure)
+* [Multiple plots on a page](https://stat545-ubc.github.io/block020_multiple-plots-on-a-page.html)
+* [Extract Tables from PDFs](https://github.com/leeper/tabulizer)
+
+
+### python tips and tools
+
+*[30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html#id1)
+* [intermediatePython](https://github.com/crazyhottommy/intermediatePython)
+
+
 ### Genomics-visualization-tools
 
 There are many online web based tools for visualization of (cancer) genomic data. I put my collections here. I use R for visulization.
@@ -119,20 +143,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 
-#### R packages for data wrangling, tidying and visualizing.  
 
-* [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
-* [readr](https://github.com/hadley/readr)  
-* [tidyr](https://github.com/hadley/tidyr)  
-* [dplry](https://github.com/hadley/dplyr)  
-* [ggplot2](https://github.com/hadley/ggplot2)
-* [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
-* [complexHeatmaps](https://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html)  
-* [heatmap:gapmap](https://cran.rstudio.com/web/packages/gapmap/vignettes/simple_example.html)
-* [dendsort](https://cran.r-project.org/web/packages/dendsort/index.html):Modular Leaf Ordering Methods for Dendrogram Nodes
-* [dendextend](https://cran.r-project.org/web/packages/dendextend/vignettes/introduction.html#changing-a-dendrograms-structure)
-* [Multiple plots on a page](https://stat545-ubc.github.io/block020_multiple-plots-on-a-page.html)
-* [Extract Tables from PDFs](https://github.com/leeper/tabulizer)
 
 ### Automate your workflow
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
