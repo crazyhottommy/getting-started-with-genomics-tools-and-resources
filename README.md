@@ -137,6 +137,8 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 ### Tutorials
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/). Learn R and bioconductor.
 * [PCA, MDS, k-means, Hierarchical clustering and heatmap](https://rpubs.com/crazyhottommy/PCA_MDS). I wrote it.
+* A most read for clustering analysis for high-dimentional biological data:[Avoiding common pitfalls when clustering
+biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [Survival analysis of TCGA patients integrating gene expression (RNASeq) data](https://www.biostars.org/p/153013/)
 * [Tutorial: Machine Learning For Cancer Classification](https://www.biostars.org/p/85124/). It has four parts. 
 * [Learning bash scripting for beginners](http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)  
