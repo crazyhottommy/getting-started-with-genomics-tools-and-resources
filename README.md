@@ -150,6 +150,7 @@ biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [Computing Workflows for Biologists: A Roadmap](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303)  
 * [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+* [A collection of python courses online](http://bafflednerd.com/learn-python-online/)
 
 
 
