@@ -72,6 +72,7 @@ This (thinking on the cron entry) will delete every file called 'core' in any di
 * [dplry](https://github.com/hadley/dplyr)  
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
+* [sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html): an enhanced chart for simple and truthful representation of single observations over multiple classes
 * [complexHeatmaps](https://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html)  
 * [heatmap:gapmap](https://cran.rstudio.com/web/packages/gapmap/vignettes/simple_example.html)
 * [dendsort](https://cran.r-project.org/web/packages/dendsort/index.html):Modular Leaf Ordering Methods for Dendrogram Nodes
