@@ -78,6 +78,7 @@ This (thinking on the cron entry) will delete every file called 'core' in any di
 * [dendsort](https://cran.r-project.org/web/packages/dendsort/index.html):Modular Leaf Ordering Methods for Dendrogram Nodes
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/vignettes/introduction.html#changing-a-dendrograms-structure)
 * [Multiple plots on a page](https://stat545-ubc.github.io/block020_multiple-plots-on-a-page.html)
+* [ggExtra](http://deanattali.com/2015/03/29/ggExtra-r-package/)
 * [Extract Tables from PDFs](https://github.com/leeper/tabulizer)
 
 
