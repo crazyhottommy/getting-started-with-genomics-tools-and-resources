@@ -81,6 +81,7 @@ This (thinking on the cron entry) will delete every file called 'core' in any di
 * [ggExtra](http://deanattali.com/2015/03/29/ggExtra-r-package/)
 * [cowplot](https://github.com/wilkelab/cowplot) -- An add-on to the ggplot2 plotting package
 * [Extract Tables from PDFs](https://github.com/leeper/tabulizer)
+* [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 
 ### python tips and tools
