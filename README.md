@@ -164,7 +164,7 @@ biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [software carpentry git novice lesson](http://swcarpentry.github.io/git-novice/)
 
 
-### Automate your workflow
+### Automate your workflow and reproducible research
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
 * [STAT545 Automating data analysis pipelines](https://stat545-ubc.github.io/automation00_index.html)
 * [Existing Workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
@@ -172,6 +172,7 @@ biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [pipelines](https://github.com/pditommaso/awesome-pipeline)
 * [biostar post:Job Manager to parallelize otherwise consecutive bash scripts](https://www.biostars.org/p/174468/)
 * [paper:A review of bioinformatic pipeline frameworks](http://bib.oxfordjournals.org/content/early/2016/03/23/bib.bbw020.long)
+* [initial steps toward reproducible research](http://kbroman.org/steps2rr/#TAGC16)
 
 I will try snakemake...
 
