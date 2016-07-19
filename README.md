@@ -157,6 +157,7 @@ biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 * [A collection of python courses online](http://bafflednerd.com/learn-python-online/)
+* [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
 ### git and version control
 
@@ -174,6 +175,9 @@ biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [biostar post:Job Manager to parallelize otherwise consecutive bash scripts](https://www.biostars.org/p/174468/)
 * [paper:A review of bioinformatic pipeline frameworks](http://bib.oxfordjournals.org/content/early/2016/03/23/bib.bbw020.long)
 * [initial steps toward reproducible research](http://kbroman.org/steps2rr/#TAGC16)
+* [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
+* [R notebook](http://data-steve.github.io/setting-up-r-notebook/)
+* [BEAKER THE DATA SCIENTIST'S LABORATORY](http://beakernotebook.com/)
 
 I will try snakemake...
 
