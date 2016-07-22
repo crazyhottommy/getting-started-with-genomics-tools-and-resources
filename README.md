@@ -73,6 +73,7 @@ This (thinking on the cron entry) will delete every file called 'core' in any di
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
 * [A List of ggplot2 extensions](https://www.ggplot2-exts.org/)
+* [htmlwidgets for R](http://www.htmlwidgets.org/showcase_d3heatmap.html) including `d3heatmap` for interactive heatmaps.
 * [sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html): an enhanced chart for simple and truthful representation of single observations over multiple classes
 * [complexHeatmaps](https://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html)  
 * [heatmap:gapmap](https://cran.rstudio.com/web/packages/gapmap/vignettes/simple_example.html)
