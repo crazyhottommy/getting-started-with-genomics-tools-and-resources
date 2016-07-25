@@ -92,6 +92,7 @@ This (thinking on the cron entry) will delete every file called 'core' in any di
 * [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html#id1)
 * [intermediatePython](https://github.com/crazyhottommy/intermediatePython)
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+* [Python 3 for Scientists](http://python-3-for-scientists.readthedocs.io/en/latest/)
 
 ### Papers
 * 2016 review [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
