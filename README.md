@@ -63,6 +63,11 @@ This will place every output of a program to a file. This is suitable sometimes 
         
 This (thinking on the cron entry) will delete every file called 'core' in any directory. Notice that you should be pretty sure of what a command is doing if you are going to wipe it's output.
 
+### Do not give me excel files!
+* [convert xlsx to csv: xlsx2csv](https://github.com/dilshod/xlsx2csv)
+* [csvkit](http://csvkit.readthedocs.io/en/latest/index.html#)
+* [GNU datamash](https://www.gnu.org/software/datamash/)
+
 ### parallelization 
 
 Using these tool will greatly improve your working efficiency and get rid of most of your `for loops`.  
