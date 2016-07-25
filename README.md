@@ -63,8 +63,9 @@ This will place every output of a program to a file. This is suitable sometimes 
         
 This (thinking on the cron entry) will delete every file called 'core' in any directory. Notice that you should be pretty sure of what a command is doing if you are going to wipe it's output.
 
-* parallelization 
-Using these tool will greatly improve your working efficiency and get rid of most of your `for loops`.
+### parallelization 
+
+Using these tool will greatly improve your working efficiency and get rid of most of your `for loops`.  
 1. [xargs](http://www.cyberciti.biz/faq/linux-unix-bsd-xargs-construct-argument-lists-utility/)
 2. [GNU parallel](https://www.gnu.org/software/parallel/). one of my post [here](http://crazyhottommy.blogspot.com/2016/03/the-most-powerful-uniux-commands-i.html)
 3. [gxargs](https://github.com/brentp/gargs) by Brent Pedersen. Written in GO.
