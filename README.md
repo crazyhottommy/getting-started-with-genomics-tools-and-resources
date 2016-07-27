@@ -97,6 +97,9 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Extract Tables from PDFs](https://github.com/leeper/tabulizer)
 * [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
+### visualization in general
+
+* [Nature Methods point of view data visulization](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
 
 ### python tips and tools
 
