@@ -6,6 +6,7 @@
 * [some of my bash one-liner collections](https://github.com/crazyhottommy/scripts-general-use/blob/master/Shell/bioinformatics_one_liner.md)
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) very good read for bash programming.
+* [Better Bash Scripting in 15 Minutes](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html?m=1)
 * [Bash by example](https://www.ibm.com/developerworks/library/l-bash/)
 * [NGS Advanced Beginner/Intermediate Shell](https://github.com/ngs-docs/2016-adv-begin-shell-genomics)
 * Commonly used commands for PBS scheduler:[Monitoring and Managing Your Job](https://www.osc.edu/supercomputing/batch-processing-at-osc/monitoring-and-managing-your-job)
@@ -78,11 +79,11 @@ Three principles for (file) names:
 * Machine readable (do not put special characters and space in the name)  
 * Human readable (Easy to figure out what the heck something is, based on its name, add slug)  
 * Plays well with default ordering:   
-..1. Put something numeric first  
+1. Put something numeric first  
 
-..2. Use the ISO 8601 standard for dates (YYYY-MM-DD) 
+2. Use the ISO 8601 standard for dates (YYYY-MM-DD) 
 
-..3. Left pad other numbers with zeros  
+3. Left pad other numbers with zeros  
 
 ![](https://cloud.githubusercontent.com/assets/4106146/17389870/5dfc54c4-59cd-11e6-9293-a1f8789c8352.png)
 
