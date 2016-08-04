@@ -79,6 +79,7 @@ Three principles for (file) names:
 * Machine readable (do not put special characters and space in the name)  
 * Human readable (Easy to figure out what the heck something is, based on its name, add slug)  
 * Plays well with default ordering:   
+
 1. Put something numeric first  
 
 2. Use the ISO 8601 standard for dates (YYYY-MM-DD) 
