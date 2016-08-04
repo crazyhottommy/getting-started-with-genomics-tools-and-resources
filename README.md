@@ -70,6 +70,27 @@ This (thinking on the cron entry) will delete every file called 'core' in any di
 * [csvkit](http://csvkit.readthedocs.io/en/latest/index.html#)
 * [GNU datamash](https://www.gnu.org/software/datamash/)
 
+
+### How to name files
+It is really important to name your files correctly! see a [ppt](https://rawgit.com/Reproducible-Science-Curriculum/rr-organization1/master/organization-01-slides.html)
+
+Three principles for (file) names:
+* Machine readable (do not put special characters and space in the name)  
+* Human readable (Easy to figure out what the heck something is, based on its name, add slug)  
+* Plays well with default ordering:   
+..1. Put something numeric first  
+
+..2. Use the ISO 8601 standard for dates (YYYY-MM-DD) 
+
+..3. Left pad other numbers with zeros  
+
+![](https://cloud.githubusercontent.com/assets/4106146/17389870/5dfc54c4-59cd-11e6-9293-a1f8789c8352.png)
+
+![](https://cloud.githubusercontent.com/assets/4106146/17389869/5df7f6f4-59cd-11e6-8715-86645243d70c.png)
+
+
+
+
 ### parallelization 
 
 Using these tool will greatly improve your working efficiency and get rid of most of your `for loops`.  
