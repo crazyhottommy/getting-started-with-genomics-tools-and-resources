@@ -199,6 +199,7 @@ biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
 * [R notebook](http://data-steve.github.io/setting-up-r-notebook/)
 * [BEAKER THE DATA SCIENTIST'S LABORATORY](http://beakernotebook.com/)
+* A video by  Dr.Keith A. Baggerly from MD Anderson [The Importance of Reproducible Research in High-Throughput Biology](https://www.youtube.com/watch?v=7gYIs7uYbMo)  very interesting, and Keith is really a fun guy!
 
 I will try snakemake...
 
