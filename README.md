@@ -73,7 +73,7 @@ This (thinking on the cron entry) will delete every file called 'core' in any di
 
 
 ### How to name files
-It is really important to name your files correctly! see a [ppt](https://rawgit.com/Reproducible-Science-Curriculum/rr-organization1/master/organization-01-slides.html)
+It is really important to name your files correctly! see a [ppt](https://rawgit.com/Reproducible-Science-Curriculum/rr-organization1/master/organization-01-slides.html) by Jenny Bryan.
 
 Three principles for (file) names:
 * Machine readable (do not put special characters and space in the name)  
