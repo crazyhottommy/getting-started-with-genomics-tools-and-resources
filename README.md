@@ -240,6 +240,7 @@ biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [R notebook](http://data-steve.github.io/setting-up-r-notebook/)
 * [BEAKER THE DATA SCIENTIST'S LABORATORY](http://beakernotebook.com/)
 * A video by  Dr.Keith A. Baggerly from MD Anderson [The Importance of Reproducible Research in High-Throughput Biology](https://www.youtube.com/watch?v=7gYIs7uYbMo)  very interesting, and Keith is really a fun guy!
+* [paper: Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
 
 I will try snakemake...
 
