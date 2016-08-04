@@ -66,18 +66,18 @@ This will place every output of a program to a file. This is suitable sometimes 
         
 This (thinking on the cron entry) will delete every file called 'core' in any directory. Notice that you should be pretty sure of what a command is doing if you are going to wipe it's output.
 
-* change permissions of files
-each digit is for: user, group and other.
+* change permissions of files  
+each digit is for: user, group and other.  
 
-`chmod 754 myfile`: this means the user has read, write and execute permssion; member in the same group has read and execute permission but no write permission; other people in the world only has read permission.
+`chmod 754 myfile`: this means the user has read, write and execute permssion; member in the same group has read and execute permission but no write permission; other people in the world only has read permission.  
 
-4 stands for "read",
-2 stands for "write",
-1 stands for "execute", and
-0 stands for "no permission."
-So 7 is the combination of permissions 4+2+1 (read, write, and execute), 5 is 4+0+1 (read, no write, and execute), and 4 is 4+0+0 (read, no write, and no execute).
+4 stands for "read",  
+2 stands for "write",  
+1 stands for "execute", and  
+0 stands for "no permission."  
+So 7 is the combination of permissions 4+2+1 (read, write, and execute), 5 is 4+0+1 (read, no write, and execute), and 4 is 4+0+0 (read, no write, and no execute).  
 
-It is sometimes hard to remember. one can use the letter:The letters u, g, and o stand for "user", "group", and "other"; "r", "w", and "x" stand for "read", "write", and "execute", respectively.
+It is sometimes hard to remember. one can use the letter:The letters u, g, and o stand for "user", "group", and "other"; "r", "w", and "x" stand for "read", "write", and "execute", respectively.  
 
 `chmod u+x myfile`  
 `chmod g+r myfile`
