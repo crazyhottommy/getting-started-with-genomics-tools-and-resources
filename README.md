@@ -126,6 +126,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
 * [A List of ggplot2 extensions](https://www.ggplot2-exts.org/)
+* [Make waffle (square pie) charts in R](https://github.com/hrbrmstr/waffle)
 * [htmlwidgets for R](http://www.htmlwidgets.org/showcase_d3heatmap.html) including `d3heatmap` for interactive heatmaps.
 * [sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html): an enhanced chart for simple and truthful representation of single observations over multiple classes
 * [complexHeatmaps](https://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html)  
