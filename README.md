@@ -8,6 +8,7 @@
 * [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) very good read for bash programming.
 * [Better Bash Scripting in 15 Minutes](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html?m=1)
 * [Bash by example](https://www.ibm.com/developerworks/library/l-bash/)
+* process substitution: [Using Names Pipes and Process Substitution in Bioinformatics](http://vincebuffalo.org/blog/2013/08/08/using-names-pipes-and-process-substitution-in-bioinformatics.html) [Handy Bash feature: Process Substitution](https://medium.com/@joewalnes/handy-bash-feature-process-substitution-8eb6dce68133#.uz5pj9yer)
 * [NGS Advanced Beginner/Intermediate Shell](https://github.com/ngs-docs/2016-adv-begin-shell-genomics)
 * Commonly used commands for PBS scheduler:[Monitoring and Managing Your Job](https://www.osc.edu/supercomputing/batch-processing-at-osc/monitoring-and-managing-your-job)
 * people say awk is not part of bioinformats :) Still very useful parsing plain text files. [Steve's Awk Academy](http://troubleshooters.com/codecorn/awk/index.htm)
