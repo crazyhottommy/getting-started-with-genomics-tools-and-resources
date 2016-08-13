@@ -147,8 +147,8 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [cowplot](https://github.com/wilkelab/cowplot) -- An add-on to the ggplot2 plotting package
 * [Extract Tables from PDFs](https://github.com/leeper/tabulizer)
 * [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-* [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
-This is a course that combines video, HTML and interactive elements to teach the statistical programming language R.
+* [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)This is a course that combines video, HTML and interactive elements to teach the statistical programming language R.
+* [These are the course notes for the Monash Bioinformatics Platform’s “R More” course](https://monashbioinformaticsplatform.github.io/r-more/)
 
 ### visualization in general
 
