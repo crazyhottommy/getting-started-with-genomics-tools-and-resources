@@ -239,7 +239,7 @@ biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [software carpentry git novice lesson](http://swcarpentry.github.io/git-novice/)
 
 
-### Automate your workflow and reproducible research
+### Automate your workflow, open science and reproducible research
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
 * [STAT545 Automating data analysis pipelines](https://stat545-ubc.github.io/automation00_index.html)
 * [Existing Workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
@@ -253,6 +253,7 @@ biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [BEAKER THE DATA SCIENTIST'S LABORATORY](http://beakernotebook.com/)
 * A video by  Dr.Keith A. Baggerly from MD Anderson [The Importance of Reproducible Research in High-Throughput Biology](https://www.youtube.com/watch?v=7gYIs7uYbMo)  very interesting, and Keith is really a fun guy!
 * [paper: Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+* [open-research](https://github.com/svaksha/aksh/blob/master/open-research.md#arr)
 
 I will try snakemake...
 
