@@ -192,7 +192,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * Interaction of genes: [GENEMANIA](http://genemania.org/)
 * [DATA DISCOVERY PLATFORM:Designed for researchers who use, share and collaborate on human genomic data](http://discover.repositive.io/)
 * [zenodo: research shared](https://zenodo.org/collection/datasets)
-* The NCI's [Genomic Data Commons](https://gdc.nci.nih.gov/) (GDC) provides the cancer research community with a unified data repository that enables data sharing across cancer genomic studies in support of precision medicine. A copy of TCGA and TARGET data?
+* The NCI's [Genomic Data Commons](https://gdc.nci.nih.gov/) (GDC) provides the cancer research community with a unified data repository that enables data sharing across cancer genomic studies in support of precision medicine. A copy of TCGA and TARGET data? [Data Release Notes](https://gdc-docs.nci.nih.gov/Data/Release_Notes/Data_Release_Notes/?platform=hootsuite)
 * [OASIS genomics](http://www.oasis-genomics.org/) from Pfizer. processed data from TCGA, CCLE, GTEx.
 * [TCGA alternative splicing](http://bioinformatics.mdanderson.org/TCGASpliceSeq)
 * [How to successfully apply for access to dbGaP](http://blog.repositive.io/how-to-successfully-apply-for-access-to-dbgap/)
