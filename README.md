@@ -119,6 +119,9 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 2. [GNU parallel](https://www.gnu.org/software/parallel/). one of my post [here](http://crazyhottommy.blogspot.com/2016/03/the-most-powerful-uniux-commands-i.html)  
 3. [gxargs](https://github.com/brentp/gargs) by Brent Pedersen. Written in GO.  
 
+### Statistics
+* [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 #### R packages for data wrangling, tidying and visualizing.  
 
 * [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
