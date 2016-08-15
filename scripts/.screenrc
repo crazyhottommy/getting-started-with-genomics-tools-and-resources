@@ -1,0 +1,23 @@
+startup_message off
+vbell off
+autodetach on
+shell -$SHELL
+
+bind c screen 1
+bind ^c screen 1
+bind 0 select 10                                                            
+screen 1
+
+term xterm-256color
+
+hardstatus alwayslastline 
+# Very nice tabbed colored hardstatus line
+hardstatus string '%{= kG}[ %{G}%H | %{R}%l %{g}][%= %{= kw}%?%-Lw%?%{r}(%{W}%n*%f%t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][%{B} %d/%m %{W}%c %{g}]'
+ 
+# change command character from ctrl-a to ctrl-b (emacs users may want this)
+#escape ^Bb
+ 
+# Hide hardstatus: ctrl-a f 
+bind f eval "hardstatus ignore"
+# Show hardstatus: ctrl-a F
+bind F eval "hardstatus alwayslastline"
