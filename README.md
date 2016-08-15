@@ -163,6 +163,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 * [Python 3 for Scientists](http://python-3-for-scientists.readthedocs.io/en/latest/)
 * [Python FAQ: Why should I use Python 3?](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
+* [gitbook: Computational and Inferential Thinking; The Foundations of Data Science](https://www.gitbook.com/book/ds8/textbook/details)
 
 ### Papers
 * 2016 review [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
