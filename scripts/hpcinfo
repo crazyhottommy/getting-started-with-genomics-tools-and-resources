@@ -1,0 +1,13 @@
+#!/bin/bash
+
+  echo -e "\n######### PBS Server Status ##########\n"
+  qstat -B
+  echo -e "\n########### Nautilus Status ############\n"
+  showq | grep -Ei "jobs|nodes"
+  echo -e "\n######### Running Jobs ##########\n"
+  qstat -Q
+  echo -e "\n######### Top 5 Users Running ##########"
+  showq | awk '{if($3 == "Running") print $2}' | sort | uniq -c | sort -k1,1nr | head -n5
+  echo -e "\n######### Top 5 Users Queued ##########"
+  showq | awk '{if($3 == "Idle" || $3 ~ "Batch") print $2}' | sort | uniq -c | sort -k1,1nr | head -n5
+  echo -e "\n######### END $(date) ##########\n"
