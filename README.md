@@ -12,7 +12,9 @@
 * [NGS Advanced Beginner/Intermediate Shell](https://github.com/ngs-docs/2016-adv-begin-shell-genomics)
 * Commonly used commands for PBS scheduler:[Monitoring and Managing Your Job](https://www.osc.edu/supercomputing/batch-processing-at-osc/monitoring-and-managing-your-job)
 * people say awk is not part of bioinformats :) Still very useful parsing plain text files. [Steve's Awk Academy](http://troubleshooters.com/codecorn/awk/index.htm)
-* [intro-bioinformatics: Website and slides for intro to bioinformatics class at Fred Hutch http://fredhutchio.github.io/intro-bioinformatics/](https://github.com/fredhutchio/intro-bioinformatics)  
+* [intro-bioinformatics: Website and slides for intro to bioinformatics class at Fred Hutch](https://github.com/fredhutchio/intro-bioinformatics)  
+![](https://cloud.githubusercontent.com/assets/4106146/17654247/872f8716-6266-11e6-887d-cebd009dde6a.png)
+
 
 * [All about redirection](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-3.html)
 
