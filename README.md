@@ -166,6 +166,8 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Python 3 for Scientists](http://python-3-for-scientists.readthedocs.io/en/latest/)
 * [Python FAQ: Why should I use Python 3?](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
 * [gitbook: Computational and Inferential Thinking; The Foundations of Data Science](https://www.gitbook.com/book/ds8/textbook/details)
+* [A collection of python courses online](http://bafflednerd.com/learn-python-online/)
+* [tpot:A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.](https://github.com/rhiever/tpot)
 
 ### Papers
 * 2016 review [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
@@ -235,7 +237,6 @@ biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [Computing Workflows for Biologists: A Roadmap](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303)  
 * [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
-* [A collection of python courses online](http://bafflednerd.com/learn-python-online/)
 * [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
 ### git and version control
