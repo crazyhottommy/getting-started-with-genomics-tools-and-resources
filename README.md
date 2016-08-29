@@ -244,6 +244,7 @@ biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [paper:A Quick Introduction to Version Control with Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
 * [paper:Ten Simple Rules for Taking Advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004947) 
 * [software carpentry git novice lesson](http://swcarpentry.github.io/git-novice/)
+* [git best practise](https://sethrobertson.github.io/GitBestPractices/)
 
 
 ### Automate your workflow, open science and reproducible research
