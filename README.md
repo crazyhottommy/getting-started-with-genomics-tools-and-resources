@@ -259,6 +259,7 @@ clustering.
 
 
 ### Automate your workflow, open science and reproducible research
+* [Awesome youtube video for reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=youtu.be)
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
 * [STAT545 Automating data analysis pipelines](https://stat545-ubc.github.io/automation00_index.html)
 * [Existing Workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
