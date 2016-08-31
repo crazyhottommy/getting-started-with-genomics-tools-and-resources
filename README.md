@@ -7,6 +7,7 @@
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) very good read for bash programming.
 * [Better Bash Scripting in 15 Minutes](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html?m=1)
+* [bash pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 * [Bash by example](https://www.ibm.com/developerworks/library/l-bash/)
 * process substitution: [Using Names Pipes and Process Substitution in Bioinformatics](http://vincebuffalo.org/blog/2013/08/08/using-names-pipes-and-process-substitution-in-bioinformatics.html) [Handy Bash feature: Process Substitution](https://medium.com/@joewalnes/handy-bash-feature-process-substitution-8eb6dce68133#.uz5pj9yer)
 * [NGS Advanced Beginner/Intermediate Shell](https://github.com/ngs-docs/2016-adv-begin-shell-genomics)
