@@ -172,6 +172,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 
 ### Papers
 * 2016 review [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
+* [Cancer genomics — from bench to bedside: review papers from Nature](http://www.nature.com/collections/dswwtfkdty?BAN_NRG_1602_CANCERCOLLECTION_PORTFOLIO)
 
 ### Genomics-visualization-tools
 
