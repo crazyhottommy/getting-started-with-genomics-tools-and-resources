@@ -156,6 +156,8 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)This is a course that combines video, HTML and interactive elements to teach the statistical programming language R.
 * [These are the course notes for the Monash Bioinformatics Platform’s “R More” course](https://monashbioinformaticsplatform.github.io/r-more/)
 * [gitbook: Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/index.html)
+* [Efficient R programming](https://csgillespie.github.io/efficientR/)
+* [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 
 ### visualization in general
 
