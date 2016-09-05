@@ -175,6 +175,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [gitbook: Computational and Inferential Thinking; The Foundations of Data Science](https://www.gitbook.com/book/ds8/textbook/details)
 * [A collection of python courses online](http://bafflednerd.com/learn-python-online/)
 * [tpot:A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.](https://github.com/rhiever/tpot)
+* [Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more](https://github.com/cuemacro/chartpy):chartpy creates a simple easy to use API to plot in a number of great Python chart libraries like plotly (via cufflinks), bokeh and matplotlib, with a unified interface. You simply need to change a single keyword to change which chart engine to use (see below), rather than having to learn the low level details of each library.
 
 ### Papers
 * 2016 review [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
