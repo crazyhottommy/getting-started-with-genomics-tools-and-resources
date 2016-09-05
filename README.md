@@ -216,6 +216,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [AnnotationHub](http://bioconductor.org/packages/devel/bioc/vignettes/AnnotationHub/inst/doc/AnnotationHub-HOWTO.html#roadmap-epigenomics-project) bioconductor package for TCGA and epigenome roadmap, ENCODE project.  
 * [TCGAbiolinks](http://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/tcgaBiolinks.html) bioconductor package
 * [RTCGA bioconductor](http://bioconductor.org/packages/devel/bioc/html/RTCGA.html)
+* [f1000 workflow paper TCGA Workflow: Analyze cancer genomics and epigenomics data using Bioconductor packages](http://f1000research.com/articles/5-1542/v1)
 * paper [Data mining The Cancer Genome Atlas in the era of precision cancer medicine](http://www.smw.ch/content/smw-2015-14183/)
 * [CrossHub](http://sourceforge.net/p/crosshub/): a tool for multi-way analysis of The Cancer Genome Atlas (TCGA) in the context of gene expression regulation mechanisms.
 * [Ferret, a User-Friendly Java Tool to Extract Data from the 1000 Genomes Project](http://limousophie35.github.io/Ferret/)
