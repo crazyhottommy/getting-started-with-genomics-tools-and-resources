@@ -284,6 +284,12 @@ clustering.
 
 I will try snakemake...
 
+### Organize research for a group
+* [slack](https://slack.com/):A messaging app for teams.
+* [Ryver](http://www.ryver.com/ryver-vs-slack/).
+* [Trello](https://trello.com/) lets you work more collaboratively and get more done.
+
+
 ### Clustering
 * [densityCut](http://m.bioinformatics.oxfordjournals.org/content/early/2016/04/23/bioinformatics.btw227.short?rss=1): an efficient and versatile topological approach for automatic clustering of biological data
 
