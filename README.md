@@ -127,12 +127,13 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 ### Statistics
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-#### R packages for data wrangling, tidying and visualizing.  
+#### packages for data wrangling, tidying and visualizing.  
 
 * [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
 * [readr](https://github.com/hadley/readr)  
 * [tidyr](https://github.com/hadley/tidyr)  
 * [dplry](https://github.com/hadley/dplyr)  
+* [csv fingerprint](http://setosa.io/blog/2014/08/03/csv-fingerprints/)
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
 * [A List of ggplot2 extensions](https://www.ggplot2-exts.org/)
