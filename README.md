@@ -17,7 +17,7 @@
 * [intro-bioinformatics: Website and slides for intro to bioinformatics class at Fred Hutch](https://github.com/fredhutchio/intro-bioinformatics)  
 ![](https://cloud.githubusercontent.com/assets/4106146/17654247/872f8716-6266-11e6-887d-cebd009dde6a.png)
 * [tmate](https://tmate.io/):Instant terminal sharing
-* [tmux](https://tmux.github.io/) is a terminal multiplexer similar to `[screen](https://www.gnu.org/software/screen/manual/screen.html)` but have more features.
+* [tmux](https://tmux.github.io/) is a terminal multiplexer similar to [`screen`](https://www.gnu.org/software/screen/manual/screen.html) but have more features.
 
 
 * [All about redirection](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-3.html)
