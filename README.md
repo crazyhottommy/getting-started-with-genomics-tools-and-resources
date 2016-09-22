@@ -297,7 +297,7 @@ clustering.
 
 I will try snakemake...
 
-** Have you ever had problem to reuse one of your own published figures due to copyright of the journal?
+* **Have you ever had problem to reuse one of your own published figures due to copyright of the journal?**
 Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-how-i-use-figshare)! from @LorenaABarba
 >As an early adopter of the Figshare repository, I came up with a strategy that serves both our open-science and our reproducibility goals, and also helps with this problem: for the main results in any new paper, we would share the data, plotting script and figure under a CC-BY license, by first uploading them to Figshare. 
 
