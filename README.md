@@ -303,6 +303,9 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 
 >As an early adopter of the Figshare repository, I came up with a strategy that serves both our open-science and our reproducibility goals, and also helps with this problem: for the main results in any new paper, we would share the data, plotting script and figure under a CC-BY license, by first uploading them to Figshare. 
 
+### Survival curve
+
+* [Survival plots have never been so informative: survminer package](http://r-addict.com/2016/05/23/Informative-Survival-Plots.html)
 
 ### Organize research for a group
 * [slack](https://slack.com/):A messaging app for teams.
