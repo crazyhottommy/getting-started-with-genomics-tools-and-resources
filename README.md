@@ -117,7 +117,25 @@ Three principles for (file) names:
 ![](https://cloud.githubusercontent.com/assets/4106146/17389869/5df7f6f4-59cd-11e6-8715-86645243d70c.png)
 
 
+**Good naming of your files can help you to extract meta data from the file name**  
+* [dirdf](https://github.com/ropenscilabs/dirdf) Create tidy data frames of file metadata from directory and file names.
 
+```r
+> dir("examples/dataset_1/")
+[1] "2013-06-26_BRAFWTNEG_Plasmid-Cellline-100_A01.csv"
+[2] "2013-06-26_BRAFWTNEG_Plasmid-Cellline-100_A02.csv"
+[3] "2014-02-26_BRAFWTNEG_FFPEDNA-CRC-1-41_D08.csv"
+[4] "2014-03-05_BRAFWTNEG_FFPEDNA-CRC-REPEAT_H03.csv"
+[5] "2016-04-01_BRAFWTNEG_FFPEDNA-CRC-1-41_E12.csv"
+
+> library("dirdf")
+> dirdf("examples/dataset_1/", template="date_assay_experiment_well.ext")
+        date     assay           experiment well ext                                          pathname
+1 2013-06-26 BRAFWTNEG Plasmid-Cellline-100  A01 csv 2013-06-26_BRAFWTNEG_Plasmid-Cellline-100_A01.csv
+2 2013-06-26 BRAFWTNEG Plasmid-Cellline-100  A02 csv 2013-06-26_BRAFWTNEG_Plasmid-Cellline-100_A02.csv
+3 2014-02-26 BRAFWTNEG     FFPEDNA-CRC-1-41  D08 csv     2014-02-26_BRAFWTNEG_FFPEDNA-CRC-1-41_D08.csv
+4 2014-03-05 BRAFWTNEG   FFPEDNA-CRC-REPEAT  H03 csv   2014-03-05_BRAFWTNEG_FFPEDNA-CRC-REPEAT_H03.csv
+```
 
 ### parallelization 
 
