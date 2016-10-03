@@ -326,10 +326,10 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 
 * [Survival plots have never been so informative: survminer package](http://r-addict.com/2016/05/23/Informative-Survival-Plots.html)
 * posts for survival analysis:  
-** [Survival Analysis - 1](http://justanotherdatablog.blogspot.com/2015/08/survival-analysis-1.html)  KM estimator
-** [Survival Analysis - 2](http://justanotherdatablog.blogspot.com/2015/08/survival-analysis-2.html)  Cox's proportional hazards model
-** [Overall Survival Curves for TCGA and Tothill by RD Status](http://bioinformatics.mdanderson.org/Supplements/ResidualDisease/Reports/osCurves.html)
-** [Survival analysis of TCGA patients integrating gene expression (RNASeq) data](https://www.biostars.org/p/153013/)
+** [Survival Analysis - 1](http://justanotherdatablog.blogspot.com/2015/08/survival-analysis-1.html)  KM estimator  
+** [Survival Analysis - 2](http://justanotherdatablog.blogspot.com/2015/08/survival-analysis-2.html)  Cox's proportional hazards model  
+** [Overall Survival Curves for TCGA and Tothill by RD Status](http://bioinformatics.mdanderson.org/Supplements/ResidualDisease/Reports/osCurves.html)  
+** [Survival analysis of TCGA patients integrating gene expression (RNASeq) data](https://www.biostars.org/p/153013/)  
 
 ### Organize research for a group
 * [slack](https://slack.com/):A messaging app for teams.
