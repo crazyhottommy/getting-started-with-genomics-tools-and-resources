@@ -262,6 +262,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 ### Tutorials
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/). Learn R and bioconductor.
 * [PCA, MDS, k-means, Hierarchical clustering and heatmap](https://rpubs.com/crazyhottommy/PCA_MDS). I wrote it.
+* [I wrote on PCA, and heatmaps on Rpub](https://rpubs.com/crazyhottommy)
 * A most read for clustering analysis for high-dimentional biological data:[Avoiding common pitfalls when clustering
 biological data](http://stke.sciencemag.org/content/9/432/re6)
 * [How does gene expression clustering work?](http://www.nature.com/nbt/journal/v23/n12/full/nbt1205-1499.html) A must read for 
