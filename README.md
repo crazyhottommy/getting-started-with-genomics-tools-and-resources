@@ -287,7 +287,14 @@ clustering.
 * [Computing Workflows for Biologists: A Roadmap](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002303)  
 * [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+
+### MOOC(Massive Open Online Courses)
 * [The Open Source Data Science Masters](http://datasciencemasters.org/)
+* [Path to a free self-taught education in Data Science!](https://github.com/open-source-society/data-science)
+* [Path to a free self-taught education in Bioinformatics!](https://github.com/open-source-society/bioinformatics)
+* [Udacity](https://www.udacity.com/)
+* [Coursera](https://www.coursera.org/)
+* [edx](https://www.edx.org/)
 
 ### git and version control
 * [git intro by github](https://github.github.io/on-demand/)
