@@ -301,8 +301,11 @@ clustering.
 
 ### Automate your workflow, open science and reproducible research
 
-**STEP 6 is usually missing!**
+**STEP 6 is usually missing!**  
+
 ![](https://cloud.githubusercontent.com/assets/4106146/19217628/807b5bba-8da5-11e6-8387-5f701d7a9ead.jpg)
+
+The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/everybody-knows-the-scientific-method
 
 * [Awesome youtube video for reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=youtu.be)
 * [The hard road to reproducibility](http://science.sciencemag.org/content/354/6308/142) commentary on Science Magzine.
