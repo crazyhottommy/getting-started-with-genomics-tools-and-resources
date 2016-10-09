@@ -301,6 +301,7 @@ clustering.
 
 ### Automate your workflow, open science and reproducible research
 * [Awesome youtube video for reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=youtu.be)
+* [The hard road to reproducibility](http://science.sciencemag.org/content/354/6308/142) commentary on Science Magzine.
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
 * [STAT545 Automating data analysis pipelines](https://stat545-ubc.github.io/automation00_index.html)
 * [Existing Workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
@@ -316,6 +317,8 @@ clustering.
 * [paper: Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
 * [open-research](https://github.com/svaksha/aksh/blob/master/open-research.md#arr)
 * [Good Enough Practices in Scientific Computing](http://arxiv.org/abs/1609.00037) We present a set of computing tools and techniques that every researcher can and should adopt. These recommendations synthesize inspiration from our own work, from the experiences of the thousands of people who have taken part in Software Carpentry and Data Carpentry workshops over the past six years, and from a variety of other guides. Unlike some other guides, our recommendations are aimed specifically at people who are new to research computing.  **Well worth reading!**
+* [A Quick Guide to Organizing Computational Biology Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) A must read for computational biologists!
+
 
 I will try snakemake...
 
