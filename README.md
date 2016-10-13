@@ -185,6 +185,8 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 ### visualization in general
 
 * [Nature Methods point of view data visulization](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
+* [A tutorial for the free Inkscape cross-platform vector graphics editor](https://github.com/fredhutchio/inkscape-tutorial)
+* [gimp](https://www.gimp.org/downloads/) for bit-map based figures.
 
 ### python tips and tools
 
