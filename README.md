@@ -283,6 +283,8 @@ clustering.
 [paper: Outlier Preservation by Dimensionality Reduction Techniques](http://oai.cwi.nl/oai/asset/22628/22628B.pdf)
 >"MDS best choice for preserving outliers, PCA for variance, & T-SNE for clusters"
 
+* [How to Use t-SNE Effectively](http://distill.pub/2016/misread-tsne/)
+
 
 
 * [Survival analysis of TCGA patients integrating gene expression (RNASeq) data](https://www.biostars.org/p/153013/)
