@@ -152,6 +152,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
 * [readr](https://github.com/hadley/readr)  
 * [tidyr](https://github.com/hadley/tidyr)  
+* [janitor](https://github.com/sfirke/janitor) simple tools for data cleaning in R. 
 * [dplry](https://github.com/hadley/dplyr)  
 * [csv fingerprint](http://setosa.io/blog/2014/08/03/csv-fingerprints/)
 * [ggplot2](https://github.com/hadley/ggplot2)
