@@ -1,6 +1,7 @@
 
-### papers
+### General
 * [So you want to be a computational biologist?](http://www.nature.com/nbt/journal/v31/n11/full/nbt.2740.html)
+* [The Biostar Handbook: A Beginner's Guide to Bioinformatics](http://read.biostarhandbook.com/?q=)
 
 ### Linux commands
 * [A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs) from Heng Li  
