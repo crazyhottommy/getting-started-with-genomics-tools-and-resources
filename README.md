@@ -327,6 +327,10 @@ clustering.
 
 ### Automate your workflow, open science and reproducible research
 
+**Automation wins in the long run.**
+
+![](https://cloud.githubusercontent.com/assets/4106146/20045655/b58467e6-a468-11e6-8d63-b44da6a276b1.png)
+
 **STEP 6 is usually missing!**  
 
 ![](https://cloud.githubusercontent.com/assets/4106146/19217628/807b5bba-8da5-11e6-8387-5f701d7a9ead.jpg)
