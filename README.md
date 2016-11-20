@@ -25,6 +25,9 @@
 ![](https://cloud.githubusercontent.com/assets/4106146/17654247/872f8716-6266-11e6-887d-cebd009dde6a.png)
 * [tmate](https://tmate.io/):Instant terminal sharing
 * [tmux](https://tmux.github.io/) is a terminal multiplexer similar to [`screen`](https://www.gnu.org/software/screen/manual/screen.html) but have more features.
+[tmux cheatsheet](https://gist.github.com/MohamedAlaa/2961058)  
+[tmux config](https://github.com/tony/tmux-config)    
+[tmux install without root](https://gist.github.com/ryin/3106801)
 
 
 * [All about redirection](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-3.html)
