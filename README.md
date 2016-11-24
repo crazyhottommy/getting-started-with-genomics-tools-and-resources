@@ -195,6 +195,9 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Efficient R programming](https://csgillespie.github.io/efficientR/)
 * [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 
+### Write your own R package
+* [R package primer: a minimal tutorial](http://kbroman.org/pkg_primer/)
+* [R packages](http://r-pkgs.had.co.nz/) a book by Hadley Wickham.
 ### handling arguments at the command line
 
 * [docopt.R](https://github.com/docopt/docopt.R) [tutorial](http://www.slideshare.net/EdwindeJonge1/docopt-user2014)
