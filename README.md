@@ -203,6 +203,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 
 * [docopt.R](https://github.com/docopt/docopt.R) [tutorial](http://www.slideshare.net/EdwindeJonge1/docopt-user2014)
 * [python version](http://docopt.org/)
+* [Generate a CLI tool from a Python module/function](https://github.com/bharadwaj-raju/cligenerator)
 
 ### visualization in general
 
