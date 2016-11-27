@@ -172,6 +172,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [ggforce](https://github.com/thomasp85/ggforce/tree/facets): facet_zoom() to zoom in part of the figure! and many more.
 * [ggedit](https://www.r-statistics.com/2016/11/ggedit-interactive-ggplot-aesthetic-and-theme-editor/?utm_content=buffer62da5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) – interactive ggplot aesthetic and theme editor.
 * [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_92)
+* [Ordering categories within ggplot2 facets](https://drsimonj.svbtle.com/ordering-categories-within-ggplot2-facets)
 * [plotly for R](https://cpsievert.github.io/plotly_book/)
 * [Make waffle (square pie) charts in R](https://github.com/hrbrmstr/waffle)
 * Bring the power of R to the command line: [littler](http://dirk.eddelbuettel.com/blog/2016/08/07/#littler-0.3.1)  [Rio](https://github.com/jeroenjanssens/data-science-at-the-command-line/blob/master/tools/Rio) A wrapper by Jeroen Janssens, the author of [data science at the command line](http://datascienceatthecommandline.com/)
