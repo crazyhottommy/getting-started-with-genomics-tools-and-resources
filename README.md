@@ -107,6 +107,7 @@ It is sometimes hard to remember. one can use the letter:The letters u, g, and o
 * [GNU datamash](https://www.gnu.org/software/datamash/)
 * [tabtk](https://github.com/lh3/tabtk) Toolkit for processing TAB-delimited format from Heng Li, the author of `Samtools`, `BWA` and many others.
 * [Another cross-platform, efficient, practical and pretty CSV/TSV toolkit in Golang](https://github.com/shenwei356/csvtk)
+* [visidata](https://github.com/saulpw/visidata) A console spreadsheet tool for discovering and arranging data
 
 ### How to name files
 It is really important to name your files correctly! see a [ppt](https://rawgit.com/Reproducible-Science-Curriculum/rr-organization1/master/organization-01-slides.html) by Jenny Bryan.
