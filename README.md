@@ -202,6 +202,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 ### Write your own R package
 * [R package primer: a minimal tutorial](http://kbroman.org/pkg_primer/)
 * [R packages](http://r-pkgs.had.co.nz/) a book by Hadley Wickham.
+* [Developing R packages](https://github.com/jtleek/rpackages/blob/master/README.md) from Jeff leek.
 ### handling arguments at the command line
 
 * [docopt.R](https://github.com/docopt/docopt.R) [tutorial](http://www.slideshare.net/EdwindeJonge1/docopt-user2014)
@@ -329,6 +330,7 @@ clustering.
 
 ### git and version control
 * [git intro by github](https://github.github.io/on-demand/)
+* [A Git Workflow Walkthrough Series](http://vallandingham.me/git-workflow.html)
 * [paper:A Quick Introduction to Version Control with Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
 * [paper:Ten Simple Rules for Taking Advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004947) 
 * [software carpentry git novice lesson](http://swcarpentry.github.io/git-novice/)
