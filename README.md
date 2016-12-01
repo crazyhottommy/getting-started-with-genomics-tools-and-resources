@@ -201,6 +201,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 
 ### Write your own R package
 * [R package primer: a minimal tutorial](http://kbroman.org/pkg_primer/)
+* [Write your own R package](http://stat545.com/packages06_foofactors-package.html)
 * [R packages](http://r-pkgs.had.co.nz/) a book by Hadley Wickham.
 * [Developing R packages](https://github.com/jtleek/rpackages/blob/master/README.md) from Jeff leek.
 ### handling arguments at the command line
