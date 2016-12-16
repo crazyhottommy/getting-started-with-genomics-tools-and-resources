@@ -165,6 +165,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [tidyr](https://github.com/hadley/tidyr)  
 * [janitor](https://github.com/sfirke/janitor) simple tools for data cleaning in R. 
 * [dplry](https://github.com/hadley/dplyr)  
+* [replyr](https://github.com/WinVector/replyr) An R package for fluid use of dplyr.
 * [csv fingerprint](http://setosa.io/blog/2014/08/03/csv-fingerprints/)
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
