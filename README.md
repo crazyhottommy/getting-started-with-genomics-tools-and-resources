@@ -176,6 +176,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_92)
 * [Ordering categories within ggplot2 facets](https://drsimonj.svbtle.com/ordering-categories-within-ggplot2-facets)
 * [plotly for R](https://cpsievert.github.io/plotly_book/)
+* [rematch2](https://github.com/MangoTheCat/rematch2#readme)Tidy output from regular expression matches
 * [Make waffle (square pie) charts in R](https://github.com/hrbrmstr/waffle)
 * Bring the power of R to the command line: [littler](http://dirk.eddelbuettel.com/blog/2016/08/07/#littler-0.3.1)  [Rio](https://github.com/jeroenjanssens/data-science-at-the-command-line/blob/master/tools/Rio) A wrapper by Jeroen Janssens, the author of [data science at the command line](http://datascienceatthecommandline.com/)
 * [htmlwidgets for R](http://www.htmlwidgets.org/showcase_d3heatmap.html) including `d3heatmap` for interactive heatmaps.
