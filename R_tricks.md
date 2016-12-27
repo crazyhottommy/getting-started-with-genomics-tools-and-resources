@@ -12,3 +12,16 @@ group_indices(df, x, y)
 df %>% mutate(pattern = group_indices_(df, .dots = c('x', 'y')))
 
 ```
+
+alternative to nested `ifelse`:
+```r
+library(dplyr)
+case_when
+
+cars %>% as_tibble %>% mutate(case_code = case_when(
+                              speed == 4 & dist == 2 ~ "this",
+                              dist > 6 & dist == 10 ~ "is",
+                              speed >=10 & dist >= 18 ~ "awesome"))
+                   
+
+```
