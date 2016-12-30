@@ -159,6 +159,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 
 ### Statistics
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [statistics for biologists](http://www.nature.com/collections/qghhqm) A collection of Nature articles on statistics in biology.
 
 #### packages for data wrangling, tidying and visualizing.  
 
