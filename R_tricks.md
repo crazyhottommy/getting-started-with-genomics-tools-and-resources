@@ -25,3 +25,11 @@ cars %>% as_tibble %>% mutate(case_code = case_when(
                    
 
 ```
+
+choose the max value of a group
+
+```r
+df %>% group_by(A, B) %>% top_n(n=1, wt= C)
+df %>% group_by(A,B) %>% slice(which.max(C))
+df %>% group_by(A, B) %>% filter(value == max(C)) 
+```
