@@ -33,3 +33,17 @@ df %>% group_by(A, B) %>% top_n(n=1, wt= C)
 df %>% group_by(A,B) %>% slice(which.max(C))
 df %>% group_by(A, B) %>% filter(value == max(C)) 
 ```
+cut groups on the fly in ggplot2
+
+```r
+p <- ggplot(diamonds, aes(x = carat, y = price))
+
+# Use cut_interval
+p + geom_boxplot(aes(group = cut_interval(carat, n=10)))
+
+# Use cut_number
+p + geom_boxplot(aes(group = cut_number(carat, n =10)))
+
+# Use cut_width
+p + geom_boxplot(aes(group = cut_width(carat, width = 0.25)))
+```
