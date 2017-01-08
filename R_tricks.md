@@ -47,3 +47,8 @@ p + geom_boxplot(aes(group = cut_number(carat, n =10)))
 # Use cut_width
 p + geom_boxplot(aes(group = cut_width(carat, width = 0.25)))
 ```
+
+weight box plot and violin plot by number of observations
+```r
+ggplot(diamonds, aes(x = cut, y = price)) + geom_boxplot(varwidth = TRUE)
+```
