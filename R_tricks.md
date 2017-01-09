@@ -33,6 +33,10 @@ df %>% group_by(A, B) %>% top_n(n=1, wt= C)
 df %>% group_by(A,B) %>% slice(which.max(C))
 df %>% group_by(A, B) %>% filter(value == max(C)) 
 ```
+first and last row in a group
+```r
+df %>% arrange(stopSequence) %>% group_by(id) %>% slice(c(1,n()))
+```
 cut groups on the fly in ggplot2
 
 ```r
