@@ -74,3 +74,8 @@ df %>% slice(match(x, category))
 3        B     2
 
 ```
+### filter out groups of rows by dplyr if a column in a group are all smaller than a number
+
+```r
+df %>% group_by(A,B) %>% filter(all(C >10)) 
+```
