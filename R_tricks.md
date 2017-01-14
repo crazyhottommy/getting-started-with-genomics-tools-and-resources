@@ -55,6 +55,14 @@ p + geom_boxplot(aes(group = cut_width(carat, width = 0.25)))
 ### weight box plot and violin plot by number of observations
 ```r
 ggplot(diamonds, aes(x = cut, y = price)) + geom_boxplot(varwidth = TRUE)
+
+library(dplyr)
+mammals2 <- mammals %>%
+  group_by(vore) %>%
+  mutate(n = n()/nrow(mammals))
+  
+ggplot(mammals2, aes(x = vore, y = sleep_total, fill = vore)) +
+  geom_violin(aes(weight = n), col = NA)
 ```
 
 ### Reorder rows using custom order
