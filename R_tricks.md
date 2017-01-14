@@ -98,3 +98,4 @@ df %>% group_by(A,B) %>% filter(all(C >10))
 require(GGally)
 ggparcoord(iris, columns = 1:4, groupColumn = 5, scale = "globalminmax", order = "anyClass", alphaLines = 0.4) 
 ```
+![](https://cloud.githubusercontent.com/assets/4106146/21956921/a139fc92-da50-11e6-9630-f56805ebd5d3.png)
