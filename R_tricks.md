@@ -91,3 +91,10 @@ df %>% group_by(A,B) %>% filter(all(C >10))
 ### ggplot geom_density()
 
 >The default combined density plot extends the range of all values to the total extent of the entire dataset, which may be a bit confusing. In the fourth plot, adjust for this by setting trim = TRUE inside `geom_density()`. However, be cautious. Since the distributions are cut off at the extreme ends, the area under the curve technically is not equal to one anymore.
+
+### parallel coordinate plot
+
+```r
+require(GGally)
+ggparcoord(iris, columns = 1:4, groupColumn = 5, scale = "globalminmax", order = "anyClass", alphaLines = 0.4) 
+```
