@@ -99,3 +99,37 @@ require(GGally)
 ggparcoord(iris, columns = 1:4, groupColumn = 5, scale = "globalminmax", order = "anyClass", alphaLines = 0.4) 
 ```
 ![](https://cloud.githubusercontent.com/assets/4106146/21956921/a139fc92-da50-11e6-9630-f56805ebd5d3.png)
+
+### plot MDS with ggfortify
+
+As you can probably imagine, distance matrices (class dist) contain the measured distance between all pair-wise combinations of many points. For example, the eurodist dataset contains the distances between major European cities. dist objects lend themselves well to `ggfortify::autoplot()`.
+
+The `stats::cmdscale()` function performs Classical Multi-Dimensional Scaling and returns point coodinates as a matrix. Although autoplot will work on this object, it will produce a heatmap, and not a scatter plot. However, if either `eig = TRUE`, `add = TRUE` or `x.ret = TRUE` is specified, stats::cmdscale() will return a list instead of matrix. In these cases, `ggfortify::autoplot` can deal with the output. Details on these arguments can be found in the docs (?cmdscale).
+
+```r
+# ggfortify and eurodist are available
+
+# Autoplot + ggplot2 tweaking
+autoplot(eurodist) + 
+labs( x = "", y = "") + 
+coord_fixed() +
+theme(axis.text.x = element_text(angle = 90, hjust =1, vjust = 0.5))
+
+# Autoplot of MDS
+autoplot(cmdscale(eurodist, eig = TRUE), label = TRUE, label.size =3, size = 0)
+
+```
+### plot k-means result with ggfortify
+
+```r
+library(ggfortify)
+# perform clustering
+iris_k<- kmeans(iris[-5], center = 3)
+
+# autplot: coloring according to cluster
+autoplot(iris_k, data = iris, frame = TRUE)
+
+# autoplot: coloring according to species
+autoplot(iris_k, data = iris, frame = TRUE, col = "Species")
+
+```
