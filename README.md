@@ -302,6 +302,8 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 ### Tutorials
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/). Learn R and bioconductor.
 * [PCA, MDS, k-means, Hierarchical clustering and heatmap](https://rpubs.com/crazyhottommy/PCA_MDS). I wrote it.
+* [A tale of two heatmaps](https://rpubs.com/crazyhottommy/a-tale-of-two-heatmap-functions). I wrote it.
+* [Heatmap demystified](https://rpubs.com/crazyhottommy/heatmap_demystified). I wrote it.
 * [Cluster Analysis in R - Unsupervised machine learning](http://www.sthda.com/english/wiki/cluster-analysis-in-r-unsupervised-machine-learning#at_pco=smlre-1.0&at_si=58765a95fcb21379&at_ab=per-2&at_pos=3&at_tot=4) very practical intro on STHDA website.
 * [I wrote on PCA, and heatmaps on Rpub](https://rpubs.com/crazyhottommy)
 * A most read for clustering analysis for high-dimentional biological data:[Avoiding common pitfalls when clustering
