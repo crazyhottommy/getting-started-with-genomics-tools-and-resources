@@ -301,7 +301,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [Ferret, a User-Friendly Java Tool to Extract Data from the 1000 Genomes Project](http://limousophie35.github.io/Ferret/)
 * [EGA:European Genome-phenome Archive](https://www.ebi.ac.uk/ega/datasets)
 * [survival curves for TCGA data: a simple web tool](http://www.oncolnc.org/)
-* [AACR Project GENIE](https://www.synapse.org/#!Synapse:syn7222066/wiki/405659)
+* [AACR Project GENIE](https://www.synapse.org/#!Synapse:syn7222066/wiki/405659) [data guide](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources/blob/master/GENIEDataGuide.pdf)
 
 ### Integrative analysis
 * [High-dimensional genomic data bias correction and data integration using MANCIE](http://www.nature.com/ncomms/2016/160413/ncomms11305/full/ncomms11305.html)  correct batch effects for data from different sequencing methods. (RNAseq vs ChIPseq)
