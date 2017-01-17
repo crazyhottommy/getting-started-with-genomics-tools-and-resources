@@ -6,7 +6,17 @@
 * [The Biostar Handbook: A Beginner's Guide to Bioinformatics](http://read.biostarhandbook.com/?q=) I am honored to be a co-author of this book. The ChIP-seq section is going to be released by the mid of 2017.
 * [A New Online Computational Biology Curriculum](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662) PLOS genetics paper.
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/) The best course to get you started with genomics using R. I have taken 3 times for the same course to get a deep understanding of the concepts and R commands.
+* [Expanding the computational toolbox for mining cancer genomes](http://www.nature.com/nrg/journal/v15/n8/full/nrg3767.html) Nature Review.
 * [some repos from command line to rstats and github](https://github.com/info-201)
+* 2016 review [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
+* [Cancer genomics — from bench to bedside: review papers from Nature](http://www.nature.com/collections/dswwtfkdty?BAN_NRG_1602_CANCERCOLLECTION_PORTFOLIO)
+
+### some biology
+If you are from fields outside of biology, places to get you started:
+
+* [Tales from the Genome](https://www.udacity.com/course/tales-from-the-genome--bio110) A course by Udacity and 23andMe.
+* [The Biology of Cancer](http://garlandscience.com/product/isbn/9780815342205) A classic text book by Robert A. Weinberg. A must read for all cancer biologists.
+* [Learn Genetics](http://learn.genetics.utah.edu/) from University of Utah learning center.
 
 ### Linux commands
 * [A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs) from Heng Li  
@@ -242,10 +252,8 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 
 * [Practical Machine Learning with Python: standford crowd course](http://crowdcourse.stanford.edu/ml.html)
 
-
-### Papers
-* 2016 review [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
-* [Cancer genomics — from bench to bedside: review papers from Nature](http://www.nature.com/collections/dswwtfkdty?BAN_NRG_1602_CANCERCOLLECTION_PORTFOLIO)
+### Amazon cloud computing
+[Intro to AWS Cloud Computing](https://github.com/griffithlab/rnaseq_tutorial/wiki/Intro-to-AWS-Cloud-Computing#necessary-steps-for-launching-an-instance)
 
 ### Genomics-visualization-tools
 
