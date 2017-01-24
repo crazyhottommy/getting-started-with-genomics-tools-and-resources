@@ -33,6 +33,12 @@ df %>% group_by(A, B) %>% top_n(n=1, wt= C)
 df %>% group_by(A,B) %>% slice(which.max(C))
 df %>% group_by(A, B) %>% filter(value == max(C)) 
 ```
+### filter by group
+```r
+df %>% group_by(A,B) %>% filter(all(C>10))
+df %>% group_by(A,B) %>% filter(any(C>10))
+```
+
 ### first and last row in a group
 ```r
 df %>% arrange(stopSequence) %>% group_by(id) %>% slice(c(1,n()))
@@ -121,6 +127,7 @@ autoplot(cmdscale(eurodist, eig = TRUE), label = TRUE, label.size =3, size = 0)
 ```
 
 ### build multiple plots
+also check `purrr`, Hadely has not used `plyr` for long time. ref...twitter
 ```r
 library(plyr)
 myplots<- dlplyr(mtcars, .(cyl), function(df){
