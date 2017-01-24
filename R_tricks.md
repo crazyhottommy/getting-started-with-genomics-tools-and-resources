@@ -119,6 +119,28 @@ theme(axis.text.x = element_text(angle = 90, hjust =1, vjust = 0.5))
 autoplot(cmdscale(eurodist, eig = TRUE), label = TRUE, label.size =3, size = 0)
 
 ```
+
+### build multiple plots
+```r
+library(plyr)
+myplots<- dlplyr(mtcars, .(cyl), function(df){
+        ggplot(df, aes(mpg, wt)) +
+                geom_point() +
+                xlim(range(mtcars$mpg)) +
+                ylim(range(mtcars$wt)) +
+                ggtilte(paste(df$cyl[1], "cylinders"))})
+# by position                
+myplots[[2]]
+
+# by name
+myplots[["4"]]
+library(gridExtra)
+
+grid.arrange(myplots[[1]], myplots[[2]], ncol = 2)
+do.call(grid.arrange, myplots)
+
+```
+
 ### plot k-means result with ggfortify
 
 ```r
