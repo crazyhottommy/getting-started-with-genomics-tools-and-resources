@@ -170,7 +170,7 @@ autoplot(iris_k, data = iris, frame = TRUE)
 autoplot(iris_k, data = iris, frame = TRUE, col = "Species")
 
 ```
-### join multiple datasets
+### join, filter multiple datasets
 
 ```r
 df1 %>% left_join(df2) %>% left_join(df3)....
@@ -179,4 +179,8 @@ library(purrr)
 
 tables<- list(df1,df2,df3)
 reduce(tables, left_join, by = "key")
+
+list(more_artists, more_bands, supergroups) %>% 
+  # Return rows of more_artists in all three datasets
+  reduce(semi_join, by = c("first", "last"))
 ```
