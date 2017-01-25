@@ -43,6 +43,14 @@ df %>% group_by(A,B) %>% filter(any(C>10))
 ```r
 df %>% arrange(stopSequence) %>% group_by(id) %>% slice(c(1,n()))
 ```
+### change all the factor columns to characters
+```r
+library(purrr)
+library(dplyr)
+bob %>% map_if(is.factor, as.character)
+
+bob %>% mutate_if(is.factor, as.character)
+```
 ### cut groups on the fly in ggplot2
 
 ```r
