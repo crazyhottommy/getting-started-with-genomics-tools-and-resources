@@ -184,3 +184,13 @@ list(more_artists, more_bands, supergroups) %>%
   # Return rows of more_artists in all three datasets
   reduce(semi_join, by = c("first", "last"))
 ```
+### I need more color for my ggplot2
+read http://novyden.blogspot.com/2013/09/how-to-expand-color-palette-with-ggplot.html
+
+```r
+colorRampPalette(brewer.pal(9, "Set1"))(26)
+ [1] "#E41A1C" "#AC3A4D" "#755A7F" "#3D7AB1" "#3D8B99" "#449B75" "#4BAB52" "#5F975F" "#77787B" "#8F5998"
+[11] "#AC5782" "#CD674E" "#EE771A" "#FF9308" "#FFBC18" "#FFE528" "#F4EA31" "#D7B42E" "#BB7E2A" "#AC5934"
+[21] "#C66764" "#E07494" "#F381BD" "#D589B1" "#B791A5" "#999999"
+
+```
