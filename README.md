@@ -23,6 +23,7 @@ If you are from fields outside of biology, places to get you started:
 * [Linux command line exercises for NGS data processing](http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/linux.html)  
 * [command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=rca84m6nsz6c9ngnugt8uayvi) teaches you unix command step by step
 * [Unix in your browser](https://browsix.org/). Maybe useful for teaching bash?
+* [A Book for Anyone to Get Started with Unix](https://github.com/seankross/the-unix-workbench)
 * [bash one-liners for bioinformatics](https://github.com/crazyhottommy/oneliners)  
 * [some of my bash one-liner collections](https://github.com/crazyhottommy/scripts-general-use/blob/master/Shell/bioingformatics_one_liner.md)
 * [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
