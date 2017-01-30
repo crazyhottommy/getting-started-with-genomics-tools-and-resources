@@ -245,3 +245,26 @@ ggplot(df, aes(x=factor(col), y=factor(row), color=vore, size=value, alpha=value
         panel.grid.major.x = element_blank(),   # disable lines in grid on X-axis
         panel.grid.minor.x = element_blank())   # disable lines in grid on X-axis
 ```
+
+### write a list of dataframe to files.
+
+```r
+df_list<- split(df, df$A)
+sapply(names(df_list), function (x) write.table(df_list[[x]], file=paste(x, "txt", sep=".")))
+```
+
+### read in a list of data frames from the current directory 
+
+```r
+files<- as.list(dir(".", pattern= ".tsv"))
+
+## need to add the file name into a column
+datlist <- lapply(mix.files, function(f) {
+        dat = read.table(f, header =T, sep ="\t", quote = "\"")
+        dat$sample = gsub(".tsv", "", f)
+        return(dat)
+})
+
+data<- do.call(rbind, datlist)
+## or use dplyr: bind_rows(datlist, .id = "sample")
+```
