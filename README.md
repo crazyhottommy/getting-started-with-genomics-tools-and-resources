@@ -14,11 +14,12 @@
 * 2016 review [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
 * [Cancer genomics — from bench to bedside: review papers from Nature](http://www.nature.com/collections/dswwtfkdty?BAN_NRG_1602_CANCERCOLLECTION_PORTFOLIO)
 
-### some biology
+### Some biology
 If you are from fields outside of biology, places to get you started:
 
 * [Tales from the Genome](https://www.udacity.com/course/tales-from-the-genome--bio110) A course by Udacity and 23andMe.
 * [The Biology of Cancer](http://garlandscience.com/product/isbn/9780815342205) A classic text book by Robert A. Weinberg. A must read for all cancer biologists.
+* [Molecular Biology of the Cell](https://www.amazon.com/Molecular-Biology-Cell-Bruce-Alberts/dp/0815341059/ref=mt_hardcover?_encoding=UTF8&me=) A text book
 * [Learn Genetics](http://learn.genetics.utah.edu/) from University of Utah learning center.
 
 ### Linux commands
