@@ -223,6 +223,10 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Efficient R programming](https://csgillespie.github.io/efficientR/)
 * [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 
+### Handling big data in R
+* [Lightning Fast Serialization of Data Frames for R](https://github.com/fstpackage/fst) faster than `data.table`, `feather`.
+* [Rpub post: Handling large data sets in R](https://rpubs.com/msundar/large_data_analysis)
+
 ### Write your own R package
 * [R package primer: a minimal tutorial](http://kbroman.org/pkg_primer/)
 * [Write your own R package](http://stat545.com/packages06_foofactors-package.html)
