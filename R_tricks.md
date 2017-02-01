@@ -268,3 +268,59 @@ datlist <- lapply(mix.files, function(f) {
 data<- do.call(rbind, datlist)
 ## or use dplyr: bind_rows(datlist, .id = "sample")
 ```
+### gather multiple columns
+read http://stackoverflow.com/questions/41880796/grouped-multicolumn-gather-with-dplyr-tidyr-purrr
+```r
+have
+#> # A tibble: 4 × 8
+#>    gene sample genotype1 genotype2 genotype3 freq1 freq2 freq3
+#>   <chr>  <chr>     <chr>     <chr>     <chr> <dbl> <dbl> <dbl>
+#> 1    gX     s1        AA        AC        CC   0.8  0.15  0.05
+#> 2    gX     s2        AA        AC        CC   0.9  0.10  0.00
+#> 3    gY     s1        GG        GT        TT   0.7  0.20  0.10
+#> 4    gY     s2        GG        GT        TT   0.6  0.35  0.05
+
+to
+
+want
+#> # A tibble: 12 × 4
+#>     gene sample genotype  freq
+#>    <chr>  <chr>    <chr> <dbl>
+#> 1     gX     s1       AA  0.80
+#> 2     gX     s1       AC  0.15
+#> 3     gX     s1       CC  0.05
+#> 4     gX     s2       AA  0.90
+#> 5     gX     s2       AC  0.10
+#> 6     gX     s2       CC  0.00
+#> 7     gY     s1       GG  0.70
+#> 8     gY     s1       GT  0.20
+#> 9     gY     s1       TT  0.10
+#> 10    gY     s2       GG  0.60
+#> 11    gY     s2       GT  0.35
+#> 12    gY     s2       TT  0.05
+
+library(sjmisc)
+to_long(have, keys = "genos", values = c("genotype", "freq"),
+       c("genotype1", "genotype2", "genotype3"),
+       c("freq1", "freq2", "freq3"))
+
+##  A tibble: 12 × 5
+##     gene sample     genos genotype  freq
+##    <chr>  <chr>     <chr>    <chr> <dbl>
+## 1     gX     s1 genotype1       AA  0.80
+## 2     gX     s2 genotype1       AA  0.90
+## 3     gY     s1 genotype1       GG  0.70
+## 4     gY     s2 genotype1       GG  0.60
+## 5     gX     s1 genotype2       AC  0.15
+## 6     gX     s2 genotype2       AC  0.10
+## 7     gY     s1 genotype2       GT  0.20
+## 8     gY     s2 genotype2       GT  0.35
+## 9     gX     s1 genotype3       CC  0.05
+## 10    gX     s2 genotype3       CC  0.00
+## 11    gY     s1 genotype3       TT  0.10
+## 12    gY     s2 genotype3       TT  0.05
+
+library(data.table)
+melt(setDT(have), id = 1:2, measure = patterns("genotype", "freq"))
+
+```
