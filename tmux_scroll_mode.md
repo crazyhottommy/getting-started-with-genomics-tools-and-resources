@@ -1,9 +1,18 @@
 
-### install tmux
-
-
-
 ### tmux config file
+you can copy https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources/blob/master/scripts/.tmux.conf
+to your home directory.
+
+it changed the key binding from `control + b` to `control + a` if you are familiar with the `screen` shortcuts.
+
+`control + a + c` will create a new window.
+`control + a + Space` will move to previous window.
+`control + a + n` will move to next window.
+
+```
+control + a + ?
+```
+will show you all the shortcuts.
 
 
 ### scroll mode
@@ -14,7 +23,7 @@ I want to just use the mouse to scroll up and down and copy/paste.
 read this long thread github issue: https://github.com/tmux/tmux/issues/145
 The solution that worked for me:
 
-1. download the [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+* download the [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 
 ```bash
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
@@ -35,7 +44,7 @@ set -g @plugin 'tmux-plugins/tmux-sensible'
 run '~/.tmux/plugins/tpm/tpm'
 
 ```
-2. Now install [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) plugin.
+* Now install [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) plugin.
 
 open your `.tmux.conf`.
 
@@ -52,7 +61,7 @@ then add the following line to your .tmux.conf file:
 set -g @plugin 'nhdaly/tmux-better-mouse-mode'
 ```
 
-3. install it
+*  install it
 
 ```
 # start a new session
@@ -65,7 +74,7 @@ tmux
 Now if you scroll up with your mouse, you will enter into copy mode automatically, and when you scroll down to the end of the current screen,
 you will exit the copy mode automatically. 
 
-4. copy and paste
+*  copy and paste
 If you scroll up and select the text you want to copy by left-click and drag, you will exit
 the copy mode instantly, and the content you selected will be copied in the buffer. You just need to `control + a + ]` to paste it.
 very cool!
