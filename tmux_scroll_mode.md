@@ -74,7 +74,8 @@ tmux
 Now if you scroll up with your mouse, you will enter into copy mode automatically, and when you scroll down to the end of the current screen,
 you will exit the copy mode automatically. 
 
-*  copy and paste
+*  copy and paste  
+
 If you scroll up and select the text you want to copy by left-click and drag, you will exit
 the copy mode instantly, and the content you selected will be copied in the buffer. You just need to `control + a + ]` to paste it.
 very cool!
