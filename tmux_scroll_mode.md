@@ -67,6 +67,9 @@ set -g @plugin 'nhdaly/tmux-better-mouse-mode'
 # start a new session
 tmux
 
+# source the config
+tmux source ~/.tmux.conf
+
 # install plugin
 `control + a + I (captial)` to install all the plugins.
 
