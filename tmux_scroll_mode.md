@@ -83,5 +83,7 @@ If you scroll up and select the text you want to copy by left-click and drag, yo
 the copy mode instantly, and the content you selected will be copied in the buffer. You just need to `control + a + ]` to paste it.
 very cool!
 
+### add tmux-yank plugin
 
+add [tmux-yank](https://github.com/tmux-plugins/tmux-yank) plugin to enable copy text in tmux session on the clip-borad of the system.
 
