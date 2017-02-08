@@ -87,3 +87,6 @@ very cool!
 
 add [tmux-yank](https://github.com/tmux-plugins/tmux-yank) plugin to enable copy text in tmux session on the clip-borad of the system.
 
+add `set -g @plugin 'tmux-plugins/tmux-yank'` to .tmux.conf
+# install plugin
+`control + a + I (captial)` to install all the plugins.
