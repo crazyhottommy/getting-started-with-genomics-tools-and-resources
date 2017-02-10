@@ -300,6 +300,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [TCGA alternative splicing](http://bioinformatics.mdanderson.org/TCGASpliceSeq)
 * [ISOexpresso](http://wiki.tgilab.org/ISOexpresso/): a web-based platform for isoform-level expression analysis in human cancer
 * [omics databse](http://www.omicsdi.org/#/) The Omics Discovery Index (OmicsDI) provides dataset discovery across a heterogeneous, distributed group of Transcriptomics, Genomics, Proteomics and Metabolomics data resources spanning eight repositories in three continents and six organisations, including both open and controlled access data resources. The resource provides a short description of every dataset: accession, description, sample/data protocols biological evidences, publication, etc. Based on these metadata, OmicsDI provides extensive search capabilities, as well as identification of related datasets by metadata and data content where possible. In particular, OmicsDI identifies groups of related, multi-omics datasets across repositories by shared identifiers.
+* [MAGI](http://magi.brown.edu/) Mutation Annotation &Genome Interpretation for TCGA data.
 * [How to successfully apply for access to dbGaP](http://blog.repositive.io/how-to-successfully-apply-for-access-to-dbgap/)
 
 ### Large data consortium data mining
