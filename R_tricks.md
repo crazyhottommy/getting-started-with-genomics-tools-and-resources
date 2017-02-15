@@ -379,3 +379,20 @@ iris %>% as_tibble() %>% mutate_at(vars(Sepal.Length:Petal.Width), as.character)
 # ... with 140 more rows
 
 ```
+
+### diff, lag and lead
+
+```r
+# diff minus the previous number in sequence
+> a<- c(1,2,5,7,9,14)
+> diff(a)
+[1] 1 3 2 2 5
+
+## the long way
+> a
+[1]  1  2  5  7  9 14
+> lag(a, 1)
+[1] NA  1  2  5  7  9
+> a - lag(a,1)
+[1] NA  1  3  2  2  5
+```
