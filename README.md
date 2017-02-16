@@ -222,6 +222,8 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [cowplot](https://github.com/wilkelab/cowplot) -- An add-on to the ggplot2 plotting package
 * [ggplot2 - Easy way to mix multiple graphs on the same page - R software and data visualization](http://www.sthda.com/english/wiki/ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page-r-software-and-data-visualization)
 * [Extract Tables from PDFs](https://github.com/leeper/tabulizer)
+* Alternative to venndiagram! [upSetR](https://github.com/hms-dbmi/UpSetR)
+* [hierarchicalSets](https://github.com/thomasp85/hierarchicalSets)
 * [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 * [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)This is a course that combines video, HTML and interactive elements to teach the statistical programming language R.
 * [These are the course notes for the Monash Bioinformatics Platform’s “R More” course](https://monashbioinformaticsplatform.github.io/r-more/)
