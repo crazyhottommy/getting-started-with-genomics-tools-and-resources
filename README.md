@@ -75,27 +75,31 @@ This will cause the ouput of a program to be written to a file.
          ls -l > ls-l.txt
         
 Here, a file called 'ls-l.txt' will be created and it will contain what you would see on the screen if you type the command 'ls -l' and execute it.
-2. stderr 2 file
+
+2. stderr 2 file  
 
 This will cause the stderr ouput of a program to be written to a file.
 
          grep da * 2> grep-errors.txt
         
-Here, a file called 'grep-errors.txt' will be created and it will contain what you would see the stderr portion of the output of the 'grep da *' command.
+Here, a file called 'grep-errors.txt' will be created and it will contain what you would see the stderr portion of the output of the 'grep da *' command.  
+
 3. stdout 2 stderr
 
 This will cause the stderr ouput of a program to be written to the same filedescriptor than stdout.
 
          grep da * 1>&2 
         
-Here, the stdout portion of the command is sent to stderr, you may notice that in differen ways.
+Here, the stdout portion of the command is sent to stderr, you may notice that in differen ways.  
+
 4. stderr 2 stdout
 
 This will cause the stderr ouput of a program to be written to the same filedescriptor than stdout.
 
          grep * 2>&1
         
-Here, the stderr portion of the command is sent to stdout, if you pipe to less, you'll see that lines that normally 'dissapear' (as they are written to stderr) are being kept now (because they're on stdout).
+Here, the stderr portion of the command is sent to stdout, if you pipe to less, you'll see that lines that normally 'dissapear' (as they are written to stderr) are being kept now (because they're on stdout).  
+
 5. stderr and stdout 2 file
 
 This will place every output of a program to a file. This is suitable sometimes for cron entries, if you want a command to pass in absolute silence.
@@ -109,16 +113,16 @@ each digit is for: user, group and other.
 
 `chmod 754 myfile`: this means the user has read, write and execute permssion; member in the same group has read and execute permission but no write permission; other people in the world only has read permission.  
 
-4 stands for "read",  
-2 stands for "write",  
-1 stands for "execute", and  
-0 stands for "no permission."  
-So 7 is the combination of permissions 4+2+1 (read, write, and execute), 5 is 4+0+1 (read, no write, and execute), and 4 is 4+0+0 (read, no write, and no execute).  
+4 stands for "read",    
+2 stands for "write",    
+1 stands for "execute", and    
+0 stands for "no permission."    
+So 7 is the combination of permissions 4+2+1 (read, write, and execute), 5 is 4+0+1 (read, no write, and execute), and 4 is 4+0+0 (read, no write, and no execute).    
 
-It is sometimes hard to remember. one can use the letter:The letters u, g, and o stand for "user", "group", and "other"; "r", "w", and "x" stand for "read", "write", and "execute", respectively.  
+It is sometimes hard to remember. one can use the letter:The letters u, g, and o stand for "user", "group", and "other"; "r", "w", and "x" stand for "read", "write", and "execute", respectively.    
 
-`chmod u+x myfile`  
-`chmod g+r myfile`
+`chmod u+x myfile`    
+`chmod g+r myfile`  
 
 
 ### Do not give me excel files!
