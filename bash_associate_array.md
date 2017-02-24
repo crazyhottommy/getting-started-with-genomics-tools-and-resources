@@ -43,7 +43,7 @@ echo ${cols[@]}
 for i in Pa{25..37}
 do
    echo PyClone run_analysis_pipeline --in_file ${i}T1_pyclone.tsv ${i}T2_pyclone.tsv --tumour_contents ${cols[${i}T1]} ${cols[${i}T2]} --samples ${i}T1 ${i}T2 --density pyclone_binomial --working_dir ${i}T_pyclone_analysis --min_cluster_size 2 --seed 123 --num_iters 50000 > ${i}_pyclone_commands.txt
-
+done
 ```
 ```bash
 chmod u+x make_commands.sh
