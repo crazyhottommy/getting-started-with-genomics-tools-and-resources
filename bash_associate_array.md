@@ -11,7 +11,7 @@ so I used the associated array in bash.
 First, generate a file containing the tumor purity for each tumor:  
 
 ```bash
-head -6 `all_tumor_purity_no_header.txt`
+head -6 all_tumor_purity_no_header.txt
 0.69	Pa25T1
 0.26	Pa25T2
 0.49	Pa26T1
@@ -51,7 +51,7 @@ chmod u+x make_commands.sh
 ```
 
 what you get:
-cat *commands.txt
+`cat *commands.txt`
 ```
 PyClone run_analysis_pipeline --in_file Pa25T1_pyclone.tsv Pa25T2_pyclone.tsv --tumour_contents 0.69 0.26 --samples Pa25T1 Pa25T2 --density pyclone_binomial --working_dir Pa25T_pyclone_analysis --min_cluster_size 2 --seed 123 --num_iters 50000
 PyClone run_analysis_pipeline --in_file Pa26T1_pyclone.tsv Pa26T2_pyclone.tsv --tumour_contents 0.49 0.37 --samples Pa26T1 Pa26T2 --density pyclone_binomial --working_dir Pa26T_pyclone_analysis --min_cluster_size 2 --seed 123 --num_iters 50000
