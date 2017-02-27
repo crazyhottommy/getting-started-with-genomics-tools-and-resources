@@ -126,6 +126,7 @@ It is sometimes hard to remember. one can use the letter:The letters u, g, and o
 
 
 ### Do not give me excel files!
+* [scary-excel-stories](https://github.com/jennybc/scary-excel-stories/blob/master/README.md)
 * [convert xlsx to csv: xlsx2csv](https://github.com/dilshod/xlsx2csv)
 * [csvkit](http://csvkit.readthedocs.io/en/latest/index.html#)
 * [GNU datamash](https://www.gnu.org/software/datamash/)
