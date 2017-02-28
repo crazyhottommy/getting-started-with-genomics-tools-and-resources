@@ -197,6 +197,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
 * [A List of ggplot2 extensions](https://www.ggplot2-exts.org/)
+* [nice ggplot themes](https://github.com/hrbrmstr/hrbrthemes)
 * [colourpicker](https://github.com/daattali/colourpicker) A colour picker tool for Shiny and for selecting colours in plots (in R). [R blogger post](https://www.r-bloggers.com/plot-colour-helper-finally-an-easy-way-to-pick-colours-for-your-r-plots/amp/)
 * [ggforce](https://github.com/thomasp85/ggforce/tree/facets): facet_zoom() to zoom in part of the figure! and many more.
 * [ggedit](https://www.r-statistics.com/2016/11/ggedit-interactive-ggplot-aesthetic-and-theme-editor/?utm_content=buffer62da5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) – interactive ggplot aesthetic and theme editor.
