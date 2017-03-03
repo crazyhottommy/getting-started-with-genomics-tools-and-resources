@@ -315,7 +315,8 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 ### Large data consortium data mining
 
 * [AnnotationHub](http://bioconductor.org/packages/devel/bioc/vignettes/AnnotationHub/inst/doc/AnnotationHub-HOWTO.html#roadmap-epigenomics-project) bioconductor package for TCGA and epigenome roadmap, ENCODE project.  
-* [TCGAbiolinks](http://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/tcgaBiolinks.html) bioconductor package
+* [TCGAbiolinks](http://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/tcgaBiolinks.html) bioconductor package.
+* [GenomicDataCommons](https://github.com/Bioconductor/GenomicDataCommons) bioc package to acess GDC.
 * [RTCGA bioconductor](http://bioconductor.org/packages/devel/bioc/html/RTCGA.html)
 * [f1000 workflow paper TCGA Workflow: Analyze cancer genomics and epigenomics data using Bioconductor packages](http://f1000research.com/articles/5-1542/v1)
 * paper [Data mining The Cancer Genome Atlas in the era of precision cancer medicine](http://www.smw.ch/content/smw-2015-14183/)
@@ -328,7 +329,6 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 ### Integrative analysis
 * [High-dimensional genomic data bias correction and data integration using MANCIE](http://www.nature.com/ncomms/2016/160413/ncomms11305/full/ncomms11305.html)  correct batch effects for data from different sequencing methods. (RNAseq vs ChIPseq)
 * 
-
 
 ### Tutorials
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/). Learn R and bioconductor.
