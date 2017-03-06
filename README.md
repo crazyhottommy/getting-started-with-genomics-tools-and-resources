@@ -356,8 +356,9 @@ clustering.
 >"MDS best choice for preserving outliers, PCA for variance, & T-SNE for clusters"
 
 * [How to Use t-SNE Effectively](http://distill.pub/2016/misread-tsne/)
-
-
+* [Rtsne](https://github.com/jkrijthe/Rtsne) R package for T-SNE
+* [rtsne](https://github.com/jdonaldson/rtsne) An R package for t-SNE (t-Distributed Stochastic Neighbor Embedding)
+a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cface90d32
 
 * [Survival analysis of TCGA patients integrating gene expression (RNASeq) data](https://www.biostars.org/p/153013/)
 * [Tutorial: Machine Learning For Cancer Classification](https://www.biostars.org/p/85124/). It has four parts. 
