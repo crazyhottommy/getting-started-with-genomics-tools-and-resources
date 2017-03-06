@@ -179,6 +179,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 1. [xargs](http://www.cyberciti.biz/faq/linux-unix-bsd-xargs-construct-argument-lists-utility/)  
 2. [GNU parallel](https://www.gnu.org/software/parallel/). one of my post [here](http://crazyhottommy.blogspot.com/2016/03/the-most-powerful-uniux-commands-i.html)  
 3. [gxargs](https://github.com/brentp/gargs) by Brent Pedersen. Written in GO.  
+4. [future: Unified Parallel and Distributed Processing in R for Everyone](https://cran.r-project.org/web/packages/future/index.html)
 
 ### Statistics
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
