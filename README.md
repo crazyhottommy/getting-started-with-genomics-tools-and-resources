@@ -22,6 +22,10 @@ If you are from fields outside of biology, places to get you started:
 * [Molecular Biology of the Cell](https://www.amazon.com/Molecular-Biology-Cell-Bruce-Alberts/dp/0815341059/ref=mt_hardcover?_encoding=UTF8&me=) A text book
 * [Learn Genetics](http://learn.genetics.utah.edu/) from University of Utah learning center.
 
+### Some statistics
+
+* [seeing theory](http://students.brown.edu/seeing-theory/index.html) The goal of the project is to make statistics more accessible to a wider range of students through interactive visualizations. 
+
 ### Linux commands
 * [A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs) from Heng Li  
 * [Linux command line exercises for NGS data processing](http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/linux.html)  
