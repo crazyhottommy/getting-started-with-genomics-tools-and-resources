@@ -249,12 +249,13 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Write your own R package](http://stat545.com/packages06_foofactors-package.html)
 * [R packages](http://r-pkgs.had.co.nz/) a book by Hadley Wickham.
 * [Developing R packages](https://github.com/jtleek/rpackages/blob/master/README.md) from Jeff leek.
+
 ### handling arguments at the command line
 
 * [docopt.R](https://github.com/docopt/docopt.R) [tutorial](http://www.slideshare.net/EdwindeJonge1/docopt-user2014)
 * [python version](http://docopt.org/)
 * [Generate a CLI tool from a Python module/function](https://github.com/bharadwaj-raju/cligenerator)
-
+* [Introducing Python Fire, a library for automatically generating command line interfaces](https://opensource.googleblog.com/2017/03/python-fire-command-line.html)
 ### visualization in general
 
 * [Nature Methods point of view data visulization](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
