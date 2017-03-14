@@ -26,6 +26,7 @@ If you are from fields outside of biology, places to get you started:
 
 * [seeing theory](http://students.brown.edu/seeing-theory/index.html) The goal of the project is to make statistics more accessible to a wider range of students through interactive visualizations. 
 * [Points of Significance: Interpreting P values](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4210.html)
+* [statistics for biologists](http://www.nature.com/collections/qghhqm/pointsofsignificance)
 
 ### Linux commands
 * [A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs) from Heng Li  
