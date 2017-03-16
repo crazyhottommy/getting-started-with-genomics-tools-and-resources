@@ -384,6 +384,7 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 
 ### git and version control
 * [git intro by github](https://github.github.io/on-demand/)
+* [learn git branching](http://learngitbranching.js.org/)
 * [A Git Workflow Walkthrough Series](http://vallandingham.me/git-workflow.html)
 * [paper:A Quick Introduction to Version Control with Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
 * [paper:Ten Simple Rules for Taking Advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004947) 
