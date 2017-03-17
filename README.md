@@ -222,6 +222,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [sinaplot](https://cran.r-project.org/web/packages/sinaplot/vignettes/SinaPlot.html): an enhanced chart for simple and truthful representation of single observations over multiple classes. `ggforce` has `geom_sina` for the same purpose.
 * [complexHeatmaps](https://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html)  
 * [superheat](https://github.com/rlbarter/superheat) Another heatmap package worth learning besides `ComplexHeatmap`. Not as flexiable as ComplexHeatmap, but can be handy when the function you want has been implemented.
+* [iheatmapr](https://github.com/AliciaSchep/iheatmapr) is an R package for building complex, interactive heatmaps using modular building blocks. 
 * [heatmap:gapmap](https://cran.rstudio.com/web/packages/gapmap/vignettes/simple_example.html)
 * [dendsort](https://cran.r-project.org/web/packages/dendsort/index.html):Modular Leaf Ordering Methods for Dendrogram Nodes
 * [dendextend](https://cran.r-project.org/web/packages/dendextend/vignettes/introduction.html#changing-a-dendrograms-structure)
