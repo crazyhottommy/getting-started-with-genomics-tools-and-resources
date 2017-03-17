@@ -400,3 +400,9 @@ iris %>% as_tibble() %>% mutate_at(vars(Sepal.Length:Petal.Width), as.character)
 
 https://cran.r-project.org/web/packages/dplyr/vignettes/window-functions.html
 >A window function is a variation on an aggregation function. Where an aggregation function, like sum() and mean(), takes n inputs and return a single value, a window function returns n values. The output of a window function depends on all its input values, so window functions don’t include functions that work element-wise, like + or round(). Window functions include variations on aggregate functions, like cumsum() and cummean(), functions for ranking and ordering, like rank(), and functions for taking offsets, like lead() and lag().
+
+### move variables to the front of the dataframe with the everything() helper function
+
+```r
+select(flights, time_hour, air_time, everything())
+```
