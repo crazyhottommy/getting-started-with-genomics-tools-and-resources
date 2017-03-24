@@ -71,7 +71,12 @@ p + geom_boxplot(aes(group = cut_width(carat, width = 0.25)))
 ```r
 diamonds %>% count(cut_width(carat, 0.5))
 ```
+### reorder boxplot by median
 
+```r
+ggplot(mpg) + geom_boxplot(aes(x = reoder(class, hwy, FUN = median), y = hwy)) 
+
+```
 ### weight box plot and violin plot by number of observations
 ```r
 ggplot(diamonds, aes(x = cut, y = price)) + geom_boxplot(varwidth = TRUE)
