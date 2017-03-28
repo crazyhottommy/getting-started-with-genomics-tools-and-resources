@@ -41,6 +41,8 @@ If you are from fields outside of biology, places to get you started:
 * [Better Bash Scripting in 15 Minutes](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html?m=1)
 * [bash pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 * [Advancing in the Bash Shell](http://samrowe.com/wordpress/advancing-in-the-bash-shell/)
+* [Bash tips](http://jvns.ca/blog/2017/03/26/bash-quirks/)
+![](https://cloud.githubusercontent.com/assets/4106146/24389198/68cee218-1345-11e7-98a1-93ba78542daf.jpg)  
 * [Bash by example](https://www.ibm.com/developerworks/library/l-bash/)
 * process substitution: [Using Names Pipes and Process Substitution in Bioinformatics](http://vincebuffalo.org/blog/2013/08/08/using-names-pipes-and-process-substitution-in-bioinformatics.html) [Handy Bash feature: Process Substitution](https://medium.com/@joewalnes/handy-bash-feature-process-substitution-8eb6dce68133#.uz5pj9yer)
 * [NGS Advanced Beginner/Intermediate Shell](https://github.com/ngs-docs/2016-adv-begin-shell-genomics)
