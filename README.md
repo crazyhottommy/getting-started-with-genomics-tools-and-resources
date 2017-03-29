@@ -459,6 +459,8 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 
 ### Clustering
 * [densityCut](http://m.bioinformatics.oxfordjournals.org/content/early/2016/04/23/bioinformatics.btw227.short?rss=1): an efficient and versatile topological approach for automatic clustering of biological data
+* [Interactive visualisation and fast computation of the solution path: convex bi-clustering](https://www.youtube.com/watch?v=2g-akN6q8aI) by [Genevera Allen](http://www.stat.rice.edu/~gallen/software.html)
+[cvxbiclustr](https://cran.r-project.org/web/packages/cvxbiclustr/index.html) and the clustRviz package coming.
 
 ### CRISPR related 
 * [CRISPR GENOME EDITING MADE EASY](https://www.deskgen.com/landing/)
