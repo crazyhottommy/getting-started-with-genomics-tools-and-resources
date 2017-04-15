@@ -432,6 +432,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
 * [R notebook](http://data-steve.github.io/setting-up-r-notebook/)
 * [BEAKER THE DATA SCIENTIST'S LABORATORY](http://beakernotebook.com/)
+* [nteract] notebook (https://nteract.io/)
 * A video by  Dr.Keith A. Baggerly from MD Anderson [The Importance of Reproducible Research in High-Throughput Biology](https://www.youtube.com/watch?v=7gYIs7uYbMo)  very interesting, and Keith is really a fun guy!
 * [paper: Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
 * [open-research](https://github.com/svaksha/aksh/blob/master/open-research.md#arr)
@@ -440,7 +441,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [Ten Simple Rules for Digital Data Storage](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097)
 
 
-I will try snakemake...
+I am using snakemake and so far is very happy about it!
 
 * **Have you ever had problem to reuse one of your own published figures due to copyright of the journal?**
 Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-how-i-use-figshare)! from @LorenaABarba
