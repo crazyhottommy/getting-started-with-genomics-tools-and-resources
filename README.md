@@ -208,6 +208,8 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [janitor](https://github.com/sfirke/janitor) simple tools for data cleaning in R. 
 * [dplry](https://github.com/hadley/dplyr)  
 * [replyr](https://github.com/WinVector/replyr) An R package for fluid use of dplyr.
+* [Introduction of Parameterized dplyr expression](http://blog.eighty20.co.za//package%20exploration/2017/02/16/replyr-dplyr/) using replyr
+* [wrapr](https://github.com/WinVector/wrapr) wraps R functions debugging and better standard evaluation. `Let` function. blog post [wrapr: for sweet R code](http://www.win-vector.com/blog/2017/03/wrapr-for-sweet-r-code/)
 * [csv fingerprint](http://setosa.io/blog/2014/08/03/csv-fingerprints/)
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
