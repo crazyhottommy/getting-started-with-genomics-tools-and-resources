@@ -167,6 +167,9 @@ Three principles for (file) names:
 
 ![](https://cloud.githubusercontent.com/assets/4106146/17389869/5df7f6f4-59cd-11e6-8715-86645243d70c.png)
 
+**If you have to rename the files...**
+
+* [brename](https://github.com/shenwei356/brename) A cross-platform command-line tool for safely batch renaming files/directories via regular expression (supporting Windows, Linux and OS X) from ShenWei is very useful!
 
 **Good naming of your files can help you to extract meta data from the file name**  
 * [dirdf](https://github.com/ropenscilabs/dirdf) Create tidy data frames of file metadata from directory and file names.
