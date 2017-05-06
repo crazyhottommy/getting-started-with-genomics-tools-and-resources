@@ -208,6 +208,8 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
 * [readr](https://github.com/hadley/readr)  
 * [tidyr](https://github.com/hadley/tidyr)  
+* [stringr](https://github.com/tidyverse/stringr)
+* [glue](https://github.com/tidyverse/glue#usage) Glue strings to data in R. Small, fast, dependency free interpreted string literals
 * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/index.html) by jenny bryan. functional programming in R.
 * [janitor](https://github.com/sfirke/janitor) simple tools for data cleaning in R. 
 * [dplry](https://github.com/hadley/dplyr)  
