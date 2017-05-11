@@ -213,6 +213,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/index.html) by jenny bryan. functional programming in R.
 * [janitor](https://github.com/sfirke/janitor) simple tools for data cleaning in R. 
 * [dplry](https://github.com/hadley/dplyr)  
+* [programming with dplyr](http://dplyr.tidyverse.org/articles/programming.html) A great read on non-standard evaluation, quoating  and qusiquotation. then the following two packages help you to deal with that.
 * [replyr](https://github.com/WinVector/replyr) An R package for fluid use of dplyr.
 * [Introduction of Parameterized dplyr expression](http://blog.eighty20.co.za//package%20exploration/2017/02/16/replyr-dplyr/) using replyr
 * [wrapr](https://github.com/WinVector/wrapr) wraps R functions debugging and better standard evaluation. `Let` function. blog post [wrapr: for sweet R code](http://www.win-vector.com/blog/2017/03/wrapr-for-sweet-r-code/)
