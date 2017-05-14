@@ -203,7 +203,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [statistics for biologists](http://www.nature.com/collections/qghhqm) A collection of Nature articles on statistics in biology.
 
-#### packages for data wrangling, tidying and visualizing.  
+#### R tools for data wrangling, tidying and visualizing.  
 
 * [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
 * [readr](https://github.com/hadley/readr)  
@@ -284,6 +284,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 
 ### python tips and tools
 
+* [some nice free python books: Think python etc](http://greenteapress.com/wp/)
 * [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html#id1)
 * [intermediatePython](https://github.com/crazyhottommy/intermediatePython)
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
