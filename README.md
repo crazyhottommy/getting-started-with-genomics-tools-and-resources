@@ -360,6 +360,10 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [High-dimensional genomic data bias correction and data integration using MANCIE](http://www.nature.com/ncomms/2016/160413/ncomms11305/full/ncomms11305.html)  correct batch effects for data from different sequencing methods. (RNAseq vs ChIPseq)
 * 
 
+### Interactive visualization
+
+* [Vega-lite](https://github.com/vega/vega-lite) A high-level grammar for visual analysis, built on top of Vega. Looks awesome!
+
 ### Tutorials
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/). Learn R and bioconductor.
 * [PCA, MDS, k-means, Hierarchical clustering and heatmap](https://rpubs.com/crazyhottommy/PCA_MDS). I wrote it.
