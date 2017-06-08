@@ -227,6 +227,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [nice ggplot themes](https://github.com/hrbrmstr/hrbrthemes)
 * [colourpicker](https://github.com/daattali/colourpicker) A colour picker tool for Shiny and for selecting colours in plots (in R). [R blogger post](https://www.r-bloggers.com/plot-colour-helper-finally-an-easy-way-to-pick-colours-for-your-r-plots/amp/)
 * [ggforce](https://github.com/thomasp85/ggforce/tree/facets): facet_zoom() to zoom in part of the figure! and many more.
+* [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/): ‘ggplot2’ Based Publication Ready Plots. add pvalues. this saves me from customerizing my ggplot2 figures.
 * [ggedit](https://www.r-statistics.com/2016/11/ggedit-interactive-ggplot-aesthetic-and-theme-editor/?utm_content=buffer62da5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) – interactive ggplot aesthetic and theme editor.
 * [trelliscopejs](http://ryanhafen.com/blog/trelliscopejs) is an R package that brings faceted visualizations to life while plugging in to common analytical workflows like ggplot2 or the “tidyverse”.
 * [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_92)
