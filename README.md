@@ -292,6 +292,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 ### python tips and tools
 
 * [some nice free python books: Think python etc](http://greenteapress.com/wp/)
+* [Interactive python](http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index) nice interactive books help you learn python.
 * [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html#id1)
 * [intermediatePython](https://github.com/crazyhottommy/intermediatePython)
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
