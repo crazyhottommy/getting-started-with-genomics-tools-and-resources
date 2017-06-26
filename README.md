@@ -226,6 +226,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [A List of ggplot2 extensions](https://www.ggplot2-exts.org/)
 * [nice ggplot themes](https://github.com/hrbrmstr/hrbrthemes)
 * [ggsci](https://ggsci.net/) offers a collection of ggplot2 color palettes inspired by scientific journals, data visualization libraries, science fiction movies, and TV shows.
+* [randomcolR](https://github.com/ronammar/randomcoloR) An R package for generating attractive and distinctive colors.
 * [colourpicker](https://github.com/daattali/colourpicker) A colour picker tool for Shiny and for selecting colours in plots (in R). [R blogger post](https://www.r-bloggers.com/plot-colour-helper-finally-an-easy-way-to-pick-colours-for-your-r-plots/amp/)
 * [ggforce](https://github.com/thomasp85/ggforce/tree/facets): facet_zoom() to zoom in part of the figure! and many more.
 * [ggpubr](http://www.sthda.com/english/rpkgs/ggpubr/): ‘ggplot2’ Based Publication Ready Plots. add pvalues. this saves me from customerizing my ggplot2 figures.
