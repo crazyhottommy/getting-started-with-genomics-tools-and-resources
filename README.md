@@ -430,6 +430,12 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 * [oh shit git!](http://ohshitgit.com/) Git is hard: screwing up is easy, and figuring out how to fix your mistakes is fucking impossible. Git documentation has this chicken and egg problem where you can't search for how to get yourself out of a mess, unless you already know the name of the thing you need to know about in order to fix your problem.
 * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
+### blogs
+
+* [blogdown](https://github.com/rstudio/blogdown) from yihui xie.
+* [Jekyll Jupyter Notebook plugin](https://github.com/red-data-tools/jekyll-jupyter-notebook)
+* [How to Use Plotly with Jekyll and Github Pages](http://ryankuhn.net/blog/How-To-Use-Plotly-With-Jekyll)
+* [render Rmd pages into blog posts using updated rmarkdown::render function](https://sbamin.com/blog/2017/05/hello-r-jekyll/)
 
 ### Automate your workflow, open science and reproducible research
 
