@@ -291,6 +291,10 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [A tutorial for the free Inkscape cross-platform vector graphics editor](https://github.com/fredhutchio/inkscape-tutorial)
 * [gimp](https://www.gimp.org/downloads/) for bit-map based figures.
 
+### Javascript
+
+* [JavaScript versus Research Computing](https://gvwilson.github.io/js-vs-rc/) from Greg Wilson, the founder of software carpentry.
+
 ### python tips and tools
 
 * [some nice free python books: Think python etc](http://greenteapress.com/wp/)
