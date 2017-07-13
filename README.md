@@ -278,6 +278,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [R packages](http://r-pkgs.had.co.nz/) a book by Hadley Wickham.
 * [Developing R packages](https://github.com/jtleek/rpackages/blob/master/README.md) from Jeff leek.
 * [Sinew](https://github.com/metrumresearchgroup/sinew) is a R package that generates a roxygen2 skeleton populated with information scraped from the function script.
+* [Automatic tools for improving R packages](http://www.masalmon.eu/2017/06/17/automatictools/) `devtools:spell_check()` `goodpractice:gp()` and `pkgdown:build_site()`.
 
 ### handling arguments at the command line
 
