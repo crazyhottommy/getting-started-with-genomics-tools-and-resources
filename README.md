@@ -478,6 +478,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [Good Enough Practices in Scientific Computing](http://arxiv.org/abs/1609.00037) We present a set of computing tools and techniques that every researcher can and should adopt. These recommendations synthesize inspiration from our own work, from the experiences of the thousands of people who have taken part in Software Carpentry and Data Carpentry workshops over the past six years, and from a variety of other guides. Unlike some other guides, our recommendations are aimed specifically at people who are new to research computing.  **Well worth reading!**
 * [A Quick Guide to Organizing Computational Biology Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) A must read for computational biologists!
 * [Ten Simple Rules for Digital Data Storage](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097)
+* avoid `setwd()` in your R script. [`here_here()`](https://github.com/jennybc/here_here#readme) comes to rescue.
 
 
 I am using snakemake and so far is very happy about it!
@@ -507,6 +508,9 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 * [densityCut](http://m.bioinformatics.oxfordjournals.org/content/early/2016/04/23/bioinformatics.btw227.short?rss=1): an efficient and versatile topological approach for automatic clustering of biological data
 * [Interactive visualisation and fast computation of the solution path: convex bi-clustering](https://www.youtube.com/watch?v=2g-akN6q8aI) by [Genevera Allen](http://www.stat.rice.edu/~gallen/software.html)
 [cvxbiclustr](https://cran.r-project.org/web/packages/cvxbiclustr/index.html) and the clustRviz package coming.
+* [optCluster](https://cran.r-project.org/web/packages/optCluster/index.html): An R Package for Determining the Optimal Clustering Algorithm.
+* [iClusterPlus](https://www.bioconductor.org/packages/release/bioc/html/iClusterPlus.html) Integrative clustering of multiple genomic data using a joint latent variable model.  
+* [ConsensusClusterPlus](https://bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html) algorithm for determining cluster count and membership by stability evidence in unsupervised analysis.
 
 ### CRISPR related 
 * [CRISPR GENOME EDITING MADE EASY](https://www.deskgen.com/landing/)
