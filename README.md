@@ -9,7 +9,7 @@
 * [The Biostar Handbook: A Beginner's Guide to Bioinformatics](http://read.biostarhandbook.com/?q=) I am honored to be a co-author of this book. The ChIP-seq section is going to be released by the mid of 2017.
 * [Beginner's Handbook to Next Generation Sequencing](https://genohub.com/next-generation-sequencing-handbook/) Everything you need to know about starting a sequencing project
 * [A New Online Computational Biology Curriculum](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662) PLOS genetics paper.
-* [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/) The best course to get you started with genomics using R. I have taken 3 times for the same course to get a deep understanding of the concepts and R commands.
+* [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/) The best course to get you started with genomics using R. I have taken 3 times for the same course to get a deep understanding of the concepts and R commands. Now everything can be found here from Rafael Irizarry lab: http://rafalab.github.io/pages/harvardx.html
 * [Expanding the computational toolbox for mining cancer genomes](http://www.nature.com/nrg/journal/v15/n8/full/nrg3767.html) Nature Review.
 * [some repos from command line to rstats and github](https://github.com/info-201)
 * 2016 review [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
