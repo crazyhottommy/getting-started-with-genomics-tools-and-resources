@@ -220,7 +220,8 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [glue](https://github.com/tidyverse/glue#usage) Glue strings to data in R. Small, fast, dependency free interpreted string literals
 * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/index.html) by jenny bryan. functional programming in R.
 * [janitor](https://github.com/sfirke/janitor) simple tools for data cleaning in R. 
-* [dplry](https://github.com/hadley/dplyr)  
+* [dplry](https://github.com/hadley/dplyr)
+* [set_na_where(): a nonstandard evaluation use case](https://tjmahr.github.io/set-na-where-nonstandard-evaluation-use-case/)
 * [programming with dplyr](http://dplyr.tidyverse.org/articles/programming.html) A great read on non-standard evaluation, quoating  and qusiquotation. then the following two packages help you to deal with that.
 * [replyr](https://github.com/WinVector/replyr) An R package for fluid use of dplyr.
 * [Introduction of Parameterized dplyr expression](http://blog.eighty20.co.za//package%20exploration/2017/02/16/replyr-dplyr/) using replyr
