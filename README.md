@@ -35,6 +35,12 @@ If you are from fields outside of biology, places to get you started:
 * [Points of Significance: Interpreting P values](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4210.html)
 * [statistics for biologists](http://www.nature.com/collections/qghhqm/pointsofsignificance)
 
+#### Bayesian Statistics
+
+* [Introduction to Bayesian Statistics](https://www.youtube.com/playlist?list=PLuRpZIQQRQedb2GM2WhKSEzojGN-BIIR9) STATS331 from Brendon Brewer.  
+* [Introduction to Empirical Bayes](http://varianceexplained.org/r/empirical-bayes-book/) by David Robinson using baseball examples.  
+* [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/)
+
 ### Linux commands
 * [A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs) from Heng Li  
 * [Linux command line exercises for NGS data processing](http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/linux.html)  
