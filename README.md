@@ -213,6 +213,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 
 * [R upgrading can be a smooth process](http://dscinomics.com/post/2017-04-28-upgrade-to-r-3-4-0/)
 * [updating R](http://lcolladotor.github.io/2017/05/04/Updating-R/#.WSEQPrzyuqA) a blog post by L. Collado-Torres.
+* [Functional programming and unit testing for data munging with R](http://www.brodrigues.co/fput/)
 * [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
 * [readr](https://github.com/hadley/readr)  
 * [tidyr](https://github.com/hadley/tidyr)  
@@ -220,6 +221,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [glue](https://github.com/tidyverse/glue#usage) Glue strings to data in R. Small, fast, dependency free interpreted string literals
 * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/index.html) by jenny bryan. functional programming in R.
 * [janitor](https://github.com/sfirke/janitor) simple tools for data cleaning in R. 
+* [tidyeval resources](http://maraaverick.rbind.io/2017/08/tidyeval-resource-roundup/)
 * [dplry](https://github.com/hadley/dplyr)
 * [set_na_where(): a nonstandard evaluation use case](https://tjmahr.github.io/set-na-where-nonstandard-evaluation-use-case/)
 * [programming with dplyr](http://dplyr.tidyverse.org/articles/programming.html) A great read on non-standard evaluation, quoating  and qusiquotation. then the following two packages help you to deal with that.
