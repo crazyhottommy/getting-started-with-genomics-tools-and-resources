@@ -214,6 +214,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [R upgrading can be a smooth process](http://dscinomics.com/post/2017-04-28-upgrade-to-r-3-4-0/)
 * [updating R](http://lcolladotor.github.io/2017/05/04/Updating-R/#.WSEQPrzyuqA) a blog post by L. Collado-Torres.
 * [Functional programming and unit testing for data munging with R](http://www.brodrigues.co/fput/)
+* [R workshops](https://github.com/nuitrcs/rworkshops) some resources for R related materials.
 * [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
 * [readr](https://github.com/hadley/readr)  
 * [tidyr](https://github.com/hadley/tidyr)  
