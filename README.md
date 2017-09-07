@@ -471,6 +471,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [Awesome youtube video for reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=youtu.be)
 * A must read: [Managing the analysis of high-throughput sequencing data](http://www.biorxiv.org/content/early/2017/08/29/136358)
 * [Reproducibility starts at home](http://www.jonzelner.net/statistics/make/docker/reproducibility/2016/05/31/reproducibility-pt-1/) A series of blog posts by Jon Zelner.
+* [workflowr](https://jdblischak.github.io/workflowr/index.html): organized + reproducible + shareable data science in R
 * [Singularity](http://singularity.lbl.gov/) Singularity enables users to have full control of their environment. Singularity containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a Singularity container and run.  
 * [countinous analysis](https://github.com/greenelab/continuous_analysis) [Reproducibility of computational workflows is automated using continuous analysis](http://www.nature.com/nbt/journal/v35/n4/full/nbt.3780.html)  
 * [The hard road to reproducibility](http://science.sciencemag.org/content/354/6308/142) commentary on Science Magzine.
