@@ -476,6 +476,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [countinous analysis](https://github.com/greenelab/continuous_analysis) [Reproducibility of computational workflows is automated using continuous analysis](http://www.nature.com/nbt/journal/v35/n4/full/nbt.3780.html)  
 * [The hard road to reproducibility](http://science.sciencemag.org/content/354/6308/142) commentary on Science Magzine.
 * [Five selfish reasons to work reproducibly](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7) Genome Biology paper.
+* A [blog post](https://jmazz.me/blog/NGS-Workflows) comparing bash script, make, snakemake and nextflow.
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
 * [biomake](https://github.com/evoldoers/biomake) GNU-Make-like utility for managing builds and complex workflows.
 * [STAT545 Automating data analysis pipelines](https://stat545-ubc.github.io/automation00_index.html)
