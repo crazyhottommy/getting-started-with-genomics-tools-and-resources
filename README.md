@@ -216,6 +216,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [updating R](http://lcolladotor.github.io/2017/05/04/Updating-R/#.WSEQPrzyuqA) a blog post by L. Collado-Torres.
 * [Functional programming and unit testing for data munging with R](http://www.brodrigues.co/fput/)
 * [R workshops](https://github.com/nuitrcs/rworkshops) some resources for R related materials.
+* [RStartHere](https://github.com/rstudio/RStartHere) A guide to some of the most useful R Packages that we know about, organized by their role in data science.
 * [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
 * [readr](https://github.com/hadley/readr)  
 * [tidyr](https://github.com/hadley/tidyr)  
