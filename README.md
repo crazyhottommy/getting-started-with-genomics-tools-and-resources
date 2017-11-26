@@ -35,6 +35,7 @@ If you are from fields outside of biology, places to get you started:
 * [Points of Significance: Interpreting P values](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4210.html)
 * [statistics for biologists](http://www.nature.com/collections/qghhqm/pointsofsignificance)
 * [Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/) by Roger Peng.
+* [fiveMinuteStats](http://stephens999.github.io/fiveMinuteStats/index.html#inference)
 
 #### Bayesian Statistics
 
