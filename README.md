@@ -221,6 +221,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [RStartHere](https://github.com/rstudio/RStartHere) A guide to some of the most useful R Packages that we know about, organized by their role in data science.
 * [biobroom](https://www.bioconductor.org/packages/release/bioc/html/biobroom.html):Turn Bioconductor objects into tidy data frames  
 * [readr](https://github.com/hadley/readr)  
+* [visdat](https://github.com/ropensci/visdat) visualizing your missing data and more.
 * [tidyr](https://github.com/hadley/tidyr)  
 * [stringr](https://github.com/tidyverse/stringr)
 * [glue](https://github.com/tidyverse/glue#usage) Glue strings to data in R. Small, fast, dependency free interpreted string literals
