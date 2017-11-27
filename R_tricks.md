@@ -465,3 +465,16 @@ grid.arrange(plt, tbl,
 ```
 
 ![](https://cloud.githubusercontent.com/assets/4106146/25259762/abebc1f8-260d-11e7-9c50-f983dfd51dbf.png)
+
+### remove columns with all NAs
+
+```r
+... %>%
+  select_if(~ !all(is.na(.)))
+  
+ # OR equivalent
+  select_if(function(.) !all(is.na(.)))
+  
+ janitor::remove_empty_cols()
+
+```
