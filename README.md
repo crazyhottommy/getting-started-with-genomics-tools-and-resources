@@ -443,6 +443,7 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 
 ### git and version control
 * [git intro by github](https://github.github.io/on-demand/)
+* [Happy Git and GitHub for the useR](http://happygitwithr.com/) A book by Jenny Bryan.
 * [learn git branching](http://learngitbranching.js.org/)
 * [A Git Workflow Walkthrough Series](http://vallandingham.me/git-workflow.html)
 * [paper:A Quick Introduction to Version Control with Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
