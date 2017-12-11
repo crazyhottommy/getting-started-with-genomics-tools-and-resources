@@ -20,6 +20,7 @@
 * [applied computational genomics](https://github.com/quinlan-lab/applied-computational-genomics#course-lecture-slides) by Aaron Quinlan, the creator of bedtools and many other cool tools.
 * [BMMB 852: Applied Bioinformatics (Fall, 2016)](https://www.ialbert.me/courses/2016/2016-fall-852.html) by Istvan Albert, the creator of [biostars](https://www.biostars.org/).
 * [JHU EN.600.649: Computational Genomics: Applied Comparative Genomics](https://github.com/schatzlab/appliedgenomics) by Michael Schatz.
+* [Introduction to Computational Biology](https://biodatascience.github.io/compbio/) by Mike Love.
 
 
 ### Some biology
