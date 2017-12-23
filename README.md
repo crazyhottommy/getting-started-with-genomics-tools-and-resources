@@ -304,6 +304,8 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Automatic tools for improving R packages](http://www.masalmon.eu/2017/06/17/automatictools/) `devtools:spell_check()` `goodpractice:gp()` and `pkgdown:build_site()`.
 * blog post [How to develop good R packages (for open science)](http://www.masalmon.eu/2017/12/11/goodrpackages/)
 * Easy and efficient debugging for R packages: [debugme](https://github.com/r-lib/debugme)
+* [Non-invasive pretty printing of R code](http://styler.r-lib.org)
+* [usethis](https://github.com/r-lib/usethis) The goal of usethis is to automate many common package and analysis setup tasks.
 
 ### handling arguments at the command line
 
