@@ -22,6 +22,7 @@
 * [JHU EN.600.649: Computational Genomics: Applied Comparative Genomics](https://github.com/schatzlab/appliedgenomics) by Michael Schatz.
 * [Introduction to Computational Biology](https://biodatascience.github.io/compbio/) by Mike Love.
 * [Advanced Data Science](http://jtleek.com/advdatasci/index.html) by Jeff Leek.
+* Various [TeachingMaterial](https://github.com/lgatto/TeachingMaterial) collected by Laurent Gatto.
 
 
 ### Some biology
