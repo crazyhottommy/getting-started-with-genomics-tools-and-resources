@@ -308,6 +308,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Non-invasive pretty printing of R code](http://styler.r-lib.org)
 * [usethis](https://github.com/r-lib/usethis) The goal of usethis is to automate many common package and analysis setup tasks.
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) by Roger Peng et.al.
+* [The tidyverse style guide](http://style.tidyverse.org/) by Hadley Wickham.
 
 ### handling arguments at the command line
 
