@@ -1,6 +1,7 @@
 
 ### General
 * [So you want to be a computational biologist?](http://www.nature.com/nbt/journal/v31/n11/full/nbt.2740.html)
+* [Ten simple rules for biologists learning to program](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871)
 * [Scientific computing: Code alert](http://www.nature.com/naturejobs/science/articles/10.1038/nj7638-563a?WT.mc_id=TWT_NatureNews) Nature News.
 * [Practical computing for biologist](http://practicalcomputing.org/). One of my first books to get me started in coding.
 * [ModernDive An Introduction to Statistical and Data Sciences via R](https://ismayc.github.io/moderndiver-book/index.html)
