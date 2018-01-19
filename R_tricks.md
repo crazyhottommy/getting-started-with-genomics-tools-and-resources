@@ -478,3 +478,10 @@ grid.arrange(plt, tbl,
  janitor::remove_empty_cols()
 
 ```
+### add a new column with rank based on two or more columns of a df
+
+```r
+df %>% arrange(var1, var2) %>% mutate(my_rank = 1: n())
+
+df %>% arrange(var1, var2) %>% mutate(my_rank = row_number())
+```
