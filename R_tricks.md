@@ -495,3 +495,14 @@ df %>% arrange(var1, var2) %>% mutate(my_rank = 1: n())
 
 df %>% arrange(var1, var2) %>% mutate(my_rank = row_number())
 ```
+
+### less know useful functions
+
+https://twitter.com/robinson_es/status/953432465514876928
+```r
+rlang::set_names() = purrr::set_names() 
+
+rlang::set_names(), tibble::rowid_to_column(), modelr::seq_range(), the .data pronoun, purrr::safely(), dplyr::pull(), stringr::str_replace_all() with a named vector
+
+enframe, deframe, fct_reorder, fct_reorder2
+```
