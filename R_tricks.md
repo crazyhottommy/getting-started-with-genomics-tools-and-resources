@@ -478,6 +478,16 @@ grid.arrange(plt, tbl,
  janitor::remove_empty_cols()
 
 ```
+### replace all NAs with 0 in a df
+
+https://stackoverflow.com/questions/45576805/how-to-replace-all-na-in-a-dataframe-using-tidyrreplace-na
+
+```r
+
+df %>% replace(is.na(.), 0)
+df %>% %>% mutate_all(coalesce, 0)
+```
+
 ### add a new column with rank based on two or more columns of a df
 
 ```r
