@@ -510,6 +510,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [initial steps toward reproducible research](http://kbroman.org/steps2rr/#TAGC16)
 * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
 * [R notebook](http://data-steve.github.io/setting-up-r-notebook/)
+* [CoCAL](https://cocalc.com/) Collaborative Calculation in the Cloud
 * [BEAKER THE DATA SCIENTIST'S LABORATORY](http://beakernotebook.com/)
 * [nteract] notebook (https://nteract.io/)
 * A video by  Dr.Keith A. Baggerly from MD Anderson [The Importance of Reproducible Research in High-Throughput Biology](https://www.youtube.com/watch?v=7gYIs7uYbMo)  very interesting, and Keith is really a fun guy!
