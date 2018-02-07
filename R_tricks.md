@@ -278,6 +278,10 @@ datlist <- lapply(mix.files, function(f) {
 
 data<- do.call(rbind, datlist)
 ## or use dplyr: bind_rows(datlist, .id = "sample")
+
+## if each file has a common column, e.g. RNAseq HTSeq counts for many samples, and you want to make a big dataframe with first column
+## is the gene-id and columns of raw counts
+CCLE_counts<- reduce(datlist, left_join, by = "GeneID")
 ```
 ### gather multiple columns
 read http://stackoverflow.com/questions/41880796/grouped-multicolumn-gather-with-dplyr-tidyr-purrr
