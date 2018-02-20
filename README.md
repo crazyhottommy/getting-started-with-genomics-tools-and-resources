@@ -234,6 +234,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/index.html) by jenny bryan. functional programming in R.
 * [janitor](https://github.com/sfirke/janitor) simple tools for data cleaning in R. 
 * [tidyeval resources](http://maraaverick.rbind.io/2017/08/tidyeval-resource-roundup/)
+* Rstudio [tidyeval video](https://www.rstudio.com/resources/webinars/tidy-eval/)
 * [dplry](https://github.com/hadley/dplyr)
 * [set_na_where(): a nonstandard evaluation use case](https://tjmahr.github.io/set-na-where-nonstandard-evaluation-use-case/)
 * [programming with dplyr](http://dplyr.tidyverse.org/articles/programming.html) A great read on non-standard evaluation, quoating  and qusiquotation. then the following two packages help you to deal with that.
