@@ -24,6 +24,8 @@
 * [Introduction to Computational Biology](https://biodatascience.github.io/compbio/) by Mike Love.
 * [Advanced Data Science](http://jtleek.com/advdatasci/index.html) by Jeff Leek.
 * Various [TeachingMaterial](https://github.com/lgatto/TeachingMaterial) collected by Laurent Gatto.
+* [NGS sequence analysis](https://bioinf.comav.upv.es/courses/sequence_analysis/index.html)
+* [bio-info courses](https://edu.t-bio.info/lp-courses/)
 
 
 ### Some biology
