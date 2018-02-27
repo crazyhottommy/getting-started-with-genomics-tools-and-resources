@@ -223,6 +223,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 #### R tools for data wrangling, tidying and visualizing.  
 
 * [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke.
+* [Data Visualization: A practical introduction](http://socviz.co/) A book by Kieran Healy from Duke University. Nice one to have!
 * [R upgrading can be a smooth process](http://dscinomics.com/post/2017-04-28-upgrade-to-r-3-4-0/)
 * [updating R](http://lcolladotor.github.io/2017/05/04/Updating-R/#.WSEQPrzyuqA) a blog post by L. Collado-Torres.
 * [Functional programming and unit testing for data munging with R](http://www.brodrigues.co/fput/)
