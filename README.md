@@ -481,6 +481,7 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 * [oh shit git!](http://ohshitgit.com/) Git is hard: screwing up is easy, and figuring out how to fix your mistakes is fucking impossible. Git documentation has this chicken and egg problem where you can't search for how to get yourself out of a mess, unless you already know the name of the thing you need to know about in order to fix your problem.
 * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * [A guide for astronauts (now, programmers using Git) about what to do when things go wrong: git flight rules](https://github.com/k88hudson/git-flight-rules)
+* An opinionated intermediate/advanced Git book: [git in practise](https://github.com/GitInPractice/GitInPractice#readme)
 
 ### blogs
 
