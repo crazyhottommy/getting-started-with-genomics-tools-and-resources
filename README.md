@@ -25,7 +25,10 @@
 * [Advanced Data Science](http://jtleek.com/advdatasci/index.html) by Jeff Leek.
 * Various [TeachingMaterial](https://github.com/lgatto/TeachingMaterial) collected by Laurent Gatto.
 * [NGS sequence analysis](https://bioinf.comav.upv.es/courses/sequence_analysis/index.html)
+* [bioinformatics-workbook](https://isugenomics.github.io/bioinformatics-workbook/)
+* [Reproducible Quantitative Methods](https://cbahlai.github.io/rqm-template/) from Mozilla science lab.
 * [bio-info courses](https://edu.t-bio.info/lp-courses/)
+
 
 
 ### Some biology
