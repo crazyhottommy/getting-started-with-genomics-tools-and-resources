@@ -250,6 +250,7 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
 * [A List of ggplot2 extensions](https://www.ggplot2-exts.org/)
+* [gghighlight](https://github.com/yutannihilation/gghighlight): Highlight ggplot's Lines and Points with Predicates
 * [nice ggplot themes](https://github.com/hrbrmstr/hrbrthemes)
 * [ggsci](https://ggsci.net/) offers a collection of ggplot2 color palettes inspired by scientific journals, data visualization libraries, science fiction movies, and TV shows.
 * [randomcolR](https://github.com/ronammar/randomcoloR) An R package for generating attractive and distinctive colors.
