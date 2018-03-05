@@ -23,6 +23,7 @@
 * [JHU EN.600.649: Computational Genomics: Applied Comparative Genomics](https://github.com/schatzlab/appliedgenomics) by Michael Schatz.
 * [Introduction to Computational Biology](https://biodatascience.github.io/compbio/) by Mike Love.
 * [Advanced Data Science](http://jtleek.com/advdatasci/index.html) by Jeff Leek.
+* [Data Science for Biological, Medical and Health Research: Notes for 431](https://thomaselove.github.io/431notes/index.html): R focused
 * Various [TeachingMaterial](https://github.com/lgatto/TeachingMaterial) collected by Laurent Gatto.
 * [NGS sequence analysis](https://bioinf.comav.upv.es/courses/sequence_analysis/index.html)
 * [bioinformatics-workbook](https://isugenomics.github.io/bioinformatics-workbook/)
