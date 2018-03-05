@@ -510,3 +510,11 @@ rlang::set_names(), tibble::rowid_to_column(), modelr::seq_range(), the .data pr
 
 enframe, deframe, fct_reorder, fct_reorder2
 ```
+### ggplot boxplot with whiskers
+
+https://stats.stackexchange.com/questions/8137/how-to-add-horizontal-lines-to-ggplot2-boxplot
+
+```r
+bp <- ggplot(iris, aes(factor(Species), Sepal.Width, fill = Species)) +  stat_boxplot(geom ='errorbar')
+bp + geom_boxplot()
+```
