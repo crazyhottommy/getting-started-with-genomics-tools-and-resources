@@ -581,3 +581,23 @@ raincloud_theme
 g
 
 ```
+
+### ggrepel label points
+
+```r
+data<- data.frame( 
+        x = 1:10,
+        y = rnorm(10),
+        name = c("Apple", "Banana", "Kiwi", "Orange", "Watermelon", 
+                 "Grapes", "Pear", "Cantelope", "Tomato", "Satusma")
+)
+
+my_data<- mutate(data, name_poor = case_when(
+        y < 0 ~ name,
+        TRUE ~ ""
+))
+
+ggplot(my_data, aes(x = x, y = y)) + 
+               geom_point(size = 5) +
+               geom_text_repel(aes(label = name_poor), point.padding = 2)
+```
