@@ -445,6 +445,7 @@ clustering.
 * [Rtsne](https://github.com/jkrijthe/Rtsne) R package for T-SNE
 * [rtsne](https://github.com/jdonaldson/rtsne) An R package for t-SNE (t-Distributed Stochastic Neighbor Embedding)
 a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cface90d32
+* [t-SNE-Heatmaps](https://github.com/KlugerLab/t-SNE-Heatmaps) Beta version of 1D t-SNE heatmaps to visualize expression patterns of hundreds of genes simultaneously in scRNA-seq.
 * [PHATE dimensionality reduction method](https://github.com/SmitaKrishnaswamy/PHATE) paper: http://biorxiv.org/content/early/2017/03/24/120378
 
 * [Survival analysis of TCGA patients integrating gene expression (RNASeq) data](https://www.biostars.org/p/153013/)
