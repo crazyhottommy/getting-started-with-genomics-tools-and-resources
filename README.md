@@ -7,6 +7,7 @@
 * [ModernDive An Introduction to Statistical and Data Sciences via R](https://ismayc.github.io/moderndiver-book/index.html)
 * [Introduction to Data Science](https://rafalab.github.io/dsbook/) by Rafael A. Irizarry.
 * [The Biologist’s Guide to Computing](http://book.biologistsguide2computing.com/en/stable/) A book written by @tjelvar_olsson 
+* [A Primer for Computational Biology](http://library.open.oregonstate.edu/computationalbiology/) A nice book from Oregon State University. You can get a hard copy on Amazon https://www.amazon.com/Primer-Computational-Biology-Shawn-ONeil/dp/0870719262. 
 * [An Introduction To Applied Bioinformatics](https://github.com/caporaso-lab/An-Introduction-To-Applied-Bioinformatics) Interactive lessons in bioinformatics
 * [The Biostar Handbook: A Beginner's Guide to Bioinformatics](http://read.biostarhandbook.com/?q=) I am honored to be a co-author of this book. The ChIP-seq section is going to be released by the mid of 2017.
 * [Beginner's Handbook to Next Generation Sequencing](https://genohub.com/next-generation-sequencing-handbook/) Everything you need to know about starting a sequencing project
