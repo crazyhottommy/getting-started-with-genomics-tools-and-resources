@@ -401,6 +401,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [MAGI](http://magi.brown.edu/) Mutation Annotation &Genome Interpretation for TCGA data.
 * [How to successfully apply for access to dbGaP](http://blog.repositive.io/how-to-successfully-apply-for-access-to-dbgap/)
 * [Human cell Atlas](https://www.humancellatlas.org/) some preview data sets https://preview.data.humancellatlas.org/
+* [DepMap](https://depmap.org/portal/depmap/) A Cancer Dependency Map to systematically identify genetic and pharmacologic dependencies and the biomarkers that predict them.
 
 ### Large data consortium data mining
 
