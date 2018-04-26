@@ -223,6 +223,13 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [statistics for biologists](http://www.nature.com/collections/qghhqm) A collection of Nature articles on statistics in biology.
 
+### Data transfer
+* keep an eye on the [dat project](https://datproject.org/)! https://blog.datproject.org/2018/04/24/data-sharing-at-institutions-and-beyond-with-dat/
+
+a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-backup-data-sets-with-dat.html
+
+
+
 #### R tools for data wrangling, tidying and visualizing.  
 
 * [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke.
