@@ -283,6 +283,37 @@ data<- do.call(rbind, datlist)
 ## is the gene-id and columns of raw counts
 CCLE_counts<- reduce(datlist, left_join, by = "GeneID")
 ```
+
+or https://github.com/vsbuffalo/devnotes/wiki/Data-Analysis-Patterns by Vince Buffalo.
+
+```r
+### example setup:
+DIR <- 'path/to/data' # change to directory you can write files to.
+# filenames to make example work:
+files <- c('sampleA_rep01.tsv', 'sampleA_rep02.tsv','sampleB_rep01.tsv', 
+           'sampleB_rep02.tsv', 'sampleC_rep01.tsv', 'sampleC_rep02.tsv')
+
+# write test files for example (iris a bunch of times)
+walk(files, ~ write_tsv(iris, file.path(DIR, .)))
+
+### Pattern:
+# grab all files programmatically: 
+input_files <- list.files(DIR, 
+                          pattern='sample.*\\.tsv', full.names=TRUE)
+
+# data loading pattern:
+all_data <- tibble(file=input_files) %>% 
+   # read data in (note: in general, best to 
+   # pass col_names and col_types to map)
+   mutate(data=map(file, read_tsv)) %>% 
+   # get the file basename (no path); if 
+   # your metadata is in the path, change accordingly!
+   mutate(basename=basename(file)) %>% 
+   # extract out the metadata from the base filename
+   extract(basename, into=c('sample', 'rep'), 
+           regex='sample([^_]+)_rep([^_]+)\\.tsv') %>% 
+   unnest(data)  # optional, depends on what you need.
+```
 ### gather multiple columns
 read http://stackoverflow.com/questions/41880796/grouped-multicolumn-gather-with-dplyr-tidyr-purrr
 ```r
