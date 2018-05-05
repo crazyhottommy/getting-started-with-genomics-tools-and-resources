@@ -532,6 +532,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [biomake](https://github.com/evoldoers/biomake) GNU-Make-like utility for managing builds and complex workflows.
 * [STAT545 Automating data analysis pipelines](https://stat545-ubc.github.io/automation00_index.html)
 * [Existing Workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
+* [A Nextflow pipeline assembler for genomics](https://github.com/assemblerflow/assemblerflow)
 * [Workflow management software for pipeline development in NGS](https://www.biostars.org/p/115745/)
 * [pipelines](https://github.com/pditommaso/awesome-pipeline)
 * [biostar post:Job Manager to parallelize otherwise consecutive bash scripts](https://www.biostars.org/p/174468/)
