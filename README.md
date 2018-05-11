@@ -18,6 +18,8 @@
 * [some repos from command line to rstats and github](https://github.com/info-201)
 * 2016 review [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
 * [Cancer genomics — from bench to bedside: review papers from Nature](http://www.nature.com/collections/dswwtfkdty?BAN_NRG_1602_CANCERCOLLECTION_PORTFOLIO)
+* [SequencEnG: an Interactive Knowledge Base of Sequencing Techniques
+](http://education.knoweng.org/sequenceng/)
 
 ### Courses
 * [applied computational genomics](https://github.com/quinlan-lab/applied-computational-genomics#course-lecture-slides) by Aaron Quinlan, the creator of bedtools and many other cool tools.
