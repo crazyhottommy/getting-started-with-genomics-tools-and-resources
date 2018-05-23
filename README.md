@@ -436,6 +436,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 ### Interactive visualization
 
 * [Vega-lite](https://github.com/vega/vega-lite) A high-level grammar for visual analysis, built on top of Vega. Looks awesome!
+* [Introducing altair, an R interface to the Altair Python Package](https://vegawidget.rbind.io/post/2018-05-20-introducing-altair/)  which you can use to build and render Vega-Lite chart-specifications.
 
 ### Tutorials
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/). Learn R and bioconductor.
