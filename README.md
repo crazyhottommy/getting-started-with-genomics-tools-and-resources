@@ -241,6 +241,7 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 * [Data Visualization: A practical introduction](http://socviz.co/) A book by Kieran Healy from Duke University. Nice one to have!
 * [R upgrading can be a smooth process](http://dscinomics.com/post/2017-04-28-upgrade-to-r-3-4-0/)
 * [updating R](http://lcolladotor.github.io/2017/05/04/Updating-R/#.WSEQPrzyuqA) a blog post by L. Collado-Torres.
+* [update your R version in a breeze ( on OSX)](https://github.com/AndreaCirilloAC/updateR)
 * [Functional programming and unit testing for data munging with R](http://www.brodrigues.co/fput/)
 * [R workshops](https://github.com/nuitrcs/rworkshops) some resources for R related materials.
 * [RStartHere](https://github.com/rstudio/RStartHere) A guide to some of the most useful R Packages that we know about, organized by their role in data science.
