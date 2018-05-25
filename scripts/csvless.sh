@@ -8,7 +8,7 @@ set -e
 set -u
 set -o pipefail
 
-## in strick mode, if vawk is not installed, the whole program will exit instantly, add || true
+## in strick mode, if csvkit is not installed, the whole program will exit instantly, add || true
 ## to make the exit code to 0.
 CSVLOOK=$(which csvlook || true)
 
