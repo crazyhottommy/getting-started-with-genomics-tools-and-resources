@@ -632,3 +632,88 @@ ggplot(my_data, aes(x = x, y = y)) +
                geom_point(size = 5) +
                geom_text_repel(aes(label = name_poor), point.padding = 2)
 ```
+### convert a tidy df to a nested json
+
+https://stackoverflow.com/questions/50477156/convert-a-tidy-table-to-deeply-nested-list-using-r-and-tidyverse
+
+```r
+library(tidyverse)
+library(stringi)
+
+n_patient = 2
+n_samples = 3
+n_readgroup = 4
+n_mate = 2
+
+df = data.frame(patient   = rep(rep(LETTERS[1:n_patient], n_samples),2),
+                sample    = rep(rep(seq(1:n_samples), each = n_patient),2),
+                readgroup = rep(stri_rand_strings(n_patient * n_samples * n_readgroup, 6, '[A-Z]'),2),
+                mate      = rep(1:n_mate, each = n_patient * n_samples * n_readgroup)) %>%
+  mutate(file = sprintf("%s.%s.%s_%s", patient, sample, readgroup, mate)) %>%
+  arrange(file)
+
+> head(df)
+  patient sample readgroup mate         file
+1       A      1    FCSDRJ    1 A.1.FCSDRJ_1
+2       A      1    FCSDRJ    2 A.1.FCSDRJ_2
+3       A      1    IAXDPR    1 A.1.IAXDPR_1
+4       A      1    IAXDPR    2 A.1.IAXDPR_2
+5       A      1    MLDBKZ    1 A.1.MLDBKZ_1
+6       A      1    MLDBKZ    2 A.1.MLDBKZ_2
+
+
+json2 <- df %>% nest(-(1:2),.key=readgroups) %>% nest(-1,.key=samples)
+json3 <- df %>% nest(-(1:3),.key=mate) %>% nest(-(1:2),.key=readgroups) %>% nest(-1,.key=samples)
+
+jsonlite::toJSON(json3,pretty=T)
+
+# output
+[
+  {
+    "patient": "A",
+    "samples": [
+      {
+        "sample": 1,
+        "readgroups": [
+          {
+            "readgroup": "FUPEYR",
+            "mate": [
+              {
+                "mate": 1,
+                "file": "A.1.FUPEYR_1"
+              },
+              {
+                "mate": 2,
+                "file": "A.1.FUPEYR_2"
+              }
+...
+```
+And if necessary, generalize it:
+
+```r
+vars <- names(df)[-1] # or whatever variables you want to nest, order matters!
+var_pairs <- map((length(vars)-1):1,~vars[.x:(.x+1)])
+json4 <- reduce(var_pairs,~{nm<-.y[1];nest(.x,.y,.key=!!enquo(nm))},.init=df)
+
+jsonlite::toJSON(json4,pretty=T)
+
+[
+  {
+    "patient": "A",
+    "sample": [
+      {
+        "sample": 1,
+        "readgroup": [
+          {
+            "readgroup": "FUPEYR",
+            "mate": [
+              {
+                "mate": 1,
+                "file": "A.1.FUPEYR_1"
+              },
+              {
+                "mate": 2,
+                "file": "A.1.FUPEYR_2"
+              }
+...
+```
