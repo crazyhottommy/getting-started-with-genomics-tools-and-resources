@@ -539,6 +539,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * A [blog post](https://jmazz.me/blog/NGS-Workflows) comparing bash script, make, snakemake and nextflow.
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
 * [biomake](https://github.com/evoldoers/biomake) GNU-Make-like utility for managing builds and complex workflows.
+* [drake](https://github.com/ropensci/drake) An R-focused pipeline toolkit for reproducibility and high-performance computing. Snakemake in R.
 * [STAT545 Automating data analysis pipelines](https://stat545-ubc.github.io/automation00_index.html)
 * [Existing Workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
 * [A Nextflow pipeline assembler for genomics](https://github.com/assemblerflow/assemblerflow)
