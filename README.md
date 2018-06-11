@@ -270,6 +270,7 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 * [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
 * [A List of ggplot2 extensions](https://www.ggplot2-exts.org/)
 * [gghighlight](https://github.com/yutannihilation/gghighlight): Highlight ggplot's Lines and Points with Predicates
+* [Anatomy of gghighlight](https://yutani.rbind.io/post/2018-06-03-anatomy-of-gghighlight/)
 * [nice ggplot themes](https://github.com/hrbrmstr/hrbrthemes)
 * [ggsci](https://ggsci.net/) offers a collection of ggplot2 color palettes inspired by scientific journals, data visualization libraries, science fiction movies, and TV shows.
 * [randomcolR](https://github.com/ronammar/randomcoloR) An R package for generating attractive and distinctive colors.
