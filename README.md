@@ -513,6 +513,11 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 * [How to Use Plotly with Jekyll and Github Pages](http://ryankuhn.net/blog/How-To-Use-Plotly-With-Jekyll)
 * [render Rmd pages into blog posts using updated rmarkdown::render function](https://sbamin.com/blog/2017/05/hello-r-jekyll/)
 
+### data management
+
+* [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
+* [Developing a modern data workflow for living data](https://www.biorxiv.org/content/early/2018/06/12/344804)
+
 ### Automate your workflow, open science and reproducible research
 
 **Automation wins in the long run.**
@@ -528,7 +533,6 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [Awesome youtube video for reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=youtu.be)
 * A must read: [Managing the analysis of high-throughput sequencing data](http://www.biorxiv.org/content/early/2017/08/29/136358)
 * [Reproducibility starts at home](http://www.jonzelner.net/statistics/make/docker/reproducibility/2016/05/31/reproducibility-pt-1/) A series of blog posts by Jon Zelner.
-* [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 * [rocker/binder](https://github.com/rocker-org/binder) Adds binder abilities on top of the rocker/tidyverse images.
 * [Embedding containerized workflows inside data science notebooks enhances reproducibility](https://www.biorxiv.org/content/early/2018/05/02/309567)
 * [workflowr](https://jdblischak.github.io/workflowr/index.html): organized + reproducible + shareable data science in R
