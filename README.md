@@ -234,7 +234,9 @@ Using these tool will greatly improve your working efficiency and get rid of mos
 
 a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-backup-data-sets-with-dat.html
 
-
+### R website
+* [rmarkdown website](https://rmarkdown.rstudio.com/rmarkdown_websites.html)
+* [A step by step tutorial](https://gupsych.github.io/acadweb/index.html)
 
 #### R tools for data wrangling, tidying and visualizing.  
 
