@@ -258,6 +258,7 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 * Rstudio [tidyeval video](https://www.rstudio.com/resources/webinars/tidy-eval/)
 * [Tidy evaluation, most common actions](https://edwinth.github.io/blog/dplyr-recipes/)
 * [Non-standard evaluation, how tidy eval builds on base R](https://edwinth.github.io/blog/nse/)
+* [My First Steps into The World of Tidy Eval](http://www.onceupondata.com/2017/08/12/my-first-steps-into-the-world-of-tidyeval/)
 * [dplry](https://github.com/hadley/dplyr)
 * [set_na_where(): a nonstandard evaluation use case](https://tjmahr.github.io/set-na-where-nonstandard-evaluation-use-case/)
 * [programming with dplyr](http://dplyr.tidyverse.org/articles/programming.html) A great read on non-standard evaluation, quoating  and qusiquotation. then the following two packages help you to deal with that.
