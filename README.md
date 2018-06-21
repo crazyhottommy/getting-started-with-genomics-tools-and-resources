@@ -255,6 +255,7 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 * [stringr](https://github.com/tidyverse/stringr)
 * [glue](https://github.com/tidyverse/glue#usage) Glue strings to data in R. Small, fast, dependency free interpreted string literals
 * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/index.html) by jenny bryan. functional programming in R.
+* [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows) `pmap` is your friend :)
 * [janitor](https://github.com/sfirke/janitor) simple tools for data cleaning in R. 
 * [tidyeval resources](http://maraaverick.rbind.io/2017/08/tidyeval-resource-roundup/)
 * Rstudio [tidyeval video](https://www.rstudio.com/resources/webinars/tidy-eval/)
