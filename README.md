@@ -520,6 +520,11 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 
 * [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 * [Developing a modern data workflow for living data](https://www.biorxiv.org/content/early/2018/06/12/344804)
+* [online course CN-2559-BEST-PRACTICES-BIOMEDICAL-RESEARCH-DATA-MANAGEMENT](https://learn.canvas.net/courses/1854)
+* [Ten Simple Rules for Creating a Good Data Management Plan](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525)
+* [Nine simple ways to make it easier to (re)use your data](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608)
+* [Dataone best practise Practices](https://www.dataone.org/best-practices)
+* [Research Data Management: A Primer Publication of the National Information Standards Organization](https://groups.niso.org/apps/group_public/download.php/15375/PrimerRDM-2015-0727%E2%80%A6)
 
 ### Automate your workflow, open science and reproducible research
 
