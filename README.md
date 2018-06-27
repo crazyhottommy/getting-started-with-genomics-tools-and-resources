@@ -277,6 +277,7 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 * [Anatomy of gghighlight](https://yutani.rbind.io/post/2018-06-03-anatomy-of-gghighlight/)
 * [nice ggplot themes](https://github.com/hrbrmstr/hrbrthemes)
 * [ggsci](https://ggsci.net/) offers a collection of ggplot2 color palettes inspired by scientific journals, data visualization libraries, science fiction movies, and TV shows.
+* The goal of [paletteer](https://github.com/EmilHvitfeldt/paletteer) is to be a comprehensize collection (666!)of color palettes in R using a common interface
 * [randomcolR](https://github.com/ronammar/randomcoloR) An R package for generating attractive and distinctive colors.
 * [colourpicker](https://github.com/daattali/colourpicker) A colour picker tool for Shiny and for selecting colours in plots (in R). [R blogger post](https://www.r-bloggers.com/plot-colour-helper-finally-an-easy-way-to-pick-colours-for-your-r-plots/amp/)
 * [ggforce](https://github.com/thomasp85/ggforce/tree/facets): facet_zoom() to zoom in part of the figure! and many more.
