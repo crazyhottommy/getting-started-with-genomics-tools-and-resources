@@ -353,6 +353,7 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 * [python version](http://docopt.org/)
 * [Generate a CLI tool from a Python module/function](https://github.com/bharadwaj-raju/cligenerator)
 * [Introducing Python Fire, a library for automatically generating command line interfaces](https://opensource.googleblog.com/2017/03/python-fire-command-line.html)
+* [Patterns and anti-patterns for writing command-line bioinformatics software](https://github.com/ctb/titus-blog/blob/add/command_line_patterns/src/2018-our-command-line-patterns.md) by Titus.
 ### visualization in general
 
 * [Nature Methods point of view data visulization](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
