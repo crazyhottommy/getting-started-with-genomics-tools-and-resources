@@ -241,6 +241,8 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 * [A step by step tutorial](https://gupsych.github.io/acadweb/index.html)
 * [Up and running with blogdown](https://alison.rbind.io/post/up-and-running-with-blogdown/)
 * [Tips for using the Hugo academic theme](https://lmyint.github.io/post/hugo-academic-tips/)
+* [Custom domain hosting with Github and Namecheap](http://blog.brooke.science/posts/custom-domain-hosting-with-github-and-namecheap/)
+
 #### R tools for data wrangling, tidying and visualizing.  
 
 * [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke.
