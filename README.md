@@ -17,6 +17,7 @@ University. You can get a hard copy on Amazon https://www.amazon.com/Primer-Comp
 * [A New Online Computational Biology Curriculum](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662) PLOS genetics paper.
 * [Bioinformatics core competencies for undergraduate life sciences education](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196878)
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/) The best course to get you started with genomics using R. I have taken 3 times for the same course to get a deep understanding of the concepts and R commands. Now everything can be found here from Rafael Irizarry lab: http://rafalab.github.io/pages/harvardx.html
+* [The Bioconductor 2018 Workshop Compilation](https://bioconductor.github.io/BiocWorkshops/) very rich!
 * [Expanding the computational toolbox for mining cancer genomes](http://www.nature.com/nrg/journal/v15/n8/full/nrg3767.html) Nature Review.
 * [some repos from command line to rstats and github](https://github.com/info-201)
 * 2016 review [Coming of age: ten years of next-generation sequencing technologies](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html)
