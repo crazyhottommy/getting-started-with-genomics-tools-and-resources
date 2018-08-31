@@ -314,6 +314,16 @@ all_data <- tibble(file=input_files) %>%
            regex='sample([^_]+)_rep([^_]+)\\.tsv') %>% 
    unnest(data)  # optional, depends on what you need.
 ```
+or use `purrr::map_df`
+
+```{r}
+f <- list.files(
+  "my_folder",
+   pattern = "*.csv",
+   full.names = TRUE)
+
+d <- purrr::map_df(f, readr::read_csv, .id = "id")
+```
 ### gather multiple columns
 read http://stackoverflow.com/questions/41880796/grouped-multicolumn-gather-with-dplyr-tidyr-purrr
 ```r
