@@ -337,8 +337,10 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 * [Rpub post: Handling large data sets in R](https://rpubs.com/msundar/large_data_analysis)
 
 ### Write your own R package
+* [usethis workflow for package development](https://www.hvitfeldt.me/2018/09/usethis-workflow-for-package-development/)
 * [Writing an R package from scratch](https://r-mageddon.netlify.com/post/writing-an-r-package-from-scratch/) a blog post.
 * [available](https://github.com/ropenscilabs/available) helps you name your R package
+* [goodpractice](https://cran.r-project.org/web/packages/goodpractice/index.html) An R package on Advice on R packages.
 * [R package primer: a minimal tutorial](http://kbroman.org/pkg_primer/)
 * [Write your own R package](http://stat545.com/packages06_foofactors-package.html)
 * [R packages](http://r-pkgs.had.co.nz/) a book by Hadley Wickham.
