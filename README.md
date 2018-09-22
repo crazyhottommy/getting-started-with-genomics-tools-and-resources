@@ -564,12 +564,12 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [The hard road to reproducibility](http://science.sciencemag.org/content/354/6308/142) commentary on Science Magzine.
 * [Five selfish reasons to work reproducibly](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7) Genome Biology paper.
 * A [blog post](https://jmazz.me/blog/NGS-Workflows) comparing bash script, make, snakemake and nextflow.
+* [A Nextflow pipeline assembler for genomics](https://github.com/assemblerflow/assemblerflow) and [flowcraft](https://github.com/assemblerflow/flowcraft) Now you can track both the execution of a nextflowio pipeline AND the reports that it generates in real-time! You can even follow the reports (https://tinyurl.com/y854vftf ) and the pipeline execution.
 * [Make lessons from software carpentry](http://swcarpentry.github.io/make-novice/)
 * [biomake](https://github.com/evoldoers/biomake) GNU-Make-like utility for managing builds and complex workflows.
 * [drake](https://github.com/ropensci/drake) An R-focused pipeline toolkit for reproducibility and high-performance computing. Snakemake in R.
 * [STAT545 Automating data analysis pipelines](https://stat545-ubc.github.io/automation00_index.html)
 * [Existing Workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
-* [A Nextflow pipeline assembler for genomics](https://github.com/assemblerflow/assemblerflow)
 * [Workflow management software for pipeline development in NGS](https://www.biostars.org/p/115745/)
 * [pipelines](https://github.com/pditommaso/awesome-pipeline)
 * [biostar post:Job Manager to parallelize otherwise consecutive bash scripts](https://www.biostars.org/p/174468/)
