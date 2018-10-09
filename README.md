@@ -599,6 +599,7 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 
 ### Survival curve
 
+* [Survival Analysis in R](http://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html) This tutorial was originally presented at the Memorial Sloan Kettering Cancer Center R-Presenters series on August 30, 2018 by [Emily](http://www.emilyzabor.com)
 * [Survival plots have never been so informative: survminer package](http://r-addict.com/2016/05/23/Informative-Survival-Plots.html)
 * posts for survival analysis:  
 ** [Survival Analysis - 1](http://justanotherdatablog.blogspot.com/2015/08/survival-analysis-1.html)  KM estimator  
