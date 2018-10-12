@@ -338,6 +338,7 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 
 ### Write your own R package
 * [usethis workflow for package development](https://www.hvitfeldt.me/2018/09/usethis-workflow-for-package-development/)
+* [Developing R Packages with usethis and GitLab CI: Part I](https://blog.methodsconsultants.com/posts/developing-r-packages-using-gitlab-ci-part-i/)
 * [Writing an R package from scratch](https://r-mageddon.netlify.com/post/writing-an-r-package-from-scratch/) a blog post.
 * [available](https://github.com/ropenscilabs/available) helps you name your R package
 * [goodpractice](https://cran.r-project.org/web/packages/goodpractice/index.html) An R package on Advice on R packages.
