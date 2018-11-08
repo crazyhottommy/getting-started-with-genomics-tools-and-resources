@@ -244,13 +244,36 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 * [Tips for using the Hugo academic theme](https://lmyint.github.io/post/hugo-academic-tips/)
 * [Custom domain hosting with Github and Namecheap](http://blog.brooke.science/posts/custom-domain-hosting-with-github-and-namecheap/)
 * [MkDocs](https://www.mkdocs.org/) is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
+
+
+#### updating R
+* [R upgrading can be a smooth process](http://dscinomics.com/post/2017-04-28-upgrade-to-r-3-4-0/)
+* [updating R](http://lcolladotor.github.io/2017/05/04/Updating-R/#.WSEQPrzyuqA) a blog post by L. Collado-Torres.
+* [update your R version in a breeze ( on OSX)](https://github.com/AndreaCirilloAC/updateR)
+* [updating R](https://whattheyforgot.org/maintaining-r.html#how-to-transfer-your-library-when-updating-r)
+
+```r
+# Install new version of R (lets say 3.5.0 in this example)
+
+# Create a new directory for the version of R
+fs::dir_create("~/Library/R/3.5/library")
+
+# Re-start R so the .libPaths are updated
+
+# Lookup what packages were in your old package library
+pkgs <- fs::dirname(fs::dir_ls("~/Library/R/3.4/library"))
+
+# Filter these packages as needed
+
+# Install the packages in the new version
+install.packages(pkgs)
+
+```
+
 #### R tools for data wrangling, tidying and visualizing.  
 
 * [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke.
 * [Data Visualization: A practical introduction](http://socviz.co/) A book by Kieran Healy from Duke University. Nice one to have!
-* [R upgrading can be a smooth process](http://dscinomics.com/post/2017-04-28-upgrade-to-r-3-4-0/)
-* [updating R](http://lcolladotor.github.io/2017/05/04/Updating-R/#.WSEQPrzyuqA) a blog post by L. Collado-Torres.
-* [update your R version in a breeze ( on OSX)](https://github.com/AndreaCirilloAC/updateR)
 * [Functional programming and unit testing for data munging with R](http://www.brodrigues.co/fput/)
 * [R workshops](https://github.com/nuitrcs/rworkshops) some resources for R related materials.
 * [RStartHere](https://github.com/rstudio/RStartHere) A guide to some of the most useful R Packages that we know about, organized by their role in data science.
