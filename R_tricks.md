@@ -796,3 +796,69 @@ scale_y_reordered <- function(..., sep = "___") {
   ggplot2::scale_y_discrete(labels = function(x) gsub(reg, "", x), ...)
 }
 ```
+
+### separate multiple values in a field
+
+```r
+library(tidyverse)
+test_scores<- data_frame(student = c("Amy", "Belle", "Candice"), 
++                          score= c("75-81-86","87-89-90","92-93-99"))
+> test_scores
+# A tibble: 3 x 2
+  student score   
+  <chr>   <chr>   
+1 Amy     75-81-86
+2 Belle   87-89-90
+3 Candice 92-93-99
+ test_scores %>% separate(score, c("s1", "s2", "s3")) %>%
++         gather(key, score, -student) %>% select(-key)
+# A tibble: 9 x 2
+  student score
+  <chr>   <chr>
+1 Amy     75   
+2 Belle   87   
+3 Candice 92   
+4 Amy     81   
+5 Belle   89   
+6 Candice 93   
+7 Amy     86   
+8 Belle   90   
+9 Candice 99   
+> test_scores<- data_frame(student = c("Amy", "Belle", "Candice"), 
++                          score= c("75-81-86","87-89-90","92-93-99"))
+> test_scores
+# A tibble: 3 x 2
+  student score   
+  <chr>   <chr>   
+1 Amy     75-81-86
+2 Belle   87-89-90
+3 Candice 92-93-99
+> test_scores %>% separate(score, c("s1", "s2", "s3")) %>%
++         gather(key, score, -student) %>% select(-key)
+# A tibble: 9 x 2
+  student score
+  <chr>   <chr>
+1 Amy     75   
+2 Belle   87   
+3 Candice 92   
+4 Amy     81   
+5 Belle   89   
+6 Candice 93   
+7 Amy     86   
+8 Belle   90   
+9 Candice 99   
+> 
+> separate_rows(test_scores, score)
+# A tibble: 9 x 2
+  student score
+  <chr>   <chr>
+1 Amy     75   
+2 Amy     81   
+3 Amy     86   
+4 Belle   87   
+5 Belle   89   
+6 Belle   90   
+7 Candice 92   
+8 Candice 93   
+9 Candice 99 
+```
