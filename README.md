@@ -304,6 +304,7 @@ install.packages(pkgs)
 * [csv fingerprint](http://setosa.io/blog/2014/08/03/csv-fingerprints/)
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
+* [Demystifying ggplot2](https://rud.is/books/creating-ggplot2-extensions/demystifying-ggplot2.html) Learn how to write ggplot2 extensions.
 * [A List of ggplot2 extensions](https://www.ggplot2-exts.org/)
 * [gghighlight](https://github.com/yutannihilation/gghighlight): Highlight ggplot's Lines and Points with Predicates
 * [Anatomy of gghighlight](https://yutani.rbind.io/post/2018-06-03-anatomy-of-gghighlight/)
