@@ -273,6 +273,7 @@ install.packages(pkgs)
 #### R tools for data wrangling, tidying and visualizing.  
 * [What They Forgot to Teach You About R](https://whattheyforgot.org/) by Jennifer Bryan, Jim Hester. you know it is good.
 * [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke.
+* [from data to vis](https://www.data-to-viz.com) From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid.
 * [Data Visualization: A practical introduction](http://socviz.co/) A book by Kieran Healy from Duke University. Nice one to have!
 * [Functional programming and unit testing for data munging with R](http://www.brodrigues.co/fput/)
 * [R workshops](https://github.com/nuitrcs/rworkshops) some resources for R related materials.
@@ -290,6 +291,7 @@ install.packages(pkgs)
 * Rstudio [tidyeval video](https://www.rstudio.com/resources/webinars/tidy-eval/)
 * [Tidy evaluation, most common actions](https://edwinth.github.io/blog/dplyr-recipes/)
 * [Tidy Eval Meets ggplot2](http://www.onceupondata.com/2018/07/06/ggplot-tidyeval/) a blog post.
+* [Tidy evaluation in ggplot2](https://www.tidyverse.org/articles/2018/07/ggplot2-tidy-evaluation/) from tidyverse.
 * [Non-standard evaluation, how tidy eval builds on base R](https://edwinth.github.io/blog/nse/)
 * [My First Steps into The World of Tidy Eval](http://www.onceupondata.com/2017/08/12/my-first-steps-into-the-world-of-tidyeval/)
 * [dplry](https://github.com/hadley/dplyr)
