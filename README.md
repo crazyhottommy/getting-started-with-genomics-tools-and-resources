@@ -659,3 +659,13 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 * [DESKGEN](https://horizon.deskgen.com/landing/#/)
 * [Genome-wide Unbiased Identifications of DSBs Evaluated by Sequencing (GUIDE-seq) is a novel method the Joung lab has developed to identify the off-target sites of CRISPR-Cas RNA-guided Nucleases](http://www.jounglab.org/guideseq)
 * [WTSI Genome Editing (WGE) is a website that provides tools to aid with genome editing of human and mouse genomes](http://www.sanger.ac.uk/htgt/wge/)
+
+### vector arts for life sciences
+
+* [biorender](https://biorender.io/)
+* [reactome icon](https://reactome.org/icon-lib)
+* [Inovative genomic Institute glossary](https://innovativegenomics.org/resources/educational-materials/glossary/)\
+* https://smart.servier.com/   
+* https://www.vecteezy.com/ 
+* https://www.freepik.com/
+
