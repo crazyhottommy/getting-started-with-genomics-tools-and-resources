@@ -663,6 +663,7 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 ### vector arts for life sciences
 
 * [biorender](https://biorender.io/)
+* [The Noun Project](https://thenounproject.com/)
 * [reactome icon](https://reactome.org/icon-lib)
 * [Inovative genomic Institute glossary](https://innovativegenomics.org/resources/educational-materials/glossary/)\
 * https://smart.servier.com/   
