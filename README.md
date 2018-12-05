@@ -529,6 +529,7 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 * [The Open Source Data Science Masters](http://datasciencemasters.org/)
 * [Path to a free self-taught education in Data Science!](https://github.com/open-source-society/data-science)
 * [Path to a free self-taught education in Bioinformatics!](https://github.com/open-source-society/bioinformatics)
+* [CODING CLUB TUTORIALS](https://ourcodingclub.github.io/tutorials/)
 * [Udacity](https://www.udacity.com/)
 * [Coursera](https://www.coursera.org/)
 * [edx](https://www.edx.org/)
