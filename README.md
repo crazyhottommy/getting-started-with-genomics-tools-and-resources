@@ -584,6 +584,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [Awesome youtube video for reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=youtu.be)
 * A must read: [Managing the analysis of high-throughput sequencing data](http://www.biorxiv.org/content/early/2017/08/29/136358)
 * [Reproducibility starts at home](http://www.jonzelner.net/statistics/make/docker/reproducibility/2016/05/31/reproducibility-pt-1/) A series of blog posts by Jon Zelner.
+* [Practical Computational Reproducibility in the Life Sciences](https://www.cell.com/cell-systems/fulltext/S2405-4712(18)30140-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471218301406%3Fshowall%3Dtrue) from Cell Systems.
 * [docker intro by Cyverse](https://cyverse-cybercarpentry-container-workshop-2018.readthedocs-hosted.com/en/latest/docker/dockerintro.html) and [singularity](https://cyverse-container-camp-workshop-2018.readthedocs-hosted.com/en/latest/index.html) by upendra devisetty. I met him in UC Davis during 2018 ANGUS :)
 * [rocker/binder](https://github.com/rocker-org/binder) Adds binder abilities on top of the rocker/tidyverse images.
 * [Embedding containerized workflows inside data science notebooks enhances reproducibility](https://www.biorxiv.org/content/early/2018/05/02/309567)
