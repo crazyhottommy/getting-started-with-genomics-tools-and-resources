@@ -297,6 +297,7 @@ install.packages(pkgs)
 * [Tidy evaluation in ggplot2](https://www.tidyverse.org/articles/2018/07/ggplot2-tidy-evaluation/) from tidyverse.
 * [Non-standard evaluation, how tidy eval builds on base R](https://edwinth.github.io/blog/nse/)
 * [My First Steps into The World of Tidy Eval](http://www.onceupondata.com/2017/08/12/my-first-steps-into-the-world-of-tidyeval/)
+* [tidyeval shiny app](https://ijlyttle.shinyapps.io/tidyeval/)
 * [dplry](https://github.com/hadley/dplyr)
 * [set_na_where(): a nonstandard evaluation use case](https://tjmahr.github.io/set-na-where-nonstandard-evaluation-use-case/)
 * [programming with dplyr](http://dplyr.tidyverse.org/articles/programming.html) A great read on non-standard evaluation, quoating  and qusiquotation. then the following two packages help you to deal with that.
