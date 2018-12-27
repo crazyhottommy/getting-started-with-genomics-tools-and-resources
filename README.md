@@ -37,7 +37,7 @@ University. You can get a hard copy on Amazon https://www.amazon.com/Primer-Comp
 * [bioinformatics-workbook](https://isugenomics.github.io/bioinformatics-workbook/)
 * [Reproducible Quantitative Methods](https://cbahlai.github.io/rqm-template/) from Mozilla science lab.
 * [bio-info courses](https://edu.t-bio.info/lp-courses/)
-* [MIT Computational Biology: Genomes, Networks, Evolution, Health - Fall 2018 - 6.047/6.878/HST.507](https://www.youtube.com/playlist?list=PLypiXJdtIca6GBQwDTo4bIEDV8F4RcAgt)
+* [MIT Computational Biology: Genomes, Networks, Evolution, Health - Fall 2018 - 6.047/6.878/HST.507](https://www.youtube.com/playlist?list=PLypiXJdtIca6GBQwDTo4bIEDV8F4RcAgt)by Manolis Kellis
 
 ### Some biology
 If you are from fields outside of biology, places to get you started:
