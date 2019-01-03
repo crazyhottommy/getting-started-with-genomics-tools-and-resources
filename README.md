@@ -386,6 +386,9 @@ install.packages(pkgs)
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) by Roger Peng et.al.
 * [The tidyverse style guide](http://style.tidyverse.org/) by Hadley Wickham.
 
+### Documentation
+* This is a must read for writing good documentations: A blog [post](https://www.divio.com/blog/documentation/). I saved it to a pdf and uploaded to this repo.
+
 ### handling arguments at the command line
 
 * [docopt.R](https://github.com/docopt/docopt.R) [tutorial](http://www.slideshare.net/EdwindeJonge1/docopt-user2014)
