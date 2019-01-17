@@ -842,6 +842,8 @@ library(tidyverse)
 
 ### preview ggplot2 without saving to a file
 
+from https://twitter.com/tjmahr/status/1083094031826124800?s=12
+
 ```r
 library(ggplot2)
 ggpreview <- function (..., device = "png") {
