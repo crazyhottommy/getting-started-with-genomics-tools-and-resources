@@ -387,6 +387,7 @@ install.packages(pkgs)
 * [usethis](https://github.com/r-lib/usethis) The goal of usethis is to automate many common package and analysis setup tasks.
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) by Roger Peng et.al.
 * [The tidyverse style guide](http://style.tidyverse.org/) by Hadley Wickham.
+* [submitting your package to bioconductor](https://github.com/kuwisdelu/BiocMeetup/blob/master/2019-Jan/BioC-git-and-Github.pdf)
 
 ### Documentation
 * This is a must read for writing good documentations: A blog [post](https://www.divio.com/blog/documentation/). I saved it to a pdf and uploaded to this repo.
