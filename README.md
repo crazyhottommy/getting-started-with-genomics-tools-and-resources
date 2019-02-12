@@ -598,6 +598,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [Practical Computational Reproducibility in the Life Sciences](https://www.cell.com/cell-systems/fulltext/S2405-4712(18)30140-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471218301406%3Fshowall%3Dtrue) from Cell Systems.
 * [Analysis validation has been neglected in the Age of Reproducibility](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000070)
 * [The Life & Times of a Reproducible Clinical Project](https://github.com/jenniferthompson/RMedicine2018) https://jenthompson.me/slides/rmedicine2018/rmedicine2018#1
+* [Reproducible computational environments using containers](https://dme26.github.io/docker-introduction/)
 * [docker intro by Cyverse](https://cyverse-cybercarpentry-container-workshop-2018.readthedocs-hosted.com/en/latest/docker/dockerintro.html) and [singularity](https://cyverse-container-camp-workshop-2018.readthedocs-hosted.com/en/latest/index.html) by upendra devisetty. I met him in UC Davis during 2018 ANGUS :)
 * [rocker/binder](https://github.com/rocker-org/binder) Adds binder abilities on top of the rocker/tidyverse images.
 * [Embedding containerized workflows inside data science notebooks enhances reproducibility](https://www.biorxiv.org/content/early/2018/05/02/309567)
