@@ -38,6 +38,7 @@ University. You can get a hard copy on Amazon https://www.amazon.com/Primer-Comp
 * [Reproducible Quantitative Methods](https://cbahlai.github.io/rqm-template/) from Mozilla science lab.
 * [bio-info courses](https://edu.t-bio.info/lp-courses/)
 * [MIT Computational Biology: Genomes, Networks, Evolution, Health - Fall 2018 - 6.047/6.878/HST.507](https://www.youtube.com/playlist?list=PLypiXJdtIca6GBQwDTo4bIEDV8F4RcAgt)by Manolis Kellis
+* [MIT linear algebra course by Gilbert Strang ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 
 ### Some biology
 If you are from fields outside of biology, places to get you started:
