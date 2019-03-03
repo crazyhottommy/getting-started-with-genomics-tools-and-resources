@@ -248,6 +248,7 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 * [rmarkdown website](https://rmarkdown.rstudio.com/rmarkdown_websites.html)
 * [A step by step tutorial](https://gupsych.github.io/acadweb/index.html)
 * [Up and running with blogdown](https://alison.rbind.io/post/up-and-running-with-blogdown/)
+* [make a hugo blog from scratch](https://zwbetz.com/make-a-hugo-blog-from-scratch/) to understand Hugo if you use blogdown.
 * [Tips for using the Hugo academic theme](https://lmyint.github.io/post/hugo-academic-tips/)
 * [Custom domain hosting with Github and Namecheap](http://blog.brooke.science/posts/custom-domain-hosting-with-github-and-namecheap/)
 * [MkDocs](https://www.mkdocs.org/) is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
