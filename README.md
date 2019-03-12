@@ -607,7 +607,8 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [rocker/binder](https://github.com/rocker-org/binder) Adds binder abilities on top of the rocker/tidyverse images.
 * [Embedding containerized workflows inside data science notebooks enhances reproducibility](https://www.biorxiv.org/content/early/2018/05/02/309567)
 * [workflowr](https://jdblischak.github.io/workflowr/index.html): organized + reproducible + shareable data science in R
-* [Singularity](http://singularity.lbl.gov/) Singularity enables users to have full control of their environment. Singularity containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a Singularity container and run.  
+* [Singularity](http://singularity.lbl.gov/) Singularity enables users to have full control of their environment. Singularity containers can be used to package entire scientific workflows, software and libraries, and even data. This means that you don’t have to ask your cluster admin to install anything for you - you can put it in a Singularity container and run. 
+* [EMBL-bioIT sigularity workshop](https://git.embl.de/grp-bio-it/singularity-training-2019)
 * [countinous analysis](https://github.com/greenelab/continuous_analysis) [Reproducibility of computational workflows is automated using continuous analysis](http://www.nature.com/nbt/journal/v35/n4/full/nbt.3780.html)  
 * [The hard road to reproducibility](http://science.sciencemag.org/content/354/6308/142) commentary on Science Magzine.
 * [Five selfish reasons to work reproducibly](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7) Genome Biology paper.
