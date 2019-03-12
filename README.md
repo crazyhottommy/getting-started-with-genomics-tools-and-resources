@@ -407,6 +407,7 @@ install.packages(pkgs)
 * [Nature Methods point of view data visulization](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
 * [A tutorial for the free Inkscape cross-platform vector graphics editor](https://github.com/fredhutchio/inkscape-tutorial)
 * [gimp](https://www.gimp.org/downloads/) for bit-map based figures.
+* [data vis resource from Sabah](https://sabahzero.github.io/dataviz/resources)
 
 ### Javascript
 
