@@ -857,5 +857,51 @@ g<- ggplot(mtcars, aes(x = hp, y = mpg)) + geom_point()
 
 ggpreview(g, width = 5, height = 6, device = "pdf")
 
+```
 
+### group_split() and group_map(), group_walk()
+
+dplyr >= 0.8.0 see this post https://www.johnmackintosh.com/2019-02-28-first-look-at-mapping-and-splitting-in-dplyr/
+and this tweethttps://twitter.com/coolbutuseless/status/1101447111978205184?s=12
+
+(a) group_split() + walk()
+(b) group_by() + group_walk()
+
+```r
+library(tidyverse)
+> mtcars %>% group_split(cyl) %>% walk(~print(head(.x,2)))
+# A tibble: 2 x 11
+    mpg   cyl  disp    hp  drat    wt  qsec    vs    am  gear  carb
+  <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl>
+1  22.8     4  108     93  3.85  2.32  18.6     1     1     4     1
+2  24.4     4  147.    62  3.69  3.19  20       1     0     4     2
+# A tibble: 2 x 11
+    mpg   cyl  disp    hp  drat    wt  qsec    vs    am  gear  carb
+  <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl>
+1    21     6   160   110   3.9  2.62  16.5     0     1     4     4
+2    21     6   160   110   3.9  2.88  17.0     0     1     4     4
+# A tibble: 2 x 11
+    mpg   cyl  disp    hp  drat    wt  qsec    vs    am  gear  carb
+  <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl>
+1  18.7     8   360   175  3.15  3.44  17.0     0     0     3     2
+2  14.3     8   360   245  3.21  3.57  15.8     0     0     3     4
+
+## the cyl variable is not in the dataframe
+
+> mtcars %>% group_by(cyl) %>% group_walk(~print(head(.x,2)))
+# A tibble: 2 x 10
+    mpg  disp    hp  drat    wt  qsec    vs    am  gear  carb
+  <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl>
+1  22.8  108     93  3.85  2.32  18.6     1     1     4     1
+2  24.4  147.    62  3.69  3.19  20       1     0     4     2
+# A tibble: 2 x 10
+    mpg  disp    hp  drat    wt  qsec    vs    am  gear  carb
+  <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl>
+1    21   160   110   3.9  2.62  16.5     0     1     4     4
+2    21   160   110   3.9  2.88  17.0     0     1     4     4
+# A tibble: 2 x 10
+    mpg  disp    hp  drat    wt  qsec    vs    am  gear  carb
+  <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl>
+1  18.7   360   175  3.15  3.44  17.0     0     0     3     2
+2  14.3   360   245  3.21  3.57  15.8     0     0     3     4
 ```
