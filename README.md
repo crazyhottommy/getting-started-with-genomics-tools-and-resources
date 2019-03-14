@@ -311,6 +311,7 @@ install.packages(pkgs)
 * [Introduction of Parameterized dplyr expression](http://blog.eighty20.co.za//package%20exploration/2017/02/16/replyr-dplyr/) using replyr
 * [wrapr](https://github.com/WinVector/wrapr) wraps R functions debugging and better standard evaluation. `Let` function. blog post [wrapr: for sweet R code](http://www.win-vector.com/blog/2017/03/wrapr-for-sweet-r-code/)
 * [Easy machine learning pipelines with pipelearner: intro and call for contributors](https://drsimonj.svbtle.com/easy-machine-learning-pipelines-with-pipelearner-intro-and-call-for-contributors?utm_content=buffer7ef93&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) [github page](https://github.com/drsimonj/pipelearner)
+* [plot ROC with tidyverse](https://sydykova.com/post/2019-03-12-make-roc-curves-tidyverse/)
 * [csv fingerprint](http://setosa.io/blog/2014/08/03/csv-fingerprints/)
 * [ggplot2](https://github.com/hadley/ggplot2)
 * [ggplot2 tips](http://t-redactyl.io/tag/ggplot2.html)
