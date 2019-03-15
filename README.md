@@ -9,6 +9,7 @@
 * [Introduction to Data Science](https://rafalab.github.io/dsbook/) by Rafael A. Irizarry.
 * [The Biologist’s Guide to Computing](http://book.biologistsguide2computing.com/en/stable/) A book written by @tjelvar_olsson 
 * [A Primer for Computational Biology](http://library.open.oregonstate.edu/computationalbiology/) A nice book from Oregon State
+* [Computational Genomics With R](http://compgenomr.github.io/book/) A nice book from Altuna Akalin.
 University. You can get a hard copy on Amazon https://www.amazon.com/Primer-Computational-Biology-Shawn-ONeil/dp/0870719262. 
 * [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/) written by Prof. Susan Holmes from Stanford. I plan to read through it. a nice book using R for modern biology! looks awesome!
 * [An Introduction To Applied Bioinformatics](https://github.com/caporaso-lab/An-Introduction-To-Applied-Bioinformatics) Interactive lessons in bioinformatics
