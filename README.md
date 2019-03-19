@@ -7,6 +7,7 @@
 * [Practical computing for biologist](http://practicalcomputing.org/). One of my first books to get me started in coding.
 * [ModernDive An Introduction to Statistical and Data Sciences via R](https://ismayc.github.io/moderndiver-book/index.html)
 * [Introduction to Data Science](https://rafalab.github.io/dsbook/) by Rafael A. Irizarry.
+* [Learning Statistics with R](https://learningstatisticswithr.com/)
 * [The Biologist’s Guide to Computing](http://book.biologistsguide2computing.com/en/stable/) A book written by @tjelvar_olsson 
 * [A Primer for Computational Biology](http://library.open.oregonstate.edu/computationalbiology/) A nice book from Oregon State University. You can get a hard copy on Amazon https://www.amazon.com/Primer-Computational-Biology-Shawn-ONeil/dp/0870719262. 
 * [Computational Genomics With R](http://compgenomr.github.io/book/) A nice book from Altuna Akalin.
