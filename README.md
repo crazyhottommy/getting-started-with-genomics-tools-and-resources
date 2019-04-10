@@ -629,6 +629,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [paper:A review of bioinformatic pipeline frameworks](http://bib.oxfordjournals.org/content/early/2016/03/23/bib.bbw020.long)
 * [initial steps toward reproducible research](http://kbroman.org/steps2rr/#TAGC16)
 * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
+* [Deepnote](https://www.deepnote.com) - Better UI for Jupyter and enables collaboration & working online without installing anything.
 * [R notebook](http://data-steve.github.io/setting-up-r-notebook/)
 * [CoCAL](https://cocalc.com/) Collaborative Calculation in the Cloud
 * [BEAKER THE DATA SCIENTIST'S LABORATORY](http://beakernotebook.com/)
