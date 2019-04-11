@@ -368,7 +368,7 @@ install.packages(pkgs)
 ### Sankey graph
 * [ggalluvial](http://corybrunson.github.io/ggalluvial/index.html) 
 * [ggforce](https://github.com/thomasp85/ggforce/tree/sankey) `geom_parallel_sets()`
-* [Alluvial Diagrams with ggforce](http://www.dandersondata.com/post/alluvial-plots-with-ggforce/)
+* [Alluvial Diagrams with ggforce]
 
 ### Handling big data in R
 * [Lightning Fast Serialization of Data Frames for R](https://github.com/fstpackage/fst) faster than `data.table`, `feather`.
