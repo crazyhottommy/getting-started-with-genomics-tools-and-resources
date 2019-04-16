@@ -68,6 +68,7 @@ If you are from fields outside of biology, places to get you started:
 * [Bayesian Data Analysis demos for R](https://github.com/avehtari/BDA_R_demos)
 
 ### Linux commands
+* [Greg Wilson's youtube videos on unix shell](https://www.youtube.com/watch?v=U3iNcBtycaQ)
 * [A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs) from Heng Li  
 * [Linux command line exercises for NGS data processing](http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/linux.html)  
 * [command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=rca84m6nsz6c9ngnugt8uayvi) teaches you unix command step by step
