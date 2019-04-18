@@ -107,6 +107,31 @@ df %>% slice(match(x, category))
 3        B     2
 
 ```
+
+https://stackoverflow.com/questions/46129322/arranging-rows-in-custom-order-using-dplyr
+
+
+```{r}
+> df<- data.frame(num = c(1,3,4,5,3,2), type = c("A", "B", "C", "C", "A", "B"))
+> df
+  num type
+1   1    A
+2   3    B
+3   4    C
+4   5    C
+5   3    A
+6   2    B
+
+> df %>% arrange(match(type, c("C", "A", "B")), desc(num))
+  num type
+1   5    C
+2   4    C
+3   3    A
+4   1    A
+5   3    B
+6   2    B
+```
+
 ### filter out groups of rows by dplyr if a column in a group are all smaller than a number
 
 ```r
