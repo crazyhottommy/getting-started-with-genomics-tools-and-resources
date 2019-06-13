@@ -252,6 +252,7 @@ a blog post by Mark Ziemann http://genomespot.blogspot.com/2018/03/share-and-bac
 * [rmarkdown website](https://rmarkdown.rstudio.com/rmarkdown_websites.html)
 * [A step by step tutorial](https://gupsych.github.io/acadweb/index.html)
 * [Up and running with blogdown](https://alison.rbind.io/post/up-and-running-with-blogdown/)
+* [summer of blogdown](https://summer-of-blogdown.netlify.com/)
 * [bookdown advanced slide](https://arm.rbind.io/slides/bookdown.html#1)
 * [make a hugo blog from scratch](https://zwbetz.com/make-a-hugo-blog-from-scratch/) to understand Hugo if you use blogdown.
 * [Tips for using the Hugo academic theme](https://lmyint.github.io/post/hugo-academic-tips/)
