@@ -507,6 +507,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [Introducing altair, an R interface to the Altair Python Package](https://vegawidget.rbind.io/post/2018-05-20-introducing-altair/)  which you can use to build and render Vega-Lite chart-specifications.
 
 ### Tutorials
+* [Ten quick tips for effective dimensionality reduction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907) by Susan Holmes.
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/). Learn R and bioconductor.
 * [Principal Component Analysis Explained Visually](http://setosa.io/ev/principal-component-analysis/)  
 * [PCA, MDS, k-means, Hierarchical clustering and heatmap](https://rpubs.com/crazyhottommy/PCA_MDS). I wrote it.
