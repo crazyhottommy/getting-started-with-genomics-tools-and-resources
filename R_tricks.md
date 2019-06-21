@@ -930,3 +930,33 @@ library(tidyverse)
 1  18.7   360   175  3.15  3.44  17.0     0     0     3     2
 2  14.3   360   245  3.21  3.57  15.8     0     0     3     4
 ```
+
+### hacking R lib path
+
+https://milesmcbain.xyz/hacking-r-library-paths/
+
+```r
+set_lib_paths <- function(lib_vec) {
+
+  lib_vec <- normalizePath(lib_vec, mustWork = TRUE)
+
+  shim_fun <- .libPaths
+  shim_env <- new.env(parent = environment(shim_fun))
+  shim_env$.Library <- character()
+  shim_env$.Library.site <- character()
+
+  environment(shim_fun) <- shim_env
+  shim_fun(lib_vec)
+
+}
+
+> .libPaths()
+[1] "/home/miles/R/x86_64-pc-linux-gnu-library/3.6"
+[2] "/usr/local/lib/R/site-library"                
+[3] "/usr/lib/R/site-library"                      
+[4] "/usr/lib/R/library"    
+
+> set_lib_paths("~/code/library")
+> .libPaths()
+[1] "/home/miles/code/library"
+```
