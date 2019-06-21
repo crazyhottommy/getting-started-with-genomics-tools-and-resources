@@ -15,6 +15,7 @@
 * [An Introduction To Applied Bioinformatics](https://github.com/caporaso-lab/An-Introduction-To-Applied-Bioinformatics) Interactive lessons in bioinformatics
 * [The Biostar Handbook: A Beginner's Guide to Bioinformatics](http://read.biostarhandbook.com/?q=) I am honored to be a co-author of this book. My ChIP-seq section was released by the mid of 2017.
 * [Beginner's Handbook to Next Generation Sequencing](https://genohub.com/next-generation-sequencing-handbook/) Everything you need to know about starting a sequencing project
+* [Another Book on Data Science:Learn R and Python in Parallel](https://www.anotherbookondatascience.com/) compares R and python side by side.
 * [A New Online Computational Biology Curriculum](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662) PLOS genetics paper.
 * [Bioinformatics core competencies for undergraduate life sciences education](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196878)
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/) The best course to get you started with genomics using R. I have taken 3 times for the same course to get a deep understanding of the concepts and R commands. Now everything can be found here from Rafael Irizarry lab: http://rafalab.github.io/pages/harvardx.html
