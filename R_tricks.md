@@ -960,3 +960,31 @@ set_lib_paths <- function(lib_vec) {
 > .libPaths()
 [1] "/home/miles/code/library"
 ```
+### Sample from groups, n varies by group
+
+https://jennybc.github.io/purrr-tutorial/ls12_different-sized-samples.html
+
+```r
+iris %>%
+  group_by(Species) %>% 
+  nest() %>%            
+  mutate(n = c(2, 5, 3)) %>% 
+  mutate(samp = map2(data, n, sample_n)) %>% 
+  select(Species, samp) %>%
+  unnest()
+#> # A tibble: 10 x 5
+#>    Species    Sepal.Length Sepal.Width Petal.Length Petal.Width
+#>    <fct>             <dbl>       <dbl>        <dbl>       <dbl>
+#>  1 setosa              5.4         3.4          1.7         0.2
+#>  2 setosa              5.5         3.5          1.3         0.2
+#>  3 versicolor          6.6         2.9          4.6         1.3
+#>  4 versicolor          6.9         3.1          4.9         1.5
+#>  5 versicolor          5.8         2.7          3.9         1.2
+#>  6 versicolor          6           2.7          5.1         1.6
+#>  7 versicolor          6.2         2.9          4.3         1.3
+#>  8 virginica           6.4         3.2          5.3         2.3
+#>  9 virginica           6.5         3            5.5         1.8
+#> 10 virginica           6.1         3            4.9         1.8
+```
+
+also check `dplyr::sample_n()` and `dplyr::sample_frac()`
