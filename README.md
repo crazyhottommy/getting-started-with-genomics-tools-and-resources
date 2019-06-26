@@ -463,6 +463,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 ### Databases
 * [DisGeNET](http://www.disgenet.org/web/DisGeNET/menu/home?utm_source=twitterfeed&utm_medium=twitter) is a discovery platform integrating information on gene-disease associations (GDAs) from several public data sources and the literature
 * [Cancer3D](http://cancer3d.org/) is a database that unites information on somatic missense mutations from TCGA and CCLE, allowing users to explore two different cancer-related problems at the same time: drug sensitivity/biomarker identification and prediction of cancer drivers
+* [PharmacoGx](https://bioconductor.org/packages/release/bioc/html/PharmacoGx.html) Contains a set of functions to perform large-scale analysis of pharmacogenomic data. public data sets such as CCLE can be easily downloaded!
 * [clinical intepretations of variants in cancer](https://civic.genome.wustl.edu/#/home)
 * [R Wrapper for DGIdb](http://bioconductor.org/packages/devel/bioc/html/rDGIdb.html) Drug-gene interaction database.
 * [BioGrid](http://thebiogrid.org/) Welcome to the Biological General Repository for Interaction Datasets
