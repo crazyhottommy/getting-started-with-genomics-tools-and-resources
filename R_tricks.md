@@ -988,3 +988,39 @@ iris %>%
 ```
 
 also check `dplyr::sample_n()` and `dplyr::sample_frac()`
+
+### ggplot2 reorder factor within facet
+
+https://juliasilge.com/blog/reorder-within/
+
+```r
+library(tidyverse)
+library(babynames)
+
+top_names <- babynames %>%
+    filter(year >= 1950,
+           year < 1990) %>%
+    mutate(decade = (year %/% 10) * 10) %>%
+    group_by(decade) %>%
+    count(name, wt = n, sort = TRUE) %>%
+    ungroup
+
+top_names
+
+top_names %>%
+    group_by(decade) %>%
+    top_n(15) %>%
+    ungroup %>%
+    mutate(decade = as.factor(decade),
+           name = reorder_within(name, n, decade)) %>%
+    ggplot(aes(name, n, fill = decade)) +
+    geom_col(show.legend = FALSE) +
+    facet_wrap(~decade, scales = "free_y") +
+    coord_flip() +
+    scale_x_reordered() +
+    scale_y_continuous(expand = c(0,0)) +
+    labs(y = "Number of babies per decade",
+         x = NULL,
+         title = "What were the most common baby names in each decade?",
+         subtitle = "Via US Social Security Administration")
+```
