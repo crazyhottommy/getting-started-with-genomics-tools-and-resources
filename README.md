@@ -500,6 +500,7 @@ see a nice post by using python by Radhouane Aniba:[Genomic Data Visualization i
 * [Ferret, a User-Friendly Java Tool to Extract Data from the 1000 Genomes Project](http://limousophie35.github.io/Ferret/)
 * [EGA:European Genome-phenome Archive](https://www.ebi.ac.uk/ega/datasets)
 * [survival curves for TCGA data: a simple web tool](http://www.oncolnc.org/)
+*  Genetic, epigenetic, and transcriptional patterns that are present in a primary tumor can predict the likelihood of cancer patient relapse and death. This website provides access to the analysis of mutations, copy number alterations, methylation, microRNA, mRNA, and protein expression patterns linked with cancer outcome described in Smith and Sheltzer (2018). TCGA Genetic determinants of cancer patient survival http://survival.cshl.edu/
 * [AACR Project GENIE](https://www.synapse.org/#!Synapse:syn7222066/wiki/405659) [data guide](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources/blob/master/GENIEDataGuide.pdf)
 
 ### Integrative analysis
