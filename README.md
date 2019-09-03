@@ -188,6 +188,7 @@ It is sometimes hard to remember. one can use the letter:The letters u, g, and o
 * [visidata](https://github.com/saulpw/visidata) A console spreadsheet tool for discovering and arranging data
 * [xsv](https://github.com/BurntSushi/xsv) A fast CSV toolkit written in Rust.
 * [Going from a human readable Excel file to a machine-readable csv with {tidyxl}](https://www.brodrigues.co/blog/2018-09-11-human_to_machine/)
+* eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more. https://ebay.github.io/tsv-utils/
 
 ### How to name files
 It is really important to name your files correctly! see a [ppt](https://rawgit.com/Reproducible-Science-Curriculum/rr-organization1/master/organization-01-slides.html) by Jenny Bryan.
