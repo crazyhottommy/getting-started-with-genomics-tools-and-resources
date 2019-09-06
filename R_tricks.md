@@ -348,6 +348,12 @@ f <- list.files(
    full.names = TRUE)
 
 d <- purrr::map_df(f, readr::read_csv, .id = "id")
+
+Also check
+
+```
+?purrr::map_dfr and ?purrr::map_dfc
+```
 ```
 ### gather multiple columns
 read http://stackoverflow.com/questions/41880796/grouped-multicolumn-gather-with-dplyr-tidyr-purrr
