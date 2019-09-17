@@ -1030,3 +1030,32 @@ top_names %>%
          title = "What were the most common baby names in each decade?",
          subtitle = "Via US Social Security Administration")
 ```
+
+### add statistics sig to ggplot2
+
+https://indrajeetpatil.github.io/pairwiseComparisons/
+and https://cran.r-project.org/web/packages/ggsignif/vignettes/intro.html
+
+```r
+library(pairwiseComparisons)
+library(ggsignif)
+library(ggplot2)
+mtcars$cyl<- as.factor(mtcars$cyl)
+df<- pairwise_comparisons(mtcars, cyl, wt, type = "parametric") %>%
+        dplyr::mutate(.data = ., groups = purrr::pmap(.l = list(group1, group2), .f = c)) %>%
+        dplyr::arrange(.data = . , group1)
+
+p<- ggplot(mtcars, aes(cyl, wt)) +geom_boxplot()
+
+p + ggsignif::geom_signif(
+        comparisons = df$groups,
+        map_signif_level = TRUE,
+        y_position = c(5.5,5.75,6),
+        annotations = df$label,
+        test = NULL,
+        na.rm = TRUE,
+        parse = TRUE
+)
+```
+![](https://user-images.githubusercontent.com/4106146/65054432-8b9b0100-d93b-11e9-9ef0-4ccff12a1c22.png)
+
