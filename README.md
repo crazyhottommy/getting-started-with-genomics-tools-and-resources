@@ -14,6 +14,7 @@
 * [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/) written by Prof. Susan Holmes from Stanford. I plan to read through it. a nice book using R for modern biology! looks awesome!
 * [An Introduction To Applied Bioinformatics](https://github.com/caporaso-lab/An-Introduction-To-Applied-Bioinformatics) Interactive lessons in bioinformatics
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://github.com/topepo/FES) by Kuhn and Johnson https://bookdown.org/max/FES
+* [Agile Data Science with R](https://edwinth.github.io/ADSwR/index.html)
 * [The Biostar Handbook: A Beginner's Guide to Bioinformatics](http://read.biostarhandbook.com/?q=) I am honored to be a co-author of this book. My ChIP-seq section was released by the mid of 2017.
 * [Beginner's Handbook to Next Generation Sequencing](https://genohub.com/next-generation-sequencing-handbook/) Everything you need to know about starting a sequencing project
 * [Another Book on Data Science:Learn R and Python in Parallel](https://www.anotherbookondatascience.com/) compares R and python side by side.
