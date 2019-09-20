@@ -383,6 +383,7 @@ install.packages(pkgs)
 * [Alluvial Diagrams with ggforce]
 
 ### Handling big data in R
+* [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/) A blog post compare dplyr and data.table side by side.
 * [Lightning Fast Serialization of Data Frames for R](https://github.com/fstpackage/fst) faster than `data.table`, `feather`.
 * [Rpub post: Handling large data sets in R](https://rpubs.com/msundar/large_data_analysis)
 * [The disk.frame package aims to be the answer to the question: how do I manipulate structured tabular data that doesn’t fit into Random Access Memory (RAM)](https://github.com/xiaodaigh/disk.frame)
