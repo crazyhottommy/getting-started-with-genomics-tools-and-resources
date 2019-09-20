@@ -384,6 +384,7 @@ install.packages(pkgs)
 ### Handling big data in R
 * [Lightning Fast Serialization of Data Frames for R](https://github.com/fstpackage/fst) faster than `data.table`, `feather`.
 * [Rpub post: Handling large data sets in R](https://rpubs.com/msundar/large_data_analysis)
+* [The disk.frame package aims to be the answer to the question: how do I manipulate structured tabular data that doesn’t fit into Random Access Memory (RAM)](https://github.com/xiaodaigh/disk.frame)
 
 ### Write your own R package
 * [usethis workflow for package development](https://www.hvitfeldt.me/2018/09/usethis-workflow-for-package-development/)
