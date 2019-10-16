@@ -67,6 +67,11 @@ If you are from fields outside of biology, places to get you started:
 * [Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/) by Roger Peng.
 * [fiveMinuteStats](http://stephens999.github.io/fiveMinuteStats/index.html#inference)
 
+### linear algebra
+* [18.06 from Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+* [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning from Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
+* [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)
+
 #### Bayesian Statistics
 
 * [Introduction to Bayesian Statistics](https://www.youtube.com/playlist?list=PLuRpZIQQRQedb2GM2WhKSEzojGN-BIIR9) STATS331 from Brendon Brewer.  
