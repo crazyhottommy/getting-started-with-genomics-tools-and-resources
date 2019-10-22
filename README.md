@@ -78,6 +78,7 @@ If you are from fields outside of biology, places to get you started:
 * [Introduction to Empirical Bayes](http://varianceexplained.org/r/empirical-bayes-book/) by David Robinson using baseball examples.  
 * [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/) github link https://github.com/rmcelreath/statrethinking_winter2019
 * [Bayesian Data Analysis demos for R](https://github.com/avehtari/BDA_R_demos)
+* [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/ajkurz/DBDA_recoded/) a book.
 
 ### Linux commands
 * [Greg Wilson's youtube videos on unix shell](https://www.youtube.com/watch?v=U3iNcBtycaQ)
