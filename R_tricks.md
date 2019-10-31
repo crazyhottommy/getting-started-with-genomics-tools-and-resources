@@ -1059,3 +1059,34 @@ p + ggsignif::geom_signif(
 ```
 ![](https://user-images.githubusercontent.com/4106146/65054432-8b9b0100-d93b-11e9-9ef0-4ccff12a1c22.png)
 
+### flip the ggplot2 color
+
+Thanks [Shila Ghazanfar](https://twitter.com/shazanfar) for the tip!
+
+```{r}
+library(ggplot2)
+library(patchwork)
+
+df = data.frame(x = c("yes", "no", "maybe"))
+
+g1 = ggplot(df, aes(x = x, fill = x)) + geom_bar()
+g2 = g1 + scale_fill_discrete(limits = rev(levels(df$x))) 
+
+g1 + g2
+
+```
+
+### Emulate ggplot2 default color palette
+
+https://stackoverflow.com/questions/8197559/emulate-ggplot2-default-color-palette
+
+```{r}
+gg_color_hue <- function(n) {
+  hues = seq(15, 375, length = n + 1)
+  hcl(h = hues, l = 65, c = 100)[1:n]
+}
+
+## 4 colors 
+n = 4
+cols = gg_color_hue(n)
+```
