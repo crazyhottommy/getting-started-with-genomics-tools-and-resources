@@ -46,6 +46,7 @@
 * [Reproducible Quantitative Methods](https://cbahlai.github.io/rqm-template/) from Mozilla science lab.
 * [bio-info courses](https://edu.t-bio.info/lp-courses/)
 * [MIT Computational Biology: Genomes, Networks, Evolution, Health - Fall 2018 - 6.047/6.878/HST.507](https://www.youtube.com/playlist?list=PLypiXJdtIca6GBQwDTo4bIEDV8F4RcAgt)by Manolis Kellis
+* [MIT machine learning in Genomics](https://www.youtube.com/playlist?list=PLypiXJdtIca6U5uQOCHjP9Op3gpa177fK) by Manolis Kellis.
 * [MIT linear algebra course by Gilbert Strang ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 * [Generalized Additive Models in R](https://noamross.github.io/gams-in-r-course/) This short course will teach you how to use these flexible, powerful tools to model data and solve data science problems. GAMs offer offer a middle ground between simple linear models and complex machine-learning techniques, allowing you to model and understand complex systems.
 
