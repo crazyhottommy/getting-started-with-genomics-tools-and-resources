@@ -62,6 +62,7 @@ If you are from fields outside of biology, places to get you started:
 
 ### Some statistics
 
+* [Elementary Statistical Modeling for Applied Biostatistics](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/) I plan to read this one!!
 * [seeing theory](http://students.brown.edu/seeing-theory/index.html) The goal of the project is to make statistics more accessible to a wider range of students through interactive visualizations. 
 * [Points of Significance: Interpreting P values](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4210.html)
 * [statistics for biologists](http://www.nature.com/collections/qghhqm/pointsofsignificance)
