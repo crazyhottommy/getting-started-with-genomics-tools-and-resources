@@ -83,6 +83,13 @@ If you are from fields outside of biology, places to get you started:
 * [Bayesian Data Analysis demos for R](https://github.com/avehtari/BDA_R_demos)
 * [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/ajkurz/DBDA_recoded/) a book.
 
+### Learning Latex
+* [draw your symbols](http://detexify.kirelabs.org/classify.html)
+* [The Best Way to Support LaTeX Math in Markdown with MathJax](https://yihui.org/en/2018/07/latex-math-markdown/)
+* [TinyTeX](https://yihui.org/tinytex/) A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live
+* Math expression http://www.math.mcgill.ca/yyang/regression/RMarkdown/example.html
+* [intro to Latex2](http://ctan.mirrors.hoobly.com/info/lshort/english/lshort.pdf) chapter 3
+
 ### Linux commands
 * [Greg Wilson's youtube videos on unix shell](https://www.youtube.com/watch?v=U3iNcBtycaQ)
 * [A Bioinformatician's UNIX Toolbox](http://lh3lh3.users.sourceforge.net/biounix.shtml#xargs) from Heng Li  
