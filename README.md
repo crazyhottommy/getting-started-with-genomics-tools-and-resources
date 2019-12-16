@@ -18,7 +18,7 @@
 - [Statistics](#statistics)
 - [Data transfer](#data-transfer)
 - [Website](#website)
-- [profile R code](#profile)
+- [profile R code](#profile-r-code)
 - [updating R](#updating-r)
   - [R tools for data wrangling, tidying and visualizing.](#r-tools-for-data-wrangling-tidying-and-visualizing)
 - [Sankey graph](#sankey-graph)
