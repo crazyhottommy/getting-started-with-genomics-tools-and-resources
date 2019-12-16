@@ -20,7 +20,7 @@
 - [Website](#website)
 - [profile R code](#profile-r-code)
 - [updating R](#updating-r)
-  - [R tools for data wrangling, tidying and visualizing.](#r-tools-for-data-wrangling-tidying-and-visualizing)
+- [R tools for data wrangling, tidying and visualizing.](#r-tools-for-data-wrangling-tidying-and-visualizing)
 - [Sankey graph](#sankey-graph)
 - [Handling big data in R](#handling-big-data-in-r)
 - [Write your own R package](#write-your-own-r-package)
@@ -376,7 +376,7 @@ install.packages(pkgs)
 * [proffer](https://github.com/r-prof/proffer) The proffer package profiles R code to find bottlenecks.
 * [rco - The R Code Optimizer](https://jcrodriguez1989.github.io/rco/index.html) Make your R code run faster! rco analyzes your code and applies different optimization strategies that return an R code that runs faster.
 
-#### R tools for data wrangling, tidying and visualizing.  
+### R tools for data wrangling, tidying and visualizing.  
 
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 * [What They Forgot to Teach You About R](https://whattheyforgot.org/) by Jennifer Bryan, Jim Hester. you know it is good.
