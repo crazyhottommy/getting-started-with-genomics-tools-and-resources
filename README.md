@@ -18,6 +18,7 @@
 - [Statistics](#statistics)
 - [Data transfer](#data-transfer)
 - [Website](#website)
+- [profile R code](#profile)
 - [updating R](#updating-r)
   - [R tools for data wrangling, tidying and visualizing.](#r-tools-for-data-wrangling-tidying-and-visualizing)
 - [Sankey graph](#sankey-graph)
@@ -369,6 +370,11 @@ pkgs <- fs::dirname(fs::dir_ls("~/Library/R/3.4/library"))
 install.packages(pkgs)
 
 ```
+### profile R code
+
+* [profvis](https://rstudio.github.io/profvis/) Interactive Visualizations for Profiling R Code.
+* [proffer](https://github.com/r-prof/proffer) The proffer package profiles R code to find bottlenecks.
+* [rco - The R Code Optimizer](https://jcrodriguez1989.github.io/rco/index.html) Make your R code run faster! rco analyzes your code and applies different optimization strategies that return an R code that runs faster.
 
 #### R tools for data wrangling, tidying and visualizing.  
 
