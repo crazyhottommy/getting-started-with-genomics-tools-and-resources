@@ -131,6 +131,7 @@ If you are from fields outside of biology, places to get you started:
 * [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning from Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
 * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)using Julia language.
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
+* [Course materials for applied regression STATS191 stanford](https://pratheepaj.github.io/teaching/stats191/)
 
 #### Bayesian Statistics
 
