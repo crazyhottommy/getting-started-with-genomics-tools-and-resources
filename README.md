@@ -123,6 +123,7 @@ If you are from fields outside of biology, places to get you started:
 * [statistics for biologists](http://www.nature.com/collections/qghhqm/pointsofsignificance)
 * [Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/) by Roger Peng.
 * [fiveMinuteStats](http://stephens999.github.io/fiveMinuteStats/index.html#inference)
+* [Learning Statistics with R](https://learningstatisticswithr.com/)
 
 ### linear algebra
 
