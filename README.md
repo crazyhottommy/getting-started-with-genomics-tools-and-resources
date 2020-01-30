@@ -488,6 +488,7 @@ install.packages(pkgs)
 * [Rpub post: Handling large data sets in R](https://rpubs.com/msundar/large_data_analysis)
 * [The disk.frame package aims to be the answer to the question: how do I manipulate structured tabular data that doesn’t fit into Random Access Memory (RAM)](https://github.com/xiaodaigh/disk.frame)
 * [`dtplyr` and `tidyfast` are teaming up (well, at least in this blog post)](https://tysonbarrett.com//jekyll/update/2019/12/03/workflow_dtplyr_tidyfast/)
+* [Fast reading of delimited files with vroom](https://vroom.r-lib.org) The fastest delimited reader for R, 1.40 GB/sec/sec.
 
 ### Write your own R package
 
