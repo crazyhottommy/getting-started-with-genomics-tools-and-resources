@@ -492,7 +492,9 @@ install.packages(pkgs)
 * [The disk.frame package aims to be the answer to the question: how do I manipulate structured tabular data that doesn’t fit into Random Access Memory (RAM)](https://github.com/xiaodaigh/disk.frame)
 * [`dtplyr` and `tidyfast` are teaming up (well, at least in this blog post)](https://tysonbarrett.com//jekyll/update/2019/12/03/workflow_dtplyr_tidyfast/)
 * [Fast reading of delimited files with vroom](https://vroom.r-lib.org) The fastest delimited reader for R, 1.40 GB/sec/sec.
-
+* [stash: Naive on-disk caching in R](https://github.com/iqis/stash)
+* [qs: Quick serialization of R objects](https://github.com/traversc/qs)
+* [The fst package](https://www.fstpackage.org/) for R provides a fast, easy and flexible way to serialize data frames. With access speeds of multiple GB/s, fst is specifically designed to unlock the potential of high speed solid state disks that can be found in most modern computers. Data frames stored in the fst format have full random access, both in column and rows.
 ### Write your own R package
 
 * [usethis workflow for package development](https://www.hvitfeldt.me/2018/09/usethis-workflow-for-package-development/)
