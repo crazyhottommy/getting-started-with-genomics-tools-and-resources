@@ -1,3 +1,10 @@
+### add system env to check if you accidentally used && when comparing 2 vectors
+
+https://twitter.com/milesmcbain/status/1194029161490202625?s=12
+
+`Sys.setenv("_R_CHECK_LENGTH_1_LOGIC2_" = verbose)` and
+`Sys.setenv("_R_CHECK_LENGTH_1_CONDITION_" = TRUE)` 
+
 
 ### add a unique id for rows with the same values on columns 
 
