@@ -382,6 +382,7 @@ install.packages(pkgs)
 * [assertr](https://github.com/ropensci/assertr)
 * [Tools for Working with ...](https://ellipsis.r-lib.org)
 * [here](https://github.com/jennybc/here_here)
+* [Non-invasive pretty printing of R code: styler](https://styler.r-lib.org)
 
 ### profile R code
 
