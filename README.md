@@ -20,6 +20,7 @@
 - [Website](#website)
 - [profile R code](#profile-r-code)
 - [updating R](#updating-r)
+- [Better R code](#better-r-code)
 - [R tools for data wrangling, tidying and visualizing.](#r-tools-for-data-wrangling-tidying-and-visualizing)
 - [Sankey graph](#sankey-graph)
 - [Handling big data in R](#handling-big-data-in-r)
@@ -375,6 +376,13 @@ pkgs <- fs::dirname(fs::dir_ls("~/Library/R/3.4/library"))
 install.packages(pkgs)
 
 ```
+
+### Better R code
+
+* [assertr](https://github.com/ropensci/assertr)
+* [Tools for Working with ...](https://ellipsis.r-lib.org)
+* [here](https://github.com/jennybc/here_here)
+
 ### profile R code
 
 * [profvis](https://rstudio.github.io/profvis/) Interactive Visualizations for Profiling R Code.
