@@ -1097,3 +1097,107 @@ gg_color_hue <- function(n) {
 n = 4
 cols = gg_color_hue(n)
 ```
+### split delimited strings in a column and insert as new rows
+
+https://stackoverflow.com/questions/15347282/split-delimited-strings-in-a-column-and-insert-as-new-rows
+
+
+```{r}
+
+> library(tidyr)
+> library(dplyr)
+> mydf
+
+  V1    V2
+2  1 a,b,c
+3  2   a,c
+4  3   b,d
+5  4   e,f
+6  .     .
+
+
+> mydf %>% 
+    mutate(V2 = strsplit(as.character(V2), ",")) %>% 
+    unnest(V2)
+
+   V1 V2
+1   1  a
+2   1  b
+3   1  c
+4   2  a
+5   2  c
+6   3  b
+7   3  d
+8   4  e
+9   4  f
+```
+
+or use `seperate_rows`:
+
+```{r}
+> head(mydf)
+geneid              chrom    start  end strand  length  gene_count
+ENSG00000223972.5   chr1;chr1;chr1;chr1;chr1;chr1;chr1;chr1;chr1    11869;12010;12179;12613;12613;12975;13221;13221;13453   12227;12057;12227;12721;12697;13052;13374;14409;13670   +;+;+;+;+;+;+;+;+   1735    11
+ENSG00000227232.5   chr1;chr1;chr1;chr1;chr1;chr1;chr1;chr1;chr1;chr1;chr1  14404;15005;15796;16607;16858;17233;17606;17915;18268;24738;29534   14501;15038;15947;16765;17055;17368;17742;18061;18366;24891;29570   -;-;-;-;-;-;-;-;-;-;-   1351    380
+ENSG00000278267.1   chr1    17369   17436   -   68  14
+ENSG00000243485.4   chr1;chr1;chr1;chr1;chr1    29554;30267;30564;30976;30976   30039;30667;30667;31097;31109   +;+;+;+;+   1021    22
+ENSG00000237613.2   chr1;chr1;chr1  34554;35277;35721   35174;35481;36081   -;-;-   1187    24
+ENSG00000268020.3   chr1    52473   53312   +   840 14
+
+
+> mydf %>% separate_rows(strand, chrom, gene_start, gene_end)
+geneid  length  gene_count  strand  chrom   start   end
+ENSG00000223972.5   1735    11  +   chr1    11869   12227
+ENSG00000223972.5   1735    11  +   chr1    12010   12057
+ENSG00000223972.5   1735    11  +   chr1    12179   12227
+ENSG00000223972.5   1735    11  +   chr1    12613   12721
+ENSG00000223972.5   1735    11  +   chr1    12613   12697
+ENSG00000223972.5   1735    11  +   chr1    12975   13052
+ENSG00000223972.5   1735    11  +   chr1    13221   13374
+ENSG00000223972.5   1735    11  +   chr1    13221   14409
+ENSG00000223972.5   1735    11  +   chr1    13453   13670
+ENSG00000227232.5   1351    380 -   chr1    14404   14501
+ENSG00000227232.5   1351    380 -   chr1    15005   15038
+ENSG00000227232.5   1351    380 -   chr1    15796   15947
+ENSG00000227232.5   1351    380 -   chr1    16607   16765
+ENSG00000227232.5   1351    380 -   chr1    16858   17055
+ENSG00000227232.5   1351    380 -   chr1    17233   17368
+ENSG00000227232.5   1351    380 -   chr1    17606   17742
+ENSG00000227232.5   1351    380 -   chr1    17915   18061
+ENSG00000227232.5   1351    380 -   chr1    18268   18366
+ENSG00000227232.5   1351    380 -   chr1    24738   24891
+ENSG00000227232.5   1351    380 -   chr1    29534   29570
+ENSG00000278267.1   68  5   -   chr1    17369   17436
+ENSG00000243485.4   1021    8   +   chr1    29554   30039
+ENSG00000243485.4   1021    8   +   chr1    30267   30667
+ENSG00000243485.4   1021    8   +   chr1    30564   30667
+ENSG00000243485.4   1021    8   +   chr1    30976   31097
+ENSG00000243485.4   1021    8   +   chr1    30976   31109
+ENSG00000237613.2   1187    24  -   chr1    34554   35174
+ENSG00000237613.2   1187    24  -   chr1    35277   35481
+ENSG00000237613.2   1187    24  -   chr1    35721   36081
+ENSG00000268020.3   840 0   +   chr1    52473   53312
+```
+
+If you concern about the speed see `data.table` solutions.
+https://stackoverflow.com/questions/13773770/split-comma-separated-strings-in-a-column-into-separate-rows
+
+```{r}
+library(data.table)
+# method 1 (preferred)
+setDT(v)[, lapply(.SD, function(x) unlist(tstrsplit(x, ",", fixed=TRUE))), by = AB
+         ][!is.na(director)]
+# method 2
+setDT(v)[, strsplit(as.character(director), ",", fixed=TRUE), by = .(AB, director)
+         ][,.(director = V1, AB)]
+```
+
+or even base R
+
+```{r}
+# if 'director' is a character-column:
+stack(setNames(strsplit(df$director,','), df$AB))
+
+# if 'director' is a factor-column:
+stack(setNames(strsplit(as.character(df$director),','), df$AB))
+```
