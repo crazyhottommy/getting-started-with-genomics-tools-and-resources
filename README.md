@@ -415,6 +415,7 @@ install.packages(pkgs)
 * [Tidy Eval Meets ggplot2](http://www.onceupondata.com/2018/07/06/ggplot-tidyeval/) a blog post.
 * [Tidy evaluation in ggplot2](https://www.tidyverse.org/articles/2018/07/ggplot2-tidy-evaluation/) from tidyverse.
 * [tidyeval patterns](https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/)
+* [Tidy eval now supports glue strings](https://www.tidyverse.org/blog/2020/02/glue-strings-and-tidy-eval/)
 * [Non-standard evaluation, how tidy eval builds on base R](https://edwinth.github.io/blog/nse/)
 * [My First Steps into The World of Tidy Eval](http://www.onceupondata.com/2017/08/12/my-first-steps-into-the-world-of-tidyeval/)
 * [tidyeval shiny app](https://ijlyttle.shinyapps.io/tidyeval/)
