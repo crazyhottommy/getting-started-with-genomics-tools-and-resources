@@ -757,6 +757,7 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/everybody-knows-the-scientific-method
 
 * [Awesome youtube video for reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=youtu.be)
+* [A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility](https://github.com/karthik/ddd)
 * A must read: [Managing the analysis of high-throughput sequencing data](http://www.biorxiv.org/content/early/2017/08/29/136358)
 * [Reproducibility starts at home](http://www.jonzelner.net/statistics/make/docker/reproducibility/2016/05/31/reproducibility-pt-1/) A series of blog posts by Jon Zelner.
 * [Conda hacks for data science efficiency](http://ericmjl.com/blog/2018/12/25/conda-hacks-for-data-science-efficiency/)
