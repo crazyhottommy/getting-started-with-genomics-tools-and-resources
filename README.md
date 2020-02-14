@@ -383,6 +383,7 @@ install.packages(pkgs)
 * [Tools for Working with ...](https://ellipsis.r-lib.org)
 * [here](https://github.com/jennybc/here_here)
 * [Non-invasive pretty printing of R code: styler](https://styler.r-lib.org)
+* [Static Code Analysis for R: lintr](https://github.com/jimhester/lintr) It checks adherence to a given style, syntax errors and possible semantic issues
 
 ### profile R code
 
