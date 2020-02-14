@@ -21,6 +21,7 @@
 - [profile R code](#profile-r-code)
 - [updating R](#updating-r)
 - [Better R code](#better-r-code)
+- [Shiny App](#shiny-app)
 - [R tools for data wrangling, tidying and visualizing.](#r-tools-for-data-wrangling-tidying-and-visualizing)
 - [Sankey graph](#sankey-graph)
 - [Handling big data in R](#handling-big-data-in-r)
@@ -384,6 +385,12 @@ install.packages(pkgs)
 * [here](https://github.com/jennybc/here_here)
 * [Non-invasive pretty printing of R code: styler](https://styler.r-lib.org)
 * [Static Code Analysis for R: lintr](https://github.com/jimhester/lintr) It checks adherence to a given style, syntax errors and possible semantic issues
+
+### Shiny App
+
+* [Omicsplayground)[https://github.com/bigomics/omicsplayground]
+* A Framework for Building Robust Shiny Apps [golem](https://thinkr-open.github.io/golem/)
+
 
 ### profile R code
 
