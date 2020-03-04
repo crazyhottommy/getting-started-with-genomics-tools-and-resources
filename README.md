@@ -870,3 +870,7 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 * https://pixabay.com/
 
 
+### snakemake tutorial
+
+* https://github.com/ctb/2019-snakemake-ucdavis from Titus Brown.
+* https://hackmd.io/jXwbvOyQTqWqpuWwrpByHQ?view from Titus Brown.
