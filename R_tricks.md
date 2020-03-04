@@ -1201,3 +1201,45 @@ stack(setNames(strsplit(df$director,','), df$AB))
 # if 'director' is a factor-column:
 stack(setNames(strsplit(as.character(df$director),','), df$AB))
 ```
+
+### rowwise tidyverse
+
+```{r}
+library(tidyverse) #dplyr version >=0.8.99.9000
+world_total_pop<- world_bank_pop %>%
+        filter(indicator == "SP.POP.TOTL")
+
+head(world_total_pop)
+country indicator `2000` `2001` `2002` `2003` `2004` `2005` `2006` `2007`
+  <chr>   <chr>      <dbl>  <dbl>  <dbl>  <dbl>  <dbl>  <dbl>  <dbl>  <dbl>
+1 ABW     SP.POP.T… 9.09e4 9.29e4 9.50e4 9.70e4 9.87e4 1.00e5 1.01e5 1.01e5
+2 AFG     SP.POP.T… 2.01e7 2.10e7 2.20e7 2.31e7 2.41e7 2.51e7 2.59e7 2.66e7
+3 AGO     SP.POP.T… 1.64e7 1.70e7 1.76e7 1.82e7 1.89e7 1.96e7 2.03e7 2.10e7
+....
+
+
+## calculate the mean of 2000 to 2007
+tidyr_way<- world_total_pop %>%
+        pivot_longer(starts_with("20")) %>%
+        group_by(country) %>%
+        mutate(mean = mean(value, na.rm = TRUE)) %>%
+        pivot_wider(names_from = name)
+
+purrr_across_way<- world_total_pop %>%
+        mutate(mean = pmap_dbl(across(starts_with("20")), 
+                                      ~mean(c(...), na.rm = TRUE)))
+
+# or  https://github.com/jennybc/row-oriented-workflows/blob/master/ex09_row-summaries.md
+purrr_across_way<- world_total_pop %>%
+        mutate(mean = pmap_dbl(select(., starts_with("20")), 
+                                      ~mean(c(...), na.rm = TRUE)))
+rowwise_flat_way<- world_total_pop %>%
+        rowwise() %>%
+        mutate(mean = mean(flatten_dbl(across(starts_with("20"))), na.rm =TRUE))
+
+tidybase_way<- world_total_pop %>% 
+        mutate(mean=rowMeans(across(starts_with("20")), na.rm = TRUE))
+```
+
+check https://github.com/jennybc/row-oriented-workflows as well. 
+https://github.com/jennybc/row-oriented-workflows/blob/master/ex09_row-summaries.md
