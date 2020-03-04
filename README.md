@@ -765,6 +765,8 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility](https://github.com/karthik/ddd)
 * A must read: [Managing the analysis of high-throughput sequencing data](http://www.biorxiv.org/content/early/2017/08/29/136358)
 * [Reproducibility starts at home](http://www.jonzelner.net/statistics/make/docker/reproducibility/2016/05/31/reproducibility-pt-1/) A series of blog posts by Jon Zelner.
+* [docker intro](https://staph-b.github.io/docker-builds/)
+* [cyverse Reproducibility Tour](https://learning.cyverse.org/projects/cyverse-cyverse-reproducbility-tutorial/en/latest/index.html#)
 * [Conda hacks for data science efficiency](http://ericmjl.com/blog/2018/12/25/conda-hacks-for-data-science-efficiency/)
 * [Practical Computational Reproducibility in the Life Sciences](https://www.cell.com/cell-systems/fulltext/S2405-4712(18)30140-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471218301406%3Fshowall%3Dtrue) from Cell Systems.
 * [Analysis validation has been neglected in the Age of Reproducibility](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000070)
