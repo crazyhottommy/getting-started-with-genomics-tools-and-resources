@@ -773,22 +773,22 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 
 ##### Snakemake
 
-* Snakemake(https://github.com/snakemake/snakemake) [Docs](https://snakemake.readthedocs.io) [Publication](https://academic.oup.com/bioinformatics/article/28/19/2520/290322)
-* [Snakemake tutorial from Titus Brown](https://github.com/ctb/2019-snakemake-ucdavis)
-* [Snakemake tutorial from Titus Brown](https://hackmd.io/jXwbvOyQTqWqpuWwrpByHQ?view)
-* [snakePipes: facilitating flexible, scalable and integrative epigenomic analysis](https://github.com/maxplanck-ie/snakepipes) [Publication](https://academic.oup.com/bioinformatics/article/35/22/4757/5499080)
+* [Snakemake](https://github.com/snakemake/snakemake) [[Docs](https://snakemake.readthedocs.io)] [[Publication](https://academic.oup.com/bioinformatics/article/28/19/2520/290322)]
+* [Snakemake tutorial from Titus Brown 2019](https://github.com/ctb/2019-snakemake-ucdavis)
+* [Snakemake tutorial from Titus Brown 2020](https://hackmd.io/jXwbvOyQTqWqpuWwrpByHQ?view)
+* [snakePipes: facilitating flexible, scalable and integrative epigenomic analysis](https://github.com/maxplanck-ie/snakepipes) [[Publication](https://academic.oup.com/bioinformatics/article/35/22/4757/5499080)]
 
 I am using snakemake and so far is very happy about it!
 
 ##### Nextflow
 
-* [Nextflow](https://www.nextflow.io/) [Docs](https://www.nextflow.io/docs/latest/index.html) [Publication](https://www.nature.com/articles/nbt.3820)
-* [Nextflow DSL 2 modular syntax](https://www.nextflow.io/docs/latest/dsl2.html) [Original GitHub issue](https://github.com/nextflow-io/nextflow/issues/984)
+* [Nextflow](https://www.nextflow.io/) [[Docs](https://www.nextflow.io/docs/latest/index.html)] [[Publication](https://www.nature.com/articles/nbt.3820)]
+* [Nextflow DSL 2 modular syntax](https://www.nextflow.io/docs/latest/dsl2.html) [[Original GitHub issue](https://github.com/nextflow-io/nextflow/issues/984)]
+* [Nextflow Camp DSL 2 tutorial 2019](https://github.com/nextflow-io/nfcamp-tutorial)
 * [CZ Biohub Nextflow tutorial 2019](https://github.com/czbiohub/nextflow-tutorial-2019)
 * [Nextflow workshop tutorial 2018](https://nextflow-io.github.io/nf-hack18/)
-* [Nextflow Camp DSL 2 tutorial 2019](https://github.com/nextflow-io/nfcamp-tutorial)
 * [Nextflow pipeline examples](https://www.nextflow.io/example1.html)
-* [The nf-core framework for community-curated bioinformatics pipelines](https://nf-co.re/) [Existing Workflows](https://nf-co.re/pipelines) [Publication](https://rdcu.be/b1GjZ)
+* [The nf-core framework for community-curated bioinformatics pipelines](https://nf-co.re/) [[Existing Workflows](https://nf-co.re/pipelines)] [[Publication](https://rdcu.be/b1GjZ)]
 * [Curated list of Nextflow pipelines](https://github.com/nextflow-io/awesome-nextflow)
 * [A Nextflow pipeline assembler for genomics](https://github.com/assemblerflow/assemblerflow) and [flowcraft](https://github.com/assemblerflow/flowcraft) Now you can track both the execution of a nextflowio pipeline AND the reports that it generates in real-time! You can even follow the reports (https://tinyurl.com/y854vftf ) and the pipeline execution.
 
