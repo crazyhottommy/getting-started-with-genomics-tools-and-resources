@@ -384,6 +384,7 @@ install.packages(pkgs)
 * [assertr](https://github.com/ropensci/assertr)
 * [Tools for Working with ...](https://ellipsis.r-lib.org)
 * [here](https://github.com/jennybc/here_here)
+* [Inline testthat tests with roxygen2:roxytest](https://github.com/mikldk/roxytest)
 * [Non-invasive pretty printing of R code: styler](https://styler.r-lib.org)
 * [Static Code Analysis for R: lintr](https://github.com/jimhester/lintr) It checks adherence to a given style, syntax errors and possible semantic issues
 * [Make R a little bit stricter: strict](https://github.com/hadley/strict)
