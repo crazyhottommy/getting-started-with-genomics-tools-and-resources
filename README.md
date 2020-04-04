@@ -155,6 +155,7 @@ If you are from fields outside of biology, places to get you started:
 * [TinyTeX](https://yihui.org/tinytex/) A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live
 * Math expression http://www.math.mcgill.ca/yyang/regression/RMarkdown/example.html
 * [intro to Latex2](http://ctan.mirrors.hoobly.com/info/lshort/english/lshort.pdf) chapter 3
+* [The Bates LaTeX Manual](https://www.bates.edu/mathematics/resources/latex-manual/)
 
 ### Linux commands
 
