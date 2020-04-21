@@ -750,6 +750,7 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 * [Dataone best practise Practices](https://www.dataone.org/best-practices)
 * [Research Data Management: A Primer Publication of the National Information Standards Organization](https://groups.niso.org/apps/group_public/download.php/15375/PrimerRDM-2015-0727%E2%80%A6)
 * [Data management for biologists](https://www.tjelvarolsson.com/blog/data-management-for-biologists/) A blog post by Tjelvar Olsson. Also check his [dtool](https://dtool.readthedocs.io/en/latest/philosophy.html)
+* [peppy]([http://code.databio.org/peppy/) is a python package that provides an API for handling standardized project and sample metadata. If you define your project in Portable Encapsulated Project (PEP) format.
 
 ### Automate your workflow, open science and reproducible research
 
