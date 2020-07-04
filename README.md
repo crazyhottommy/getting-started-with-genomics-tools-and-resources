@@ -769,6 +769,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 
 ##### Reviews
 
+* [Streamlining Data-Intensive Biology With Workflow Systems](https://dib-lab.github.io/2020-workflows-paper/) Nice read from Titus Brown Group.
 * A [blog post](https://jmazz.me/blog/NGS-Workflows) comparing bash script, make, snakemake and nextflow.
 * [paper:A review of bioinformatic pipeline frameworks](http://bib.oxfordjournals.org/content/early/2016/03/23/bib.bbw020.long)
 * [Existing Workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
