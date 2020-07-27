@@ -508,7 +508,7 @@ Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
 
 * [ggalluvial](http://corybrunson.github.io/ggalluvial/index.html)
 * [ggforce](https://github.com/thomasp85/ggforce/tree/sankey) `geom_parallel_sets()`
-* [Alluvial Diagrams with ggforce]
+* [easyalluvial](https://erblast.github.io/easyalluvial/)
 
 ### Handling big data in R
 
