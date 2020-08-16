@@ -476,6 +476,8 @@ Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
 * [rematch2](https://github.com/MangoTheCat/rematch2#readme)Tidy output from regular expression matches
 * [Make waffle (square pie) charts in R](https://github.com/hrbrmstr/waffle)
 * Bring the power of R to the command line: [littler](http://dirk.eddelbuettel.com/blog/2016/08/07/#littler-0.3.1)  [Rio](https://github.com/jeroenjanssens/data-science-at-the-command-line/blob/master/tools/Rio) A wrapper by Jeroen Janssens, the author of [data science at the command line](http://datascienceatthecommandline.com/)
+* [Complexheatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/) my go-to package for static heatmaps.
+* [tidyheatmap](https://stemangiola.github.io/tidyHeatmap/articles/introduction.html) based on complexheatmap.
 * [htmlwidgets for R](http://www.htmlwidgets.org/showcase_d3heatmap.html) including `d3heatmap` for interactive heatmaps.
 * [focus() on correlations of some variables with many others](https://drsimonj.svbtle.com/how-does-one-variable-correlate-with-all-others)
 * Explore correlations in R with [corrr](https://github.com/drsimonj/corrr)
