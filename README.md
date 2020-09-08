@@ -412,6 +412,7 @@ Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
 
 * [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke.
 * [from data to vis](https://www.data-to-viz.com) From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid.
+* [Rmarkdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook)
 * [Data Visualization: A practical introduction](http://socviz.co/) A book by Kieran Healy from Duke University. Nice one to have!
 * [Functional programming and unit testing for data munging with R](http://www.brodrigues.co/fput/)
 * [R workshops](https://github.com/nuitrcs/rworkshops) some resources for R related materials.
