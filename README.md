@@ -528,6 +528,10 @@ Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
 
 ### Write your own R package
 
+* [R packages](https://r-pkgs.org/) book from Hadely.
+* [rpackages](https://github.com/jtleek/rpackages) from Jeff Leek.
+* [WRITING R PACKAGES IN RSTUDIO TUTORIAL ADAPTED FROM STIRLINGCODINGCLUB.GITHUB.IO](https://ourcodingclub.github.io/tutorials/writing-r-package/)
+* [R package development](https://combine-australia.github.io/r-pkg-dev/) This workshop was created by COMBINE, an association for Australian students in bioinformatics, computational biology and related fields.
 * [usethis workflow for package development](https://www.hvitfeldt.me/2018/09/usethis-workflow-for-package-development/)
 * [Developing R Packages with usethis and GitLab CI: Part I](https://blog.methodsconsultants.com/posts/developing-r-packages-using-gitlab-ci-part-i/)
 * [Writing an R package from scratch](https://r-mageddon.netlify.com/post/writing-an-r-package-from-scratch/) a blog post.
