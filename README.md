@@ -570,6 +570,7 @@ Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
 * [A tutorial for the free Inkscape cross-platform vector graphics editor](https://github.com/fredhutchio/inkscape-tutorial)
 * [gimp](https://www.gimp.org/downloads/) for bit-map based figures.
 * [data vis resource from Sabah](https://sabahzero.github.io/dataviz/resources)
+* [Ten simple rules to colorize biological data visualization](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259)
 
 ### Javascript
 
