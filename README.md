@@ -781,6 +781,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [Streamlining Data-Intensive Biology With Workflow Systems](https://dib-lab.github.io/2020-workflows-paper/) Nice read from Titus Brown Group.
 * A [blog post](https://jmazz.me/blog/NGS-Workflows) comparing bash script, make, snakemake and nextflow.
 * [paper:A review of bioinformatic pipeline frameworks](http://bib.oxfordjournals.org/content/early/2016/03/23/bib.bbw020.long)
+* [Building Infrastructure and Workflows for Clinical Bioinformatics Pipelines](https://www.sciencedirect.com/science/article/pii/S2589408020300156)
 * [Existing Workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
 * [Workflow management software for pipeline development in NGS](https://www.biostars.org/p/115745/)
 * [Awesome pipeline toolkit list](https://github.com/pditommaso/awesome-pipeline)
