@@ -1243,3 +1243,6 @@ tidybase_way<- world_total_pop %>%
 
 check https://github.com/jennybc/row-oriented-workflows as well. 
 https://github.com/jennybc/row-oriented-workflows/blob/master/ex09_row-summaries.md
+
+### learning rowwise() tidyverse
+https://tladeras.shinyapps.io/learning_rowwise/
