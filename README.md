@@ -70,6 +70,7 @@
 * [A Primer for Computational Biology](http://library.open.oregonstate.edu/computationalbiology/) A nice book from Oregon State University. You can get a hard copy on Amazon https://www.amazon.com/Primer-Computational-Biology-Shawn-ONeil/dp/0870719262.
 * [Computational Genomics With R](http://compgenomr.github.io/book/) A nice book from Altuna Akalin.
 * [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/) written by Prof. Susan Holmes from Stanford. I plan to read through it. a nice book using R for modern biology! looks awesome!
+* [Introduction to Data Science](https://ubc-dsci.github.io/introduction-to-datascience/index.html) A book by Tiffany-Anne. TimbersTrevor and CampbellMelissa Lee.
 * [An Introduction To Applied Bioinformatics](https://github.com/caporaso-lab/An-Introduction-To-Applied-Bioinformatics) Interactive lessons in bioinformatics
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://github.com/topepo/FES) by Kuhn and Johnson https://bookdown.org/max/FES
 * [Agile Data Science with R](https://edwinth.github.io/ADSwR/index.html)
