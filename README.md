@@ -132,6 +132,8 @@ If you are from fields outside of biology, places to get you started:
 * [fiveMinuteStats](http://stephens999.github.io/fiveMinuteStats/index.html#inference)
 * [Learning Statistics with R](https://learningstatisticswithr.com/)
 * [Statistical Modeling of High Dimensional Counts](https://mikelove.github.io/counts-model/) by Mike love on RNAseq counts modeling.
+* [Mixed models in R: a primer](https://arbor-analytics.com/post/mixed-models-a-primer/)
+* [MIXED EFFECTS COX REGRESSION](https://stats.idre.ucla.edu/r/dae/mixed-effects-cox-regression/)
 
 ### linear algebra
 
