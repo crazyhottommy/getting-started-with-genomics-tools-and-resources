@@ -445,6 +445,7 @@ Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
 * [dplry](https://github.com/hadley/dplyr)
 * [set_na_where(): a nonstandard evaluation use case](https://tjmahr.github.io/set-na-where-nonstandard-evaluation-use-case/)
 * [programming with dplyr](http://dplyr.tidyverse.org/articles/programming.html) A great read on non-standard evaluation, quoating  and qusiquotation. then the following two packages help you to deal with that.
+* [best practices for programming with ggplot2](https://fishandwhistle.net/slides/rstudioconf2020/#1)
 * [replyr](https://github.com/WinVector/replyr) An R package for fluid use of dplyr.
 * [Introduction of Parameterized dplyr expression](http://blog.eighty20.co.za//package%20exploration/2017/02/16/replyr-dplyr/) using replyr
 * [wrapr](https://github.com/WinVector/wrapr) wraps R functions debugging and better standard evaluation. `Let` function. blog post [wrapr: for sweet R code](http://www.win-vector.com/blog/2017/03/wrapr-for-sweet-r-code/)
