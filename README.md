@@ -134,6 +134,7 @@ If you are from fields outside of biology, places to get you started:
 * [Statistical Modeling of High Dimensional Counts](https://mikelove.github.io/counts-model/) by Mike love on RNAseq counts modeling.
 * [Mixed models in R: a primer](https://arbor-analytics.com/post/mixed-models-a-primer/)
 * [MIXED EFFECTS COX REGRESSION](https://stats.idre.ucla.edu/r/dae/mixed-effects-cox-regression/)
+* [mixed model/hierachical model visualized](http://mfviz.com/hierarchical-models/)
 
 ### linear algebra
 
