@@ -531,6 +531,7 @@ Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
 * [qs: Quick serialization of R objects](https://github.com/traversc/qs)
 * [The fst package](https://www.fstpackage.org/) for R provides a fast, easy and flexible way to serialize data frames. With access speeds of multiple GB/s, fst is specifically designed to unlock the potential of high speed solid state disks that can be found in most modern computers. Data frames stored in the fst format have full random access, both in column and rows.
 * The [arrow](https://github.com/apache/arrow/tree/master/r) package exposes an interface to the Arrow C++ library to access many of its features in R. This includes support for analyzing large, multi-file datasets (open_dataset()), working with individual Parquet (read_parquet(), write_parquet()) and Feather (read_feather(), write_feather()) files, as well as lower-level access to Arrow memory and messages.
+* [dm: Working with relational data models in R](https://github.com/krlmlr/dm). Use it today (if only like a list of tables). Build data models tomorrow. Deploy the data models to your organization’s RDBMS the day after.
 
 ### Write your own R package
 
