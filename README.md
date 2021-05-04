@@ -747,6 +747,7 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * [A guide for astronauts (now, programmers using Git) about what to do when things go wrong: git flight rules](https://github.com/k88hudson/git-flight-rules)
 * An opinionated intermediate/advanced Git book: [git in practise](https://github.com/GitInPractice/GitInPractice#readme)
+* [shournal](https://github.com/tycho-kirchner/shournal) Note: for a more formal introduction please read Bashing irreproducibility with shournal on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.03.232843v1). Save your bash history, record how a file is generated!
 
 ### blogs
 
