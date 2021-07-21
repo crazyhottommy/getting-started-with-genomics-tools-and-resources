@@ -90,6 +90,8 @@
 * [Cancer genomics — from bench to bedside: review papers from Nature](http://www.nature.com/collections/dswwtfkdty?BAN_NRG_1602_CANCERCOLLECTION_PORTFOLIO)
 * [SequencEnG: an Interactive Knowledge Base of Sequencing Techniques
 ](http://education.knoweng.org/sequenceng/)
+* [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) Building software that makes research possible. From Greg Wilson and Carpentries folks.
+* [Research Software Engineering with R](https://merely-useful.tech/r-rse/index.html) Building software that makes research possible
 
 ### Courses
 
