@@ -23,6 +23,7 @@
 - [Better R code](#better-r-code)
 - [Shiny App](#shiny-app)
 - [R tools for data wrangling, tidying and visualizing.](#r-tools-for-data-wrangling-tidying-and-visualizing)
+- [Genomic data visulization](#genomic-data-visulization)
 - [Sankey graph](#sankey-graph)
 - [Handling big data in R](#handling-big-data-in-r)
 - [Write your own R package](#write-your-own-r-package)
@@ -514,6 +515,12 @@ Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
 * [Technical Foundations of Informatics](https://info201-s17.github.io/book/) a free book to teach you R and many others.
 * [Efficient R programming](https://csgillespie.github.io/efficientR/)
 * [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
+
+### Genomic data visulization
+
+* [karyoploteR](https://bernatgel.github.io/karyoploter_tutorial/Tutorial/PlotCoverage/PlotCoverage.html) Really powerful and versatile tool.
+* [Bentobox](https://phanstiellab.github.io/BentoBox/index.html) BentoBox empowers users to programmatically and flexibly generate multi-panel figures. 
+
 
 ### Sankey graph
 
