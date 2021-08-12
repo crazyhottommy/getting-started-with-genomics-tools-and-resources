@@ -510,6 +510,7 @@ Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
 * [Intervene](https://bitbucket.org/CBGR/intervene) is a tool for intersection and visualization of multiple gene or genomic region sets.
 * [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 * [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)This is a course that combines video, HTML and interactive elements to teach the statistical programming language R.
+* [dabestr](https://cran.r-project.org/web/packages/dabestr/vignettes/using-dabestr.html) dabestr is a package for Data Analysis using Bootstrap-Coupled ESTimation. https://github.com/ACCLAB/dabestr
 * [These are the course notes for the Monash Bioinformatics Platform’s “R More” course](https://monashbioinformaticsplatform.github.io/r-more/)
 * [gitbook: Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/index.html)
 * [Technical Foundations of Informatics](https://info201-s17.github.io/book/) a free book to teach you R and many others.
