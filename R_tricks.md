@@ -1246,3 +1246,6 @@ https://github.com/jennybc/row-oriented-workflows/blob/master/ex09_row-summaries
 
 ### learning rowwise() tidyverse
 https://tladeras.shinyapps.io/learning_rowwise/
+
+### ggplot layout
+Manual facets: that base-R `layout()`goodness coming to ggplot2: https://teunbrand.github.io/ggh4x/articles/Facets.html#manual-facets-1
