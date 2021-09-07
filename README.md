@@ -770,6 +770,8 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 ### data management
 
 * [youtube video from softwarecarpentry](https://www.youtube.com/watch?v=3MEJ38BO6Mo)
+* [research data management: the-turing-way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html)
+* [How to FAIR](https://howtofair.dk/)
 * [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 * [Developing a modern data workflow for living data](https://www.biorxiv.org/content/early/2018/06/12/344804)
 * [online course CN-2559-BEST-PRACTICES-BIOMEDICAL-RESEARCH-DATA-MANAGEMENT](https://learn.canvas.net/courses/1854)
