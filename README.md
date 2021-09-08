@@ -825,6 +825,8 @@ I am using snakemake and so far is very happy about it!
 * [Nextflow pipeline examples](https://www.nextflow.io/example1.html)
 * [The nf-core framework for community-curated bioinformatics pipelines](https://nf-co.re/) [[Existing Workflows](https://nf-co.re/pipelines)] [[Publication](https://rdcu.be/b1GjZ)]
 * [Curated list of Nextflow pipelines](https://github.com/nextflow-io/awesome-nextflow)
+* [NGS pipelines by nextflow core](https://github.com/nf-core)
+* [nextflow tower](https://tower.nf/)
 * [A Nextflow pipeline assembler for genomics](https://github.com/assemblerflow/assemblerflow) and [flowcraft](https://github.com/assemblerflow/flowcraft) Now you can track both the execution of a nextflowio pipeline AND the reports that it generates in real-time! You can even follow the reports (https://tinyurl.com/y854vftf ) and the pipeline execution.
 
 #### Reproducible research
