@@ -405,6 +405,7 @@ also read[offensive programming Book](https://neonira.github.io/offensiveProgram
 * [Omicsplayground)[https://github.com/bigomics/omicsplayground]
 * A Framework for Building Robust Shiny Apps [golem](https://thinkr-open.github.io/golem/)
 * [bootstrapllib}(https://rstudio.github.io/bootstraplib/) Tools for styling shiny and rmarkdown from R via Bootstrap (3 or 4) Sass
+* [The Shiny AWS Book](https://business-science.github.io/shiny-production-with-aws-book/) How to set up Shiny in AWS.
 
 
 ### profile R code
