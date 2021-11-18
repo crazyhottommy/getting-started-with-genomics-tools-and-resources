@@ -892,6 +892,7 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 ** [Survival analysis of TCGA patients integrating gene expression (RNASeq) data](https://www.biostars.org/p/153013/)  
 * [survminer](http://www.sthda.com/english/wiki/survminer-0-3-0)
 * [survival analysis with TCGA](http://bioconnector.org/r-survival.html)
+* [Kaplan Meier Mistakes](https://towardsdatascience.com/kaplan-meier-mistakes-48cd9e168b09) a blog post by https://twitter.com/BencomoTomas
 
 ### Organize research for a group
 
