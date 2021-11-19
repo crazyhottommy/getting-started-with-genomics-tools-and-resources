@@ -402,10 +402,11 @@ install.packages(pkgs)
 also read[offensive programming Book](https://neonira.github.io/offensiveProgrammingBook_v1.2.1/)
 ### Shiny App
 
-* [Omicsplayground)[https://github.com/bigomics/omicsplayground]
+* [Omicsplayground[https://github.com/bigomics/omicsplayground]
 * A Framework for Building Robust Shiny Apps [golem](https://thinkr-open.github.io/golem/)
 * [bootstrapllib}(https://rstudio.github.io/bootstraplib/) Tools for styling shiny and rmarkdown from R via Bootstrap (3 or 4) Sass
-* [The Shiny AWS Book](https://business-science.github.io/shiny-production-with-aws-book/) How to set up Shiny in AWS.
+* [The Shiny AWS Book](https://business-science.github.io/shiny-production-with-aws-book/) How to set up Shiny in AWS
+* [imola](https://github.com/pedrocoutinhosilva/imola)Bridging the gap between R/shiny and CSS layouts (grid and flexbox)!
 
 
 ### profile R code
