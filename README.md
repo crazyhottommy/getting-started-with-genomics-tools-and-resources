@@ -598,6 +598,7 @@ Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
 ### python tips and tools
 
 * [some nice free python books: Think python etc](http://greenteapress.com/wp/)
+* [python learning resources](https://learnbyexample.github.io/py_resources/)
 * [Interactive python](http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index) nice interactive books help you learn python.
 * [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html#id1)
 * [intermediatePython](https://github.com/crazyhottommy/intermediatePython)
