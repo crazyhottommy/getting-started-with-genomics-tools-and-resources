@@ -277,6 +277,7 @@ It is sometimes hard to remember. one can use the letter:The letters u, g, and o
 ### Do not give me excel files!
 
 * [scary-excel-stories](https://github.com/jennybc/scary-excel-stories/blob/master/README.md)
+* [VisiData](https://www.visidata.org/)is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
 * [convert xlsx to csv: xlsx2csv](https://github.com/dilshod/xlsx2csv)
 * [csvkit](http://csvkit.readthedocs.io/en/latest/index.html#)
 * [csvtk](https://bioinf.shenwei.me/csvtk/usage/) A complete .csv/.tsv toolkit including join command.
