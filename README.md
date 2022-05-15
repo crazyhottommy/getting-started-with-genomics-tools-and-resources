@@ -617,6 +617,7 @@ Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
 ### machine learning
 
 * [Practical Machine Learning with Python: standford crowd course](http://crowdcourse.stanford.edu/ml.html)
+* [tidy modeling with R](https://www.tmwr.org/)
 
 ### Amazon cloud computing
 
