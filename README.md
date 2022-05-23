@@ -154,7 +154,7 @@ If you are from fields outside of biology, places to get you started:
 * [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)
 * [Introduction to Bayesian Statistics](https://www.youtube.com/playlist?list=PLuRpZIQQRQedb2GM2WhKSEzojGN-BIIR9) STATS331 from Brendon Brewer.  
 * [Introduction to Empirical Bayes](http://varianceexplained.org/r/empirical-bayes-book/) by David Robinson using baseball examples.  
-* [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/) github link https://github.com/rmcelreath/statrethinking_winter2019
+* [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/) github link https://github.com/rmcelreath/statrethinking_winter2019 Julia code https://shmuma.github.io/rethinking-2ed-julia/
 * [Bayesian Data Analysis demos for R](https://github.com/avehtari/BDA_R_demos)
 * [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/ajkurz/DBDA_recoded/) a book.
 
