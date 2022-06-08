@@ -113,6 +113,9 @@
 * [MIT linear algebra course by Gilbert Strang ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 * [A 2020 Vision of Linear Algebra](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm) by Gilbert Strang
 * [Generalized Additive Models in R](https://noamross.github.io/gams-in-r-course/) This short course will teach you how to use these flexible, powerful tools to model data and solve data science problems. GAMs offer offer a middle ground between simple linear models and complex machine-learning techniques, allowing you to model and understand complex systems.
+* [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
+* [Tidy Modeling with R](https://www.tmwr.org/)
+
 
 ### Some biology
 
