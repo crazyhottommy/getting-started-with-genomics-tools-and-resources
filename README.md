@@ -891,6 +891,7 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 
 ### Survival curve
 
+* tidymodels survival analysis with [censored](https://censored.tidymodels.org/) https://hfrick.github.io/rstudio-conf-2022/#/section
 * [Survival Analysis in R](http://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html) This tutorial was originally presented at the Memorial Sloan Kettering Cancer Center R-Presenters series on August 30, 2018 by [Emily](http://www.emilyzabor.com)
 * [Survival plots have never been so informative: survminer package](http://r-addict.com/2016/05/23/Informative-Survival-Plots.html)
 * posts for survival analysis:  
