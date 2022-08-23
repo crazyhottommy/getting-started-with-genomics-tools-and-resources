@@ -142,6 +142,7 @@ If you are from fields outside of biology, places to get you started:
 * [Introduction to linear mixed models](https://gkhajduk.github.io/2017-03-09-mixed-models/)
 * [MIXED EFFECTS COX REGRESSION](https://stats.idre.ucla.edu/r/dae/mixed-effects-cox-regression/)
 * [mixed model/hierachical model visualized](http://mfviz.com/hierarchical-models/)
+* [A brief introduction to mixed effects modelling and multi-model inference in ecology](https://peerj.com/articles/4794/)
 
 ### linear algebra
 
