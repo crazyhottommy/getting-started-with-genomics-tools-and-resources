@@ -934,6 +934,8 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 
 * [biorender](https://biorender.io/)
 * [The Noun Project](https://thenounproject.com/)
+* https://bioicons.com/
+* https://healthicons.org/
 * [reactome icon](https://reactome.org/icon-lib)
 * [Inovative genomic Institute glossary](https://innovativegenomics.org/resources/educational-materials/glossary/)\  
 * https://smart.servier.com/category/cellular-biology/nucleic-acids/
