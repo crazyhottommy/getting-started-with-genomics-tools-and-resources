@@ -902,6 +902,7 @@ Here is the [solution](https://storify.com/LorenaABarba/reactions-to-my-tip-on-h
 * [survminer](http://www.sthda.com/english/wiki/survminer-0-3-0)
 * [survival analysis with TCGA](http://bioconnector.org/r-survival.html)
 * [Kaplan Meier Mistakes](https://towardsdatascience.com/kaplan-meier-mistakes-48cd9e168b09) a blog post by https://twitter.com/BencomoTomas
+* [TCGA survival](https://tcga-survival.com/)
 
 ### Organize research for a group
 
