@@ -161,6 +161,7 @@ If you are from fields outside of biology, places to get you started:
 * [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/) github link https://github.com/rmcelreath/statrethinking_winter2019 Julia code https://shmuma.github.io/rethinking-2ed-julia/
 * [Bayesian Data Analysis demos for R](https://github.com/avehtari/BDA_R_demos)
 * [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/ajkurz/DBDA_recoded/) a book.
+* [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 ### Learning Latex
 
