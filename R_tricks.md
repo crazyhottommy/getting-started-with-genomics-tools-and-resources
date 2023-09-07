@@ -1249,3 +1249,13 @@ https://tladeras.shinyapps.io/learning_rowwise/
 
 ### ggplot layout
 Manual facets: that base-R `layout()`goodness coming to ggplot2: https://teunbrand.github.io/ggh4x/articles/Facets.html#manual-facets-1
+
+### add margins to the table
+
+```
+table(mtcars$cyl, mtcars$am) %>% addmargins()
+```
+
+### more control of facet in ggplot
+
+ggh4x https://github.com/teunbrand/ggh4x
