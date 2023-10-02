@@ -121,6 +121,7 @@
 
 If you are from fields outside of biology, places to get you started:
 
+* [An Owner's Guide to the Human Genome: an introduction to human population genetics, variation and disease](https://web.stanford.edu/group/pritchardlab/HGbook.html) by Jonathan Pritchard, Stanford University
 * [Tales from the Genome](https://www.udacity.com/course/tales-from-the-genome--bio110) A course by Udacity and 23andMe.
 * [The Biology of Cancer](http://garlandscience.com/product/isbn/9780815342205) A classic text book by Robert A. Weinberg. A must read for all cancer biologists.
 * [Molecular Biology of the Cell](https://www.amazon.com/Molecular-Biology-Cell-Bruce-Alberts/dp/0815341059/ref=mt_hardcover?_encoding=UTF8&me=) A text book
