@@ -97,6 +97,7 @@
 ### Courses
 
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) These MIT Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. We’ll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
+* Bioinformatics training materials from https://bioinformatics.babraham.ac.uk/training.html I like the Inkscape tutorial too
 * [applied computational genomics](https://github.com/quinlan-lab/applied-computational-genomics#course-lecture-slides) by Aaron Quinlan, the creator of bedtools and many other cool tools.
 * [BMMB 852: Applied Bioinformatics (Fall, 2016)](https://www.ialbert.me/) by Istvan Albert, the creator of [biostars](https://www.biostars.org/).
 * [JHU EN.600.649: Computational Genomics: Applied Comparative Genomics](https://github.com/schatzlab/appliedgenomics) by Michael Schatz.
