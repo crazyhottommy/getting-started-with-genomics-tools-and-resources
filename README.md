@@ -129,6 +129,7 @@ If you are from fields outside of biology, places to get you started:
 * [Learn Genetics](http://learn.genetics.utah.edu/) from University of Utah learning center.
 * [iBiology](https://www.ibiology.org) offers several different types of courses
 * [courses](https://www.khanacademy.org/science/biology) from khanacademy.org
+* [genomics for software engineer](https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes)
 
 ### Some statistics
 
