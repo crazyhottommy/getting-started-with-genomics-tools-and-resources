@@ -428,7 +428,7 @@ also read[offensive programming Book](https://neonira.github.io/offensiveProgram
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 * [What They Forgot to Teach You About R](https://whattheyforgot.org/) by Jennifer Bryan, Jim Hester. you know it is good.
 Rstudio2020 https://rstudio-conf-2020.github.io/what-they-forgot/
-
+*  An R package for simple but efficient rowwise jobs https://courtiol.github.io/lay/
 * [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke.
 * [from data to vis](https://www.data-to-viz.com) From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid.
 * [Rmarkdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook)
