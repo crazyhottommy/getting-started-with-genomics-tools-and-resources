@@ -63,6 +63,7 @@
 * [Some drawings about programming](https://drawings.jvns.ca/) Very nice cartoon demonstrating useful concepts. https://wizardzines.com/
 * [Practical computing for biologist](http://practicalcomputing.org/). One of my first books to get me started in coding.
 * [ModernDive An Introduction to Statistical and Data Sciences via R](https://ismayc.github.io/moderndiver-book/index.html)
+* [DevOps for Data Science](https://do4ds.com/) A free ebook on DevOps for data science.
 * [Introduction to Data Science](https://rafalab.github.io/dsbook/) by Rafael A. Irizarry.
 * [Learning Statistics with R](https://learningstatisticswithr.com/)
 * [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
