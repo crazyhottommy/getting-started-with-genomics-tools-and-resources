@@ -828,6 +828,7 @@ The pic was downloaded from http://biobungalow.weebly.com/bio-bungalow-blog/ever
 * [Snakemake tutorial from Titus Brown 2019](https://github.com/ctb/2019-snakemake-ucdavis)
 * [Snakemake tutorial from Titus Brown 2020](https://hackmd.io/jXwbvOyQTqWqpuWwrpByHQ?view)
 * [snakePipes: facilitating flexible, scalable and integrative epigenomic analysis](https://github.com/maxplanck-ie/snakepipes) [[Publication](https://academic.oup.com/bioinformatics/article/35/22/4757/5499080)]
+* [Snk: A Snakemake CLI and Workflow Management System](https://joss.theoj.org/papers/10.21105/joss.07410)
 
 I am using snakemake and so far is very happy about it!
 
