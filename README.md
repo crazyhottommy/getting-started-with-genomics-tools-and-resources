@@ -849,6 +849,7 @@ I am using snakemake and so far is very happy about it!
 #### Reproducible research
 
 * [Awesome youtube video for reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=youtu.be)
+*  A great book Building reproducible analytical pipelines with R https://raps-with-r.dev/preface.html
 * [A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility](https://github.com/karthik/ddd)
 * A must read: [Parallel sequencing lives, or what makes large sequencing projects successful ](https://academic.oup.com/gigascience/article/6/11/gix100/4557140)
 * [A Reproducible Data Analysis Workflow with R Markdown, Git, Make, and Docker](https://psyarxiv.com/8xzqy/) https://github.com/aaronpeikert/reproducible-research
