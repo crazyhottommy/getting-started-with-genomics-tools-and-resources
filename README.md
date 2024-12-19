@@ -848,6 +848,9 @@ I am using snakemake and so far is very happy about it!
 
 #### Reproducible research
 
+* [Data Skills for Reproducible Research](https://psyteachr.github.io/reprores-v3/)
+* [pracpac: Practical R Packaging with Docker](https://arxiv.org/abs/2303.07876)
+* [rix: Reproducible Environments with Nix](https://docs.ropensci.org/rix/) not only for R package versions but also R versions and operating systems. I will try it!
 * [Awesome youtube video for reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw&feature=youtu.be)
 *  A great book Building reproducible analytical pipelines with R https://raps-with-r.dev/preface.html
 * [A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility](https://github.com/karthik/ddd)
