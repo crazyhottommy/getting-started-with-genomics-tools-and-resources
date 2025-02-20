@@ -851,6 +851,7 @@ I am using snakemake and so far is very happy about it!
 * [SoS Workflow System Notebook environment for both interactive data analysis and batch data processing](https://vatlab.github.io/sos-docs/workflow.html#content)
 * [shournal: A (file-) journal for your shell](https://github.com/tycho-kirchner/shournal)
 * [DataLad for reproducible machine-learning analyses](https://handbook.datalad.org/en/latest/usecases/ml-analysis.html)
+* [DataLad is a free and open source distributed data management system that keeps track of your data, creates structure, ensures reproducibility, supports collaboration, and integrates with widely used data infrastructure](https://www.datalad.org/)
 * [Data Skills for Reproducible Research](https://psyteachr.github.io/reprores-v3/)
 * [pracpac: Practical R Packaging with Docker](https://arxiv.org/abs/2303.07876)
 * [rix: Reproducible Environments with Nix](https://docs.ropensci.org/rix/) not only for R package versions but also R versions and operating systems. I will try it!
