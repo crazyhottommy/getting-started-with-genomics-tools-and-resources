@@ -296,6 +296,7 @@ It is sometimes hard to remember. one can use the letter:The letters u, g, and o
 * [tabtk](https://github.com/lh3/tabtk) Toolkit for processing TAB-delimited format from Heng Li, the author of `Samtools`, `BWA` and many others.
 * [miller](https://miller.readthedocs.io/en/latest/) is a command-line tool for querying, shaping, and reformatting data files in various formats including CSV, TSV, JSON, and JSON Lines.
 * [xsv](https://github.com/BurntSushi/xsv) A fast CSV toolkit written in Rust.
+* [xan](https://github.com/medialab/xan) xan is a command line tool that can be used to process CSV files directly from the shell. In Rust.
 * [Going from a human readable Excel file to a machine-readable csv with {tidyxl}](https://www.brodrigues.co/blog/2018-09-11-human_to_machine/)
 * eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more. https://ebay.github.io/tsv-utils/
 
